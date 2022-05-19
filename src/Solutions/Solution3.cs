@@ -4,6 +4,7 @@ public partial class Solution
 {
     /// <summary>
     /// Given a string s, find the length of the longest substring without repeating characters.
+    /// <see href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">See the problem</see>
     /// </summary>
     public int LengthOfLongestSubstring(string s)
     {
