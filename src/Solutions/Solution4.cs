@@ -7,6 +7,7 @@ public partial class Solution
     /// The overall run time complexity should be O(log (m+n))
     /// <see href="https://leetcode.com/problems/median-of-two-sorted-arrays/">See the problem</see>
     /// </summary>
+    /// <remarks>Time complexity O(n*log(n))</remarks>
     public double FindMedianSortedArrays(int[] nums1, int[] nums2)
     {
         var len1 = nums1.Length;

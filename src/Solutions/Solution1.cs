@@ -8,19 +8,22 @@ public partial class Solution
     /// You can return the answer in any order.
     /// <see href="https://leetcode.com/problems/two-sum/">See the problem</see>
     /// </summary>
+    /// <remarks>Time complexity O(n)</remarks>
     public int[] TwoSum(int[] nums, int target)
     {
         var seen = new Dictionary<int, int>();
 
         for (int i = 0; i < nums.Length; i++)
         {
-            if (seen.ContainsKey(target - nums[i]))
+            var num = nums[i];
+            var diff = target - num;
+            if (seen.ContainsKey(diff))
             {
-                return new int[] { i, seen[target - nums[i]] };
+                return new int[] { i, seen[diff] };
             }
             else
             {
-                seen[nums[i]] = i;
+                seen[num] = i;
             }
         }
         return new int[2];

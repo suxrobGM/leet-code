@@ -9,6 +9,7 @@ public partial class Solution
     /// You may assume the two numbers do not contain any leading zero, except the number 0 itself.
     /// <see href="https://leetcode.com/problems/add-two-numbers/">See the problem</see>
     /// </summary>
+    /// <remarks>Time complexity O(n)</remarks>
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
     {
         if (l1 == null || l2 == null)
