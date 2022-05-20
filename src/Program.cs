@@ -3,6 +3,6 @@ using LeetCode.Solutions;
 
 var solution = new Solution();
 
-var output = solution.RemoveDuplicates(new[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 });
+var output = solution.StrStr("mississippi", "issipi");
 Console.WriteLine(output);
 Console.ReadLine();
