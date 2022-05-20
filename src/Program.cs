@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-var output = solution.TwoSum(new[] {2, 7, 11, 15}, 9);
+var output = solution.LongestCommonPrefix(new[] { "flower", "flow", "flight" });
 Console.WriteLine(output);
