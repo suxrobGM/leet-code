@@ -9,3 +9,4 @@ LeetCode problems and solutions
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C#](./src/Solutions/Solution4.cs)  | Hard     |
 | 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                  | [C#](./src/Solutions/Solution5.cs) | Medium     |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)                                  | [C#](./src/Solutions/Solution9.cs) | Easy     |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                  | [C#](./src/Solutions/Solution13.cs) | Easy     |
