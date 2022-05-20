@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace LeetCode.Solutions;
+﻿namespace LeetCode.Solutions;
 
 public partial class Solution
 {
