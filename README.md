@@ -11,3 +11,4 @@ LeetCode problems and solutions
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/)                                  | [C#](./src/Solutions/Solution9.cs) | Easy     |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                  | [C#](./src/Solutions/Solution13.cs) | Easy     |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)                                  | [C#](./src/Solutions/Solution14.cs) | Easy     |
+| 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                  | [C#](./src/Solutions/Solution20.cs) | Easy     |

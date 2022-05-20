@@ -2,5 +2,6 @@
 
 var solution = new Solution();
 
-var output = solution.LongestCommonPrefix(new[] { "flower", "flow", "flight" });
+var output = solution.IsValid("()[]{}");
 Console.WriteLine(output);
+Console.ReadLine();
