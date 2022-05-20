@@ -16,3 +16,4 @@ LeetCode problems and solutions
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                  | [C#](./src/Solutions/Solution26.cs) | Easy     |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                  | [C#](./src/Solutions/Solution27.cs) | Easy     |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                  | [C#](./src/Solutions/Solution28.cs) | Easy     |
+| 175   | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                  | [SQL](./src/Solutions/Solution175.sql) | Easy     |
