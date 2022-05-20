@@ -13,3 +13,4 @@ LeetCode problems and solutions
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)                                  | [C#](./src/Solutions/Solution14.cs) | Easy     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                  | [C#](./src/Solutions/Solution20.cs) | Easy     |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  | [C#](./src/Solutions/Solution21.cs) | Easy     |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                  | [C#](./src/Solutions/Solution26.cs) | Easy     |
