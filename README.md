@@ -19,5 +19,6 @@ LeetCode problems and solutions
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                  | [C#](./src/Solutions/Solution35.cs) | Easy     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                  | [C#](./src/Solutions/Solution53.cs) | Easy     |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                  | [C#](./src/Solutions/Solution58.cs) | Easy     |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                  | [C#](./src/Solutions/Solution66.cs) | Easy     |
 | 175   | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                  | [SQL](./src/Solutions/Solution175.sql) | Easy     |
 | 181   | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                                  | [SQL](./src/Solutions/Solution181.sql) | Easy     |
