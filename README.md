@@ -17,5 +17,6 @@ LeetCode problems and solutions
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                  | [C#](./src/Solutions/Solution27.cs) | Easy     |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                  | [C#](./src/Solutions/Solution28.cs) | Easy     |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                  | [C#](./src/Solutions/Solution35.cs) | Easy     |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                  | [C#](./src/Solutions/Solution53.cs) | Easy     |
 | 175   | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                  | [SQL](./src/Solutions/Solution175.sql) | Easy     |
 | 181   | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                                  | [SQL](./src/Solutions/Solution181.sql) | Easy     |
