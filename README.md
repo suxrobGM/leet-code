@@ -27,5 +27,6 @@ LeetCode problems and solutions
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](./src/Java/Solutions/Solution100.java) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/SQL/Solution181.sql) | Easy |
