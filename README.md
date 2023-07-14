@@ -28,5 +28,7 @@ LeetCode problems and solutions
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](./src/Java/Solutions/Solution100.java) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./src/Java/Solutions/Solution104.java) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/SQL/Solution181.sql) | Easy |
