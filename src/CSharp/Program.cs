@@ -1,7 +1,7 @@
 ﻿using LeetCode.Solutions;
 
-var solution = new Solution7();
+var solution = new Solution8();
 
-var output = solution.Reverse(1000000009);
+var output = solution.MyAtoi("18446744073709551617");
 Console.WriteLine(output);
 Console.ReadLine();
