@@ -6,7 +6,7 @@ public class Solution67
 {
     /// <summary>
     /// Given two binary strings a and b, return their sum as a binary string.
-    /// <see href="https://leetcode.com/problems/add-binary/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/add-binary/">See the problem</a>
     /// </summary>
     public string AddBinary(string a, string b)
     {

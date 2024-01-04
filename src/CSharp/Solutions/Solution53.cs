@@ -5,7 +5,7 @@ public class Solution53
     /// <summary>
     /// Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
     /// A subarray is a contiguous part of an array.
-    /// <see href="https://leetcode.com/problems/maximum-subarray/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/maximum-subarray/">See the problem</a>
     /// </summary>
     public int MaxSubArray(int[] nums)
     {

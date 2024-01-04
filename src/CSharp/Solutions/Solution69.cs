@@ -8,7 +8,7 @@ public class Solution69
     /// Given a non-negative integer x, compute and return the square root of x.
     /// Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned.
     /// Note: You are not allowed to use any built-in exponent function or operator, such as pow(x, 0.5) or x ** 0.5.
-    /// <see href="https://leetcode.com/problems/sqrtx/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/sqrtx/">See the problem</a>
     /// </summary>
     public int MySqrt(int x)
     {

@@ -8,7 +8,7 @@ public class Solution28
     /// Clarification:
     /// What should we return when needle is an empty string? This is a great question to ask during an interview.
     /// For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
-    /// <see href="https://leetcode.com/problems/implement-strstr/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/implement-strstr/">See the problem</a>
     /// </summary>
     public int StrStr(string haystack, string needle)
     {

@@ -6,7 +6,7 @@ public class Solution9
     /// Given an integer x, return true if x is palindrome integer.
     /// An integer is a palindrome when it reads the same backward as forward.
     /// For example, 121 is a palindrome while 123 is not.
-    /// <see href="https://leetcode.com/problems/palindrome-number/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/palindrome-number/">See the problem</a>
     /// </summary>
     /// <remarks>Time complexity O(n)</remarks>
     public bool IsPalindrome(int x)

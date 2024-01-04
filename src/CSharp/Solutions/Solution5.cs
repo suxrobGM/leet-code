@@ -4,7 +4,7 @@ public class Solution5
 {
     /// <summary>
     /// Given a string s, return the longest palindromic substring in s.
-    /// <see href="https://leetcode.com/problems/longest-palindromic-substring/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/longest-palindromic-substring/">See the problem</a>
     /// </summary>
     /// <remarks>Best case O(n), worst case O(n^3)</remarks>
     public string LongestPalindrome(string s)

@@ -7,7 +7,7 @@ public class Solution20
     /// An input string is valid if:
     /// 1) Open brackets must be closed by the same type of brackets.
     /// 2) Open brackets must be closed in the correct order.
-    /// <see href="https://leetcode.com/problems/valid-parentheses/">See the problem</see>
+    /// <a href="https://leetcode.com/problems/valid-parentheses/">See the problem</a>
     /// </summary>
     public bool IsValid(string s)
     {
