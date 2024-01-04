@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution20
 {
     /// <summary>
     /// Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.

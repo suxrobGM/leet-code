@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution3
 {
     /// <summary>
     /// Given a string s, find the length of the longest substring without repeating characters.

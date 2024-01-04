@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution5
 {
     /// <summary>
     /// Given a string s, return the longest palindromic substring in s.

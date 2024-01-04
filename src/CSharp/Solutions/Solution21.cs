@@ -1,6 +1,8 @@
-﻿namespace LeetCode.Solutions;
+﻿using LeetCode.DataStructures;
 
-public partial class Solution
+namespace LeetCode.Solutions;
+
+public class Solution21
 {
     /// <summary>
     /// You are given the heads of two sorted linked lists list1 and list2.

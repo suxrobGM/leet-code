@@ -1,6 +1,8 @@
-﻿namespace LeetCode.Solutions;
+﻿using LeetCode.DataStructures;
 
-public partial class Solution
+namespace LeetCode.Solutions;
+
+public class Solution2
 {
     /// <summary>
     /// You are given two non-empty linked lists representing two non-negative integers.

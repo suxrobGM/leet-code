@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution9
 {
     /// <summary>
     /// Given an integer x, return true if x is palindrome integer.

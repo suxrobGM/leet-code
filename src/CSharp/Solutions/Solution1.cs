@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution1
 {
     /// <summary>
     /// Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.

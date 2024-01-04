@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution28
 {
     /// <summary>
     /// Implement strStr().

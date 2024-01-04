@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution14
 {
     /// <summary>
     /// Write a function to find the longest common prefix string amongst an array of strings.

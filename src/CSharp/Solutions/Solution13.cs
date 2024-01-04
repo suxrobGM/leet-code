@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution13
 {
     /// <summary>
     /// Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

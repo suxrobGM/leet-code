@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution53
 {
     /// <summary>
     /// Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.

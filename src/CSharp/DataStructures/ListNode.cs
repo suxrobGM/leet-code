@@ -1,4 +1,4 @@
-﻿namespace LeetCode;
+﻿namespace LeetCode.DataStructures;
 
 public class ListNode
 {

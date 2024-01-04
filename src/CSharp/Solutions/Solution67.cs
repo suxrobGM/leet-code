@@ -2,7 +2,7 @@
 
 namespace LeetCode.Solutions;
 
-public partial class Solution
+public class Solution67
 {
     /// <summary>
     /// Given two binary strings a and b, return their sum as a binary string.
