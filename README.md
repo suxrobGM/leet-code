@@ -11,7 +11,8 @@ LeetCode problems and solutions
 | 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C#](./src/CSharp/Solutions/Solution6.cs) | Medium |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](./src/CSharp/Solutions/Solution7.cs) | Medium |
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C#](./src/CSharp/Solutions/Solution8.cs) | Medium |
-| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/) | [C#](./src/CSharp/Solutions/Solution9.cs) | Easy |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](./src/CSharp/Solutions/Solution9.cs) | Easy |
+| 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](./src/CSharp/Solutions/Solution10.cs) | Hard |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](./src/CSharp/Solutions/Solution13.cs) | Easy |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [C#](./src/CSharp/Solutions/Solution14.cs) | Easy |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./src/CSharp/Solutions/Solution20.cs) | Easy |
