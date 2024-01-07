@@ -9,7 +9,7 @@ public class Solution13
     /// <remarks>Time complexity O(n)</remarks>
     public int RomanToInt(string s)
     {
-        var romansSet = new Dictionary<char, int>()
+        var romansMap = new Dictionary<char, int>()
         {
             {'I', 1 },
             {'V', 5 },
@@ -20,30 +20,30 @@ public class Solution13
             {'M', 1000 },
         };
 
-        int res = 0;
+        var result = 0;
 
-        for (int i = 0; i < s.Length; i++)
+        for (var i = 0; i < s.Length; i++)
         {
             var currentChar = s[i];
             
             if (i == s.Length - 1)
             {
-                res += romansSet[currentChar];
+                result += romansMap[currentChar];
                 break;
             }
 
             var nextChar = s[i + 1];
 
-            if (romansSet[currentChar] >= romansSet[nextChar])
+            if (romansMap[currentChar] >= romansMap[nextChar])
             {
-                res += romansSet[currentChar];
+                result += romansMap[currentChar];
             }
             else
             {
-                res -= romansSet[currentChar];
+                result -= romansMap[currentChar];
             }
         }
 
-        return res;
+        return result;
     }
 }

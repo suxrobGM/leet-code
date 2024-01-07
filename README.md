@@ -14,6 +14,7 @@ LeetCode problems and solutions
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](./src/CSharp/Solutions/Solution9.cs) | Easy |
 | 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](./src/CSharp/Solutions/Solution10.cs) | Hard |
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](./src/CSharp/Solutions/Solution11.cs) | Medium |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C#](./src/CSharp/Solutions/Solution12.cs) | Medium |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](./src/CSharp/Solutions/Solution13.cs) | Easy |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [C#](./src/CSharp/Solutions/Solution14.cs) | Easy |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./src/CSharp/Solutions/Solution20.cs) | Easy |
