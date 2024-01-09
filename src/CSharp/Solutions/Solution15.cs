@@ -42,23 +42,23 @@ public class Solution15
         
         return tripletsList;
     }
-}
-
-public readonly record struct Triplet
-{
-    public Triplet(int num1, int num2, int num3)
-    {
-        var min = Math.Min(num1, Math.Min(num2, num3));
-        var max = Math.Max(num1, Math.Max(num2, num3));
-        var mid = num1 + num2 + num3 - (min + max);
-        Num1 = min;
-        Num2 = mid;
-        Num3 = max;
-    }
     
-    public int Num1 { get; }
-    public int Num2 { get; }
-    public int Num3 { get; }
+    private readonly record struct Triplet
+    {
+        public Triplet(int num1, int num2, int num3)
+        {
+            var min = Math.Min(num1, Math.Min(num2, num3));
+            var max = Math.Max(num1, Math.Max(num2, num3));
+            var mid = num1 + num2 + num3 - (min + max);
+            Num1 = min;
+            Num2 = mid;
+            Num3 = max;
+        }
+    
+        public int Num1 { get; }
+        public int Num2 { get; }
+        public int Num3 { get; }
 
-    public IList<int> ToList() => [Num1, Num2, Num3];
+        public IList<int> ToList() => [Num1, Num2, Num3];
+    }
 }
