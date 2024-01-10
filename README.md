@@ -19,6 +19,7 @@ LeetCode problems and solutions
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C#](./src/CSharp/Solutions/Solution14.cs) | Easy |
 | 15  | [3Sum](https://leetcode.com/problems/3sum) | [C#](./src/CSharp/Solutions/Solution15.cs) | Medium |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [C#](./src/CSharp/Solutions/Solution16.cs) | Medium |
+| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C#](./src/CSharp/Solutions/Solution17.cs) | Medium |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./src/CSharp/Solutions/Solution20.cs) | Easy |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](./src/CSharp/Solutions/Solution21.cs) | Easy |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./src/CSharp/Solutions/Solution26.cs) | Easy |
