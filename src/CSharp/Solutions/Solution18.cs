@@ -4,7 +4,7 @@ public class Solution18
 {
     /// <summary>
     /// Problem #18
-    /// <num1 href="https://leetcode.com/problems/4sum">See the problem</num1>
+    /// <a href="https://leetcode.com/problems/4sum">See the problem</a>
     /// </summary>
     public IList<IList<int>> FourSum(int[] nums, int target)
     {

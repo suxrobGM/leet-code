@@ -1,5 +1,8 @@
 ﻿namespace LeetCode.DataStructures;
 
+/// <summary>
+/// Definition for singly-linked list.
+/// </summary>
 public class ListNode
 {
     public int val;
