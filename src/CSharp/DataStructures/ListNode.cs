@@ -1,4 +1,6 @@
-﻿namespace LeetCode.DataStructures;
+﻿using System.Text;
+
+namespace LeetCode.DataStructures;
 
 /// <summary>
 /// Definition for singly-linked list.
@@ -12,5 +14,25 @@ public class ListNode
     {
         this.val = val;
         this.next = next;
+    }
+
+    public override string ToString()
+    {
+        var strBuilder = new StringBuilder();
+        var head = this;
+        
+        while (head != null)
+        {
+            strBuilder.Append(head.val);
+
+            if (head.next != null)
+            {
+                strBuilder.Append(" => ");
+            }
+            
+            head = head.next;
+        }
+        
+        return strBuilder.ToString();
     }
 }
