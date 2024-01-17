@@ -8,23 +8,43 @@ public class Solution29
     /// </summary>
     public int Divide(int dividend, int divisor)
     {
-        var divisorSign = divisor < 0 ? -1 : 1;
-        var dividendSign = dividend < 0 ? -1 : 1;
-        dividend = Math.Abs(dividend);
-        divisor = Math.Abs(divisor);
-        var quotient = divisor == 1 ? 1 : 0;
-        
-        if (dividend == 0 || divisor > dividend)
+        // Handle overflow case
+        if (dividend == int.MinValue && divisor == -1) 
         {
-            return 0;
+            return int.MaxValue;
         }
 
-        while (dividend > 1)
-        {
-            dividend -= divisor;
-            quotient++;
-        }
+        // Convert both numbers to long to avoid overflow issues
+        var dividendLong = Math.Abs((long)dividend);
+        var divisorLong = Math.Abs((long)divisor);
+
+        // Determine the sign of the result
+        var sign = (dividend < 0) ^ (divisor < 0) ? -1 : 1;
+        long quotient = 0;
         
-        return quotient * dividendSign * divisorSign;
+        while (dividendLong >= divisorLong)
+        {
+            var value = divisorLong;
+            var multiple = 1L;
+            
+            while (dividendLong >= value << 1) 
+            {
+                value <<= 1;
+                multiple <<= 1;
+            }
+            
+            dividendLong -= value;
+            quotient += multiple;
+        }
+
+        // Apply the sign and handle overflow if any
+        var result = sign * quotient;
+        
+        return result switch
+        {
+            > int.MaxValue => int.MaxValue,
+            < int.MinValue => int.MinValue,
+            _ => (int)result
+        };
     }
 }

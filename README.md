@@ -29,7 +29,8 @@ LeetCode problems and solutions
 | 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C#](./src/CSharp/Solutions/Solution24.cs) | Medium |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./src/CSharp/Solutions/Solution26.cs) | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./src/CSharp/Solutions/Solution27.cs) | Easy |
-| 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [C#](./src/CSharp/Solutions/Solution28.cs) | Easy |
+| 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)  | [C#](./src/CSharp/Solutions/Solution28.cs) | Easy |
+| 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [C#](./src/CSharp/Solutions/Solution29.cs) | Medium |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](./src/CSharp/Solutions/Solution35.cs) | Easy |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |

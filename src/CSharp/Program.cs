@@ -4,7 +4,7 @@ using LeetCode.Solutions;
 
 var solution = new Solution29();
 
-var output = solution.Divide(1, 1);
+var output = solution.Divide(2147483647, 3);
 Debug.Assert(solution.Divide(1, 1) == 1);
 Debug.Assert(solution.Divide(1, -1) == -1);
 Debug.Assert(solution.Divide(0, 1) == 0);
