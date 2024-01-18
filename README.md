@@ -31,6 +31,7 @@ LeetCode problems and solutions
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./src/CSharp/Solutions/Solution27.cs) | Easy |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)  | [C#](./src/CSharp/Solutions/Solution28.cs) | Easy |
 | 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [C#](./src/CSharp/Solutions/Solution29.cs) | Medium |
+| 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  | [C#](./src/CSharp/Solutions/Solution30.cs) | Hard |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C#](./src/CSharp/Solutions/Solution35.cs) | Easy |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |
