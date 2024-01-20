@@ -1,5 +1,5 @@
 type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string]: JSONValue };
-type Fn = (value: JSONValue) => number
+type Fn = (value: JSONValue) => number;
 
 /**
  * 2724. Sort By

@@ -50,3 +50,5 @@ LeetCode problems and solutions
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/SQL/Solution181.sql) | Easy |
+| 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |

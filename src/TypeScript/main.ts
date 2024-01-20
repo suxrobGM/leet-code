@@ -1,4 +1,5 @@
-import { sortBy } from './solutions/solution2724';
+import { addTwoPromises } from './solutions/solution2723';
 
-const output = sortBy([5, 4, 1, 2, 3], (x) => x as number);
-console.log(output);
+const output = addTwoPromises(new Promise(resolve => setTimeout(() => resolve(2), 20)), new Promise(resolve => setTimeout(() => resolve(5), 60)));
+output.then((value) => console.log(value));
+console.log();
