@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "LeetCode problem solutions in TypeScript",
+  "author": "Sukhrob Ilyosbekov",
+  "license": "ISC",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "npx nodemon main.ts",
+    "start": "npx ts-node main.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
