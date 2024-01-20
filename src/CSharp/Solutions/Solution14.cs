@@ -15,9 +15,9 @@ public class Solution14
         }
 
         var prefix = strs[0];
-        for (int i = 1; i < strs.Length; i++)
+        for (var i = 1; i < strs.Length; i++)
         {
-            while (strs[i].IndexOf(prefix) != 0)
+            while (!strs[i].StartsWith(prefix, StringComparison.Ordinal))
             {
                 prefix = prefix.Substring(0, prefix.Length - 1);
 
