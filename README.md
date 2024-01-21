@@ -41,6 +41,7 @@ LeetCode problems and solutions
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/) | [C#](./src/CSharp/Solutions/Solution67.cs) | Easy |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C#](./src/CSharp/Solutions/Solution69.cs) | Easy |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./src/Java/Solutions/Solution70.java) | Easy |
+| 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
