@@ -44,6 +44,7 @@ LeetCode problems and solutions
 | 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C#](./src/CSharp/Solutions/Solution88.cs) | Easy |
 | 94  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](./src/Java/Solutions/Solution100.java) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
