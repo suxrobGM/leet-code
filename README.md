@@ -50,6 +50,7 @@ LeetCode problems and solutions
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./src/Java/Solutions/Solution104.java) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C#](./src/CSharp/Solutions/Solution121.cs) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/SQL/Solution181.sql) | Easy |

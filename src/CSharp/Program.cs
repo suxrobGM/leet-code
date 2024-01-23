@@ -2,8 +2,7 @@
 using LeetCode.DataStructures;
 using LeetCode.Solutions;
 
-var solution = new Solution80();
-
-var output = solution.RemoveDuplicates2([0,0,1,1,1,1,2,3,3]);
+var solution = new Solution121();
+var output = solution.MaxProfit([7,1,5,3,6,4]);
 Console.WriteLine(output);
 Console.ReadLine();
