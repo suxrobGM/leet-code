@@ -65,6 +65,13 @@ public class Solution80
         return newLength;
     }
 
+    /// <summary>
+    /// Shift array elements to right by k steps
+    /// </summary>
+    /// <param name="array">Array of integers</param>
+    /// <param name="startIndex">Start index of array portion</param>
+    /// <param name="lastIndex">Last index of array portion</param>
+    /// <param name="shiftCount">Number of steps to shift elements to right</param>
     private void ShiftRight(int[] array, int startIndex, int lastIndex, int shiftCount)
     {
         var segmentSize = lastIndex - startIndex + 1;

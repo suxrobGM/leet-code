@@ -53,5 +53,6 @@ LeetCode problems and solutions
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](./src/SQL/Solution181.sql) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |
