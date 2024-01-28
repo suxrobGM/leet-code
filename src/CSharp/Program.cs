@@ -1,6 +1,6 @@
 ﻿using LeetCode.Solutions;
 
-var solution = new Solution55();
-var output = solution.CanJump([3,2,1,0,4]);
+var solution = new Solution238();
+var output = solution.ProductExceptSelf([1,2,3,4]);
 Console.WriteLine(output);
 Console.ReadLine();
