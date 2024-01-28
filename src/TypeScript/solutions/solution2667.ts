@@ -1,5 +1,3 @@
-type P = Promise<number>;
-
 /**
  * 2667. Create Hello World Function
  * 
