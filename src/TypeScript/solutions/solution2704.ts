@@ -23,4 +23,4 @@ export function expect(val1: any): ToBeOrNotToBe {
       return true;
     },
   };
-};
+}

@@ -62,6 +62,7 @@ LeetCode problems and solutions
 | 274 | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./src/TypeScript/solutions/solution2626.ts) | Easy |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [TypeScript](./src/TypeScript/solutions/solution2629.ts) | Easy |
@@ -72,5 +73,7 @@ LeetCode problems and solutions
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [TypeScript](./src/TypeScript/solutions/solution2667.ts) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [TypeScript](./src/TypeScript/solutions/solution2703.ts) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | [TypeScript](./src/TypeScript/solutions/solution2704.ts) | Easy |
+| 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2715.ts) | Easy |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |
+| 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2725.ts) | Easy |
