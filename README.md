@@ -71,9 +71,11 @@ LeetCode problems and solutions
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii) | [TypeScript](./src/TypeScript/solutions/solution2665.ts) | Easy |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [TypeScript](./src/TypeScript/solutions/solution2666.ts) | Easy |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [TypeScript](./src/TypeScript/solutions/solution2667.ts) | Easy |
+| 2677 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last) | [TypeScript](./src/TypeScript/solutions/solution2677.ts) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [TypeScript](./src/TypeScript/solutions/solution2703.ts) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | [TypeScript](./src/TypeScript/solutions/solution2704.ts) | Easy |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2715.ts) | Easy |
+| 2722 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | [TypeScript](./src/TypeScript/solutions/solution2722.ts) | Easy |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2725.ts) | Easy |
