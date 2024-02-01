@@ -72,6 +72,7 @@ LeetCode problems and solutions
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [TypeScript](./src/TypeScript/solutions/solution2666.ts) | Easy |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [TypeScript](./src/TypeScript/solutions/solution2667.ts) | Easy |
 | 2677 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last) | [TypeScript](./src/TypeScript/solutions/solution2677.ts) | Easy |
+| 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper) | [TypeScript](./src/TypeScript/solutions/solution2695.ts) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [TypeScript](./src/TypeScript/solutions/solution2703.ts) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | [TypeScript](./src/TypeScript/solutions/solution2704.ts) | Easy |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2715.ts) | Easy |
