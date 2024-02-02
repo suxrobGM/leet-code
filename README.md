@@ -80,3 +80,4 @@ LeetCode problems and solutions
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2725.ts) | Easy |
+| 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | [TypeScript](./src/TypeScript/solutions/solution2726.ts) | Easy |
