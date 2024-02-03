@@ -68,6 +68,7 @@ LeetCode problems and solutions
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [TypeScript](./src/TypeScript/solutions/solution2629.ts) | Easy |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | [TypeScript](./src/TypeScript/solutions/solution2634.ts) | Easy |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | [TypeScript](./src/TypeScript/solutions/solution2635.ts) | Easy |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2637.ts) | Easy |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii) | [TypeScript](./src/TypeScript/solutions/solution2665.ts) | Easy |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [TypeScript](./src/TypeScript/solutions/solution2666.ts) | Easy |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [TypeScript](./src/TypeScript/solutions/solution2667.ts) | Easy |
