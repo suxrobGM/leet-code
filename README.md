@@ -67,9 +67,10 @@ LeetCode problems and solutions
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./src/TypeScript/solutions/solution2626.ts) | Easy |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [TypeScript](./src/TypeScript/solutions/solution2629.ts) | Easy |
+| 2631 | [Group By](https://leetcode.com/problems/group-by) | [TypeScript](./src/TypeScript/solutions/solution2631.ts) | Medium |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | [TypeScript](./src/TypeScript/solutions/solution2634.ts) | Easy |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | [TypeScript](./src/TypeScript/solutions/solution2635.ts) | Easy |
-| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2637.ts) | Easy |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2637.ts) | Medium |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii) | [TypeScript](./src/TypeScript/solutions/solution2665.ts) | Easy |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [TypeScript](./src/TypeScript/solutions/solution2666.ts) | Easy |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [TypeScript](./src/TypeScript/solutions/solution2667.ts) | Easy |
