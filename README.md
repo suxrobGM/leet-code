@@ -66,6 +66,7 @@ LeetCode problems and solutions
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./src/TypeScript/solutions/solution2626.ts) | Easy |
+| 2627 | [Debounce](https://leetcode.com/problems/debounce) | [TypeScript](./src/TypeScript/solutions/solution2627.ts) | Medium |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [TypeScript](./src/TypeScript/solutions/solution2629.ts) | Easy |
 | 2631 | [Group By](https://leetcode.com/problems/group-by) | [TypeScript](./src/TypeScript/solutions/solution2631.ts) | Medium |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | [TypeScript](./src/TypeScript/solutions/solution2634.ts) | Easy |
@@ -79,6 +80,7 @@ LeetCode problems and solutions
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [TypeScript](./src/TypeScript/solutions/solution2703.ts) | Easy |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | [TypeScript](./src/TypeScript/solutions/solution2704.ts) | Easy |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [TypeScript](./src/TypeScript/solutions/solution2715.ts) | Easy |
+| 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [TypeScript](./src/TypeScript/solutions/solution2721.ts) | Medium |
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id) | [TypeScript](./src/TypeScript/solutions/solution2722.ts) | Medium |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [TypeScript](./src/TypeScript/solutions/solution2723.ts) | Easy |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [TypeScript](./src/TypeScript/solutions/solution2724.ts) | Easy |
