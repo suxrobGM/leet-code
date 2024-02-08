@@ -7,6 +7,7 @@ LeetCode problems and solutions
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C#](./src/CSharp/Solutions/Solution2.cs) | Medium |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C#](./src/CSharp/Solutions/Solution3.cs)  | Medium |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C#](./src/CSharp/Solutions/Solution4.cs)  | Hard |
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Java](./src/Java/Solutions/Solution4.java)  | Hard |
 | 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [C#](./src/CSharp/Solutions/Solution5.cs) | Medium |
 | 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | [C#](./src/CSharp/Solutions/Solution6.cs) | Medium |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C#](./src/CSharp/Solutions/Solution7.cs) | Medium |
