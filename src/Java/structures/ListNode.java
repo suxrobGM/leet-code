@@ -1,4 +1,4 @@
-package Java;
+package structures;
 
 public class ListNode {
     public int val;

@@ -66,6 +66,7 @@ LeetCode problems and solutions
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./src/TypeScript/solutions/solution2625.ts) | Medium |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./src/TypeScript/solutions/solution2626.ts) | Easy |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce) | [TypeScript](./src/TypeScript/solutions/solution2627.ts) | Medium |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [TypeScript](./src/TypeScript/solutions/solution2629.ts) | Easy |

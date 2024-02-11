@@ -1,6 +1,6 @@
-package Java.Solutions;
+package solutions;
 
-import Java.TreeNode;
+import structures.TreeNode;
 
 public class Solution108 {
     /**

@@ -1,4 +1,4 @@
-package Java.Solutions;
+package solutions;
 
 public class Solution88 {
     /**

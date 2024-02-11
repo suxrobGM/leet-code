@@ -1,6 +1,6 @@
-package Java.Solutions;
+package solutions;
 
-import Java.ListNode;
+import structures.ListNode;
 
 class Solution83 {
     /**

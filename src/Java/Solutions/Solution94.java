@@ -1,8 +1,8 @@
-package Java.Solutions;
+package solutions;
 
 import java.util.ArrayList;
 import java.util.List;
-import Java.TreeNode;
+import structures.TreeNode;
 
 public class Solution94 {
     /**
