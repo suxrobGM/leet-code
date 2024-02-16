@@ -57,6 +57,7 @@ LeetCode problems and solutions
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](./src/CSharp/Solutions/Solution122.cs) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
