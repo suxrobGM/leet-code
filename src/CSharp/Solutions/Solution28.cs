@@ -45,4 +45,37 @@ public class Solution28
 
         return -1;
     }
+    
+    public int StrStr2(string haystack, string needle)
+    {
+        if (string.IsNullOrEmpty(needle))
+        {
+            return 0;
+        }
+        
+        for (var i = 0; i < haystack.Length - needle.Length + 1; i++)
+        {
+            if (haystack.Substring(i, needle.Length) == needle)
+            {
+                return i;
+            }
+        }
+        
+        return -1;
+    }
+    
+    public int StrStr3(string haystack, string needle)
+    {
+        if (string.IsNullOrEmpty(needle))
+        {
+            return 0;
+        }
+
+        if (needle.Length > haystack.Length)
+        {
+            return -1;
+        }
+
+        return haystack.IndexOf(needle, StringComparison.Ordinal); 
+    }
 }
