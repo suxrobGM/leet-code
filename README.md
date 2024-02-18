@@ -28,6 +28,7 @@ LeetCode problems and solutions
 | 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [C#](./src/CSharp/Solutions/Solution22.cs) | Medium |
 | 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C#](./src/CSharp/Solutions/Solution23.cs) | Hard |
 | 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C#](./src/CSharp/Solutions/Solution24.cs) | Medium |
+| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [C#](./src/CSharp/Solutions/Solution25.cs) | Hard |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C#](./src/CSharp/Solutions/Solution26.cs) | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element) | [C#](./src/CSharp/Solutions/Solution27.cs) | Easy |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)  | [C#](./src/CSharp/Solutions/Solution28.cs) | Easy |
@@ -58,6 +59,7 @@ LeetCode problems and solutions
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
