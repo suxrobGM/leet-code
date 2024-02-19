@@ -15,7 +15,7 @@ public static class LinkedListUtils
         {
             // Add the new node to the front of the list
             newNode.Next = list.Head;
-            list.Head.Next = newNode; 
+            list.Head = newNode;
         }
     }
     

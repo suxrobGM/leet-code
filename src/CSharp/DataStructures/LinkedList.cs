@@ -17,9 +17,10 @@ public class LinkedList<T>
     public Node? Head { get; set; }
     public Node? Tail { get; set; }
     
-    /**
-     * Adds a new node with the specified value to the beginning of the list.
-     */
+    // <summary>
+    /// Adds a new node with the specified value to the beginning of the LinkedList.
+    /// </summary>
+    /// <param name="value">The value to add to the LinkedList.</param>
     public void AddFirst(T value)
     {
         var newNode = new Node(value);
@@ -31,9 +32,10 @@ public class LinkedList<T>
         Tail ??= newNode;
     }
 
-    /**
-     * Adds a new node with the specified value to the end of the list.
-     */
+    /// <summary>
+    /// Adds a new node with the specified value to the end of the LinkedList.
+    /// </summary>
+    /// <param name="value">The value to add to the LinkedList.</param>
     public void AddLast(T value)
     {
         var newNode = new Node(value);
@@ -45,9 +47,10 @@ public class LinkedList<T>
         Head ??= newNode;
     }
 
-    /**
-     * Removes the first node from the list and returns its value.
-     */
+    /// <summary>
+    /// Removes the first node from the list and returns its value.
+    /// </summary>
+    /// <returns>The value of the first node if it exists, otherwise default value of T.</returns>
     public T? RemoveFirst()
     {
         if (Head is null)
@@ -64,10 +67,11 @@ public class LinkedList<T>
         }
         return value;
     }
-
-    /**
-     * Removes the last node from the list and returns its value.
-     */
+    
+    /// <summary>
+    /// Removes the first occurrence of the specified item from the LinkedList.
+    /// </summary>
+    /// <param name="item">The item to remove from the LinkedList.</param>
     public void Remove(T item)
     {
         if (Head is null)
@@ -112,6 +116,9 @@ public class LinkedList<T>
         }
     }
 
+    /// <summary>
+    /// Determines whether the LinkedList is empty.
+    /// </summary>
     public bool IsEmpty()
     {
         return Head is null;

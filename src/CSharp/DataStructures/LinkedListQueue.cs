@@ -1,7 +1,7 @@
 ﻿#nullable enable
 namespace LeetCode.DataStructures;
 
-public class Queue<T>
+public class LinkedListQueue<T>
 {
     private readonly LinkedList<T> list = new();
 
