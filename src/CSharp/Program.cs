@@ -1,6 +1,6 @@
-﻿using LeetCode.Solutions;
+﻿using LeetCode.Algorithms;
+using LeetCode.Solutions;
 
-var solution = new Solution238();
-var output = solution.ProductExceptSelf([1,2,3,4]);
-Console.WriteLine(output);
+var arr = new int?[] {1,2,3,4,5};
+ArrayUtils.RemoveFromArray(ref arr, 2);
 Console.ReadLine();
