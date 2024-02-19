@@ -37,6 +37,7 @@ LeetCode problems and solutions
 | 31  | [Next Permutation](https://leetcode.com/problems/next-permutation)  | [C#](./src/CSharp/Solutions/Solution31.cs) | Medium |
 | 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  | [C#](./src/CSharp/Solutions/Solution32.cs) | Hard |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [C#](./src/CSharp/Solutions/Solution35.cs) | Easy |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [C#](./src/CSharp/Solutions/Solution35.cs) | Medium |
 | 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C#](./src/CSharp/Solutions/Solution45.cs) | Medium |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game) | [C#](./src/CSharp/Solutions/Solution55.cs) | Medium |

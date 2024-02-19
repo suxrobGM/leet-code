@@ -5,12 +5,20 @@ public class Solution189
     /// <summary>
     /// 189. Rotate Array
     /// <a href="https://leetcode.com/problems/rotate-array">See the problem</a>
+    /// <a href="https://leetcode.com/problems/rotate-array/submissions/1154251690">See the submission</a>
     /// </summary>
     public void Rotate(int[] nums, int k)
     {
         ShiftRight(nums, 0, nums.Length - 1, k);
     }
     
+    /// <summary>
+    /// Shifts the elements of the array to the right by a specified number of steps.
+    /// </summary>
+    /// <param name="array">The target array to be shifted.</param>
+    /// <param name="startIndex">The beginning index of the subarray portion to be shifted.</param>
+    /// <param name="lastIndex">The ending index of the subarray portion to be shifted.</param>
+    /// <param name="shiftCount">The number of steps to shift the elements of the array.</param>
     private void ShiftRight(int[] array, int startIndex, int lastIndex, int shiftCount)
     {
         var segmentSize = lastIndex - startIndex + 1;
@@ -33,9 +41,28 @@ public class Solution189
     {
         while (start < end) 
         {
+            // Swap the elements
             (array[start], array[end]) = (array[end], array[start]);
             start++;
             end--;
         }
     }
 }
+
+/// <summary>
+/// Driver class
+/// </summary>
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+        var solution = new Solution189();
+        var nums = new[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        var k = 3;
+        
+        Console.WriteLine("Original array: " + string.Join(", ", nums));
+        solution.Rotate(nums, k);
+        Console.WriteLine($"Rotated array by {k} times: " + string.Join(", ", nums));
+    }
+}
+
