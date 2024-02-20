@@ -32,18 +32,22 @@ LeetCode problems and solutions
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C#](./src/CSharp/Solutions/Solution26.cs) | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element) | [C#](./src/CSharp/Solutions/Solution27.cs) | Easy |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)  | [C#](./src/CSharp/Solutions/Solution28.cs) | Easy |
-| 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [C#](./src/CSharp/Solutions/Solution29.cs) | Medium |
+| 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [C#](./src/CSharp/Solutions/Solution29.cs) | Medium |
 | 30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)  | [C#](./src/CSharp/Solutions/Solution30.cs) | Hard |
-| 31  | [Next Permutation](https://leetcode.com/problems/next-permutation)  | [C#](./src/CSharp/Solutions/Solution31.cs) | Medium |
-| 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  | [C#](./src/CSharp/Solutions/Solution32.cs) | Hard |
+| 31  | [Next Permutation](https://leetcode.com/problems/next-permutation) | [C#](./src/CSharp/Solutions/Solution31.cs) | Medium |
+| 32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [C#](./src/CSharp/Solutions/Solution32.cs) | Hard |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C#](./src/CSharp/Solutions/Solution33.cs) | Medium |
+| 34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C#](./src/CSharp/Solutions/Solution34.cs) | Medium |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [C#](./src/CSharp/Solutions/Solution35.cs) | Easy |
-| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [C#](./src/CSharp/Solutions/Solution35.cs) | Medium |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [C#](./src/CSharp/Solutions/Solution36.cs) | Medium |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C#](./src/CSharp/Solutions/Solution42.cs) | Hard |
 | 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C#](./src/CSharp/Solutions/Solution45.cs) | Medium |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 55  | [Jump Game](https://leetcode.com/problems/jump-game) | [C#](./src/CSharp/Solutions/Solution55.cs) | Medium |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one) | [C#](./src/CSharp/Solutions/Solution66.cs) | Easy |
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary) | [C#](./src/CSharp/Solutions/Solution67.cs) | Easy |
+| 68  | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C#](./src/CSharp/Solutions/Solution69.cs) | Easy |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./src/Java/Solutions/Solution70.java) | Easy |
 | 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
@@ -59,6 +63,7 @@ LeetCode problems and solutions
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](./src/CSharp/Solutions/Solution122.cs) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
+| 135 | [Candy](https://leetcode.com/problems/candy) | [C#](./src/CSharp/Solutions/Solution135.cs) | Hard |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
