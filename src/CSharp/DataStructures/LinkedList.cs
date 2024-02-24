@@ -17,7 +17,7 @@ public class LinkedList<T>
     public Node? Head { get; set; }
     public Node? Tail { get; set; }
     
-    // <summary>
+    /// <summary>
     /// Adds a new node with the specified value to the beginning of the LinkedList.
     /// </summary>
     /// <param name="value">The value to add to the LinkedList.</param>

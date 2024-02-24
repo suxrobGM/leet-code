@@ -43,6 +43,7 @@ LeetCode problems and solutions
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C#](./src/CSharp/Solutions/Solution42.cs) | Hard |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C#](./src/CSharp/Solutions/Solution45.cs) | Medium |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
+| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C#](./src/CSharp/Solutions/Solution54.cs) | Medium |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game) | [C#](./src/CSharp/Solutions/Solution55.cs) | Medium |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one) | [C#](./src/CSharp/Solutions/Solution66.cs) | Easy |
@@ -50,6 +51,7 @@ LeetCode problems and solutions
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C#](./src/CSharp/Solutions/Solution69.cs) | Easy |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./src/Java/Solutions/Solution70.java) | Easy |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C#](./src/CSharp/Solutions/Solution76.cs) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
