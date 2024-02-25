@@ -52,6 +52,7 @@ LeetCode problems and solutions
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C#](./src/CSharp/Solutions/Solution69.cs) | Easy |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./src/Java/Solutions/Solution70.java) | Easy |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [C#](./src/CSharp/Solutions/Solution73.cs) | Medium |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C#](./src/CSharp/Solutions/Solution76.cs) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
@@ -78,6 +79,7 @@ LeetCode problems and solutions
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
+| 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
