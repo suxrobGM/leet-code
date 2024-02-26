@@ -4,6 +4,7 @@ namespace LeetCode.DataStructures;
 
 /// <summary>
 /// Definition for singly-linked list.
+/// This class is from LeetCode.
 /// </summary>
 public class ListNode
 {
