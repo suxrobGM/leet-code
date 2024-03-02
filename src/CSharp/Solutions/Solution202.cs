@@ -17,7 +17,7 @@ public class Solution202
             fast = SumOfSquares(SumOfSquares(fast));
         }
         
-        return fast == 1;
+        return slow == 1 || fast == 1;
     }
     
     private int SumOfSquares(int n)

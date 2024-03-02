@@ -13,18 +13,16 @@ public class Solution1
     {
         var seen = new Dictionary<int, int>();
 
-        for (int i = 0; i < nums.Length; i++)
+        for (var i = 0; i < nums.Length; i++)
         {
             var num = nums[i];
             var diff = target - num;
             if (seen.ContainsKey(diff))
             {
-                return new int[] { i, seen[diff] };
+                return [i, seen[diff]];
             }
-            else
-            {
-                seen[num] = i;
-            }
+
+            seen[num] = i;
         }
         return new int[2];
     }
