@@ -1,4 +1,6 @@
-﻿namespace LeetCode.DataStructures;
+﻿using System.Text;
+
+namespace LeetCode.DataStructures;
 
 /// <summary>
 /// Binary Tree
@@ -6,9 +8,6 @@
 /// <typeparam name="T">The datatype of items</typeparam>
 public class BinaryTree<T>
 {
-    private int _postOrderIndex;
-    private Dictionary<T, int> _inOrderIndexMap;
-    
     public BinaryTree()
     {
         Root = null;
@@ -22,8 +21,46 @@ public class BinaryTree<T>
     public Node Root { get; set; }
     
     /// <summary>
+    /// Performs a Breadth-First Search (BFS) on the binary tree.
+    /// </summary>
+    /// <param name="node">The starting node for the BFS. Typically, this is the root of the tree.</param>
+    /// <param name="action">An action to perform on each node during the BFS.</param>
+    public void BFS(Node node, Action<T> action)
+    {
+        if (node is null)
+        {
+            return;
+        }
+    
+        // Initialize a queue and enqueue the starting node
+        var queue = new Queue<Node>();
+        queue.Enqueue(node);
+    
+        // Continue until all nodes have been visited
+        while (queue.Count > 0)
+        {
+            // Dequeue a node and perform the action on its data
+            var current = queue.Dequeue();
+            action(current.Data);
+        
+            // If the current node has a left child, enqueue it
+            if (current.Left is not null)
+            {
+                queue.Enqueue(current.Left);
+            }
+        
+            // If the current node has a right child, enqueue it
+            if (current.Right is not null)
+            {
+                queue.Enqueue(current.Right);
+            }
+        }
+    }
+    
+    /// <summary>
     /// Performs a pre-order traversal of the binary tree.
     /// In a pre-order traversal, the root is visited first, then the left subtree and later the right subtree.
+    /// (Root, Left, Right)
     /// </summary>
     /// <param name="node">The starting node for the traversal. Typically, this is the root of the tree.</param>
     /// <param name="action">An action to perform on each node during the traversal. This is typically a method that takes the node's data as a parameter.</param>
@@ -43,6 +80,7 @@ public class BinaryTree<T>
     /// <summary>
     /// Performs an in-order traversal of the binary tree.
     /// In an in-order traversal, the left subtree is visited first, then the root and later the right subtree.
+    /// (Left, Root, Right)
     /// </summary>
     /// <param name="node">The starting node for the traversal. Typically, this is the root of the tree.</param>
     /// <param name="action">An action to perform on each node during the traversal. This is typically a method that takes the node's data as a parameter.</param>
@@ -61,6 +99,7 @@ public class BinaryTree<T>
     /// <summary>
     /// Performs a post-order traversal of the binary tree.
     /// In a post-order traversal, both the left and right subtrees are visited before the root.
+    /// (Left, Right, Root)
     /// </summary>
     /// <param name="node">The starting node for the traversal. Typically, this is the root of the tree.</param>
     /// <param name="action">An action to perform on each node during the traversal. This is typically a method that takes the node's data as a parameter.</param>
@@ -76,49 +115,69 @@ public class BinaryTree<T>
         action(node.Data);
     }
     
-    // Function to build the tree from in-order and post-order traversals
     /// <summary>
     /// Builds a binary tree from in-order and post-order traversals.
     /// </summary>
     /// <param name="inOrder"></param>
     /// <param name="postOrder"></param>
     /// <returns></returns>
-    // public Node BuildTree(T[] inOrder, T[] postOrder)
-    // {
-    //     _postOrderIndex = postOrder.Length - 1; // Initialize postOrderIndex to the last element
-    //     // Fill the dictionary with the in-order indices for quick lookup
-    //     for (var i = 0; i < inOrder.Length; i++)
-    //     {
-    //         _inOrderIndexMap[inOrder[i]] = i;
-    //     }
-    //
-    //     return BuildTreeUtil(inOrder, postOrder, 0, inOrder.Length - 1);
-    // }
-    //
-    // private Node BuildTreeUtil(char[] inOrder, char[] postOrder, int inStart, int inEnd)
-    // {
-    //     // Base case
-    //     if (inStart > inEnd) return null;
-    //
-    //     // The current root is the last element of the current postOrder segment
-    //     var root = new Node(postOrder[_postOrderIndex--]);
-    //
-    //     // If the tree has only one node, no need to find the left and right subtrees
-    //     if (inStart == inEnd) return root;
-    //
-    //     // Find the index of this node in inOrder traversal to divide the inOrder array
-    //     // into left and right subtrees
-    //     int inIndex = _inOrderIndexMap[root.Data];
-    //
-    //     // Using index in inOrder traversal, construct right and then left subtree
-    //     // Note: We build the right subtree first because we are decreasing postOrderIndex
-    //     // and the right subtree is accessed first in postOrder
-    //     root.Right = BuildTreeUtil(inOrder, postOrder, inIndex + 1, inEnd);
-    //     root.Left = BuildTreeUtil(inOrder, postOrder, inStart, inIndex - 1);
-    //
-    //     return root;
-    // }
+    public static Node BuildTree(T[] inOrder, T[] postOrder)
+    {
+        var postOrderIndex = postOrder.Length - 1; // Initialize postOrderIndex to the last element
+        var inOrderIndexMap = new Dictionary<T, int>();
+        
+        // Fill the dictionary with the in-order indices for quick lookup
+        for (var i = 0; i < inOrder.Length; i++)
+        {
+            inOrderIndexMap[inOrder[i]] = i;
+        }
     
+        return BuildTreeRec(inOrder, postOrder, 0, inOrder.Length - 1, postOrderIndex, inOrderIndexMap);
+    }
+    
+    private static Node BuildTreeRec(
+        T[] inOrder,
+        T[] postOrder,
+        int inStart,
+        int inEnd,
+        int postOrderIndex,
+        IDictionary<T, int> inOrderIndexMap)
+    {
+        if (inStart > inEnd || postOrderIndex < 0)
+        {
+            return null;
+        }
+    
+        // The current root is the last element of the current postOrder segment
+        var root = new Node(postOrder[postOrderIndex--]);
+    
+        // If the tree has only one node, no need to find the left and right subtrees
+        if (inStart == inEnd)
+        {
+            return root;
+        }
+    
+        // Find the index of this node in inOrder traversal to divide the inOrder array
+        // into left and right subtrees
+        var inIndex = inOrderIndexMap[root.Data];
+    
+        // Using index in inOrder traversal, construct right and then left subtree
+        // Note: We build the right subtree first because we are decreasing postOrderIndex
+        // and the right subtree is accessed first in postOrder
+        root.Right = BuildTreeRec(inOrder, postOrder, inIndex + 1, inEnd, postOrderIndex, inOrderIndexMap);
+        root.Left = BuildTreeRec(inOrder, postOrder, inStart, inIndex - 1, postOrderIndex, inOrderIndexMap);
+    
+        return root;
+    }
+
+    public override string ToString()
+    {
+        var strBuilder = new StringBuilder();
+        strBuilder.Append("BFS: ");
+        BFS(Root, data => strBuilder.Append(data).Append(' '));
+        return strBuilder.ToString();
+    }
+
     #region Binary node
 
     public class Node

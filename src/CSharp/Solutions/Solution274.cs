@@ -8,7 +8,7 @@ public class Solution274
     /// </summary>
     public int HIndex(int[] citations)
     {
-        Array.Sort(citations, (a, b) => b - a); // Sort in descending order
+        Array.Sort(citations, (a, b) => b - a); // SortingMethods in descending order
         var hIndex = 0;
         
         for (var i = 0; i < citations.Length; i++)

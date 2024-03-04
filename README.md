@@ -78,6 +78,7 @@ LeetCode problems and solutions
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
+| 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |

@@ -46,12 +46,33 @@ var binaryTree = new BinaryTree<char>('a')
     }
 };
 
-Console.WriteLine("In-Order Traversal:");
-binaryTree.InOrderTraversal(binaryTree.Root, data => Console.Write($"{data} "));
-Console.WriteLine("\nPre-Order Traversal:");
-binaryTree.PreOrderTraversal(binaryTree.Root, data => Console.Write($"{data} "));
-Console.WriteLine("\nPost-Order Traversal:");
-binaryTree.PostOrderTraversal(binaryTree.Root, data => Console.Write($"{data} "));
+var bst = new BinaryTree<char>('E')
+{
+    Root =
+    {
+        Left = new BinaryTree<char>.Node('C')
+        {
+            Left = new BinaryTree<char>.Node('A')
+            {
+                Right = new BinaryTree<char>.Node('B'),
+            },
+            Right = new BinaryTree<char>.Node('D')
+        },
+        Right = new BinaryTree<char>.Node('H')
+        {
+            Left = new BinaryTree<char>.Node('F')
+            {
+                Right = new BinaryTree<char>.Node('G')
+            },
+            Right = new BinaryTree<char>.Node('J')
+            {
+                Left = new BinaryTree<char>.Node('I')
+            }
+        }
+    }
+};
 
-PartitioningUtils.HoarePartition([1, 2, 7, 8, 9, 6, 3, 4, 5], 0, 8);
+Console.WriteLine("Preorder Traversal: ");
+binaryTree.PreOrderTraversal(binaryTree.Root, c => Console.Write($"{c} "));
+
 Console.ReadLine();
