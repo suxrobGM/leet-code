@@ -67,6 +67,7 @@ LeetCode problems and solutions
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C#](./src/CSharp/Solutions/Solution121.cs) | Easy |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](./src/CSharp/Solutions/Solution122.cs) | Medium |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C#](./src/CSharp/Solutions/Solution128.cs) | Medium |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph) | [C#](./src/CSharp/Solutions/Solution133.cs) | Medium |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
 | 135  | [Candy](https://leetcode.com/problems/candy) | [C#](./src/CSharp/Solutions/Solution135.cs) | Hard |
