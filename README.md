@@ -47,6 +47,7 @@ LeetCode problems and solutions
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C#](./src/CSharp/Solutions/Solution54.cs) | Medium |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game) | [C#](./src/CSharp/Solutions/Solution55.cs) | Medium |
+| 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [C#](./src/CSharp/Solutions/Solution56.cs) | Medium |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one) | [C#](./src/CSharp/Solutions/Solution66.cs) | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary) | [C#](./src/CSharp/Solutions/Solution67.cs) | Easy |
