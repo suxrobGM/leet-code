@@ -1,8 +1,8 @@
 ﻿using LeetCode.Algorithms;
 using LeetCode.Solutions;
 
-var solution = new Solution452();
-var output = solution.FindMinArrowShots([[-2147483646,-2147483645],[2147483646,2147483647]]);
+var solution = new Solution605();
+var output = solution.CanPlaceFlowers([1,0,0,0,1], 2);
 Console.WriteLine(output);
 // using LeetCode.Algorithms;
 // using LeetCode.DataStructures;

@@ -92,6 +92,7 @@ LeetCode problems and solutions
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
+| 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
