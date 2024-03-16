@@ -46,6 +46,7 @@ LeetCode problems and solutions
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [C#](./src/CSharp/Solutions/Solution40.cs) | Medium |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [C#](./src/CSharp/Solutions/Solution41.cs) | Hard |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [C#](./src/CSharp/Solutions/Solution42.cs) | Hard |
+| 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [C#](./src/CSharp/Solutions/Solution43.cs) | Medium |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C#](./src/CSharp/Solutions/Solution45.cs) | Medium |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image) | [C#](./src/CSharp/Solutions/Solution48.cs) | Medium |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [C#](./src/CSharp/Solutions/Solution49.cs) | Medium |
