@@ -93,6 +93,7 @@ LeetCode problems and solutions
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C#](./src/CSharp/Solutions/Solution283.cs) | Easy |
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
