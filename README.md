@@ -95,6 +95,7 @@ LeetCode problems and solutions
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
+| 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
@@ -105,7 +106,9 @@ LeetCode problems and solutions
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
+| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
