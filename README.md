@@ -49,6 +49,8 @@ LeetCode problems and solutions
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [C#](./src/CSharp/Solutions/Solution43.cs) | Medium |
 | 44   | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [C#](./src/CSharp/Solutions/Solution44.cs) | Hard |
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [C#](./src/CSharp/Solutions/Solution45.cs) | Medium |
+| 46   | [Permutations](https://leetcode.com/problems/permutations) | [C#](./src/CSharp/Solutions/Solution46.cs) | Medium |
+| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C#](./src/CSharp/Solutions/Solution47.cs) | Medium |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image) | [C#](./src/CSharp/Solutions/Solution48.cs) | Medium |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [C#](./src/CSharp/Solutions/Solution49.cs) | Medium |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |

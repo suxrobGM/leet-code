@@ -3,7 +3,7 @@
 public class Solution45
 {
     /// <summary>
-    /// 45. Jump Game II
+    /// 45. Jump Game II - Medium
     /// <a href="https://leetcode.com/problems/jump-game-ii">See the problem</a>
     /// </summary>
     public int Jump(int[] nums)

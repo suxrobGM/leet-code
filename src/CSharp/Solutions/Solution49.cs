@@ -3,7 +3,7 @@
 public class Solution49
 {
     /// <summary>
-    /// 49. Group Anagrams
+    /// 49. Group Anagrams - Medium
     /// <a href="https://leetcode.com/problems/group-anagrams">See the problem</a>
     /// </summary>
     public IList<IList<string>> GroupAnagrams(string[] strs)

@@ -3,7 +3,7 @@
 public class Solution48
 {
     /// <summary>
-    /// 48. Rotate Image
+    /// 48. Rotate Image - Medium
     /// <a href="https://leetcode.com/problems/rotate-image">See the problem</a>
     /// </summary>
     public void Rotate(int[][] matrix)
