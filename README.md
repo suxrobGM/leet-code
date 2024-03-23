@@ -53,6 +53,7 @@ LeetCode problems and solutions
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C#](./src/CSharp/Solutions/Solution47.cs) | Medium |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image) | [C#](./src/CSharp/Solutions/Solution48.cs) | Medium |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [C#](./src/CSharp/Solutions/Solution49.cs) | Medium |
+| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [C#](./src/CSharp/Solutions/Solution50.cs) | Medium |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C#](./src/CSharp/Solutions/Solution53.cs) | Easy |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C#](./src/CSharp/Solutions/Solution54.cs) | Medium |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game) | [C#](./src/CSharp/Solutions/Solution55.cs) | Medium |

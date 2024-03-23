@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 public class Solution6
 {
     /// <summary>
-    /// Problem #6
+    /// 6. Zigzag Conversion - Medium
     /// <a href="https://leetcode.com/problems/zigzag-conversion/">See the problem</a>
     /// </summary>
     /// <remarks>Best case O(n), worst case O(n^3)</remarks>
