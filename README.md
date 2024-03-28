@@ -64,6 +64,7 @@ LeetCode problems and solutions
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C#](./src/CSharp/Solutions/Solution58.cs) | Easy |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [C#](./src/CSharp/Solutions/Solution59.cs) | Medium |
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [C#](./src/CSharp/Solutions/Solution60.cs) | Hard |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list) | [C#](./src/CSharp/Solutions/Solution61.cs) | Medium |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one) | [C#](./src/CSharp/Solutions/Solution66.cs) | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary) | [C#](./src/CSharp/Solutions/Solution67.cs) | Easy |
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |
