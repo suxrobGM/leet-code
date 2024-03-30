@@ -81,6 +81,7 @@ LeetCode problems and solutions
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./src/Java/Solutions/Solution104.java) | Easy |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [C#](./src/CSharp/Solutions/Solution118.cs) | Easy |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C#](./src/CSharp/Solutions/Solution121.cs) | Easy |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](./src/CSharp/Solutions/Solution122.cs) | Medium |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
