@@ -9,7 +9,7 @@ public class Solution15
     public IList<IList<int>> ThreeSum(int[] nums)
     {
         var tripletsSet = new HashSet<Triplet>();
-        Array.Sort(nums); // SortingMethods the array first
+        Array.Sort(nums); // QuickSort the array first
 
         for (var i = 0; i < nums.Length - 2; i++)
         {

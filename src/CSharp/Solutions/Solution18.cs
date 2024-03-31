@@ -8,7 +8,7 @@ public class Solution18
     /// </summary>
     public IList<IList<int>> FourSum(int[] nums, int target)
     {
-        Array.Sort(nums); // SortingMethods the array first
+        Array.Sort(nums); // QuickSort the array first
         var quadrupletsSet = new HashSet<Quadruplet>();
         
         for (var i = 0; i < nums.Length - 3; i++)

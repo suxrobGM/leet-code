@@ -48,21 +48,3 @@ public class Solution189
         }
     }
 }
-
-/// <summary>
-/// Driver class
-/// </summary>
-public static class Program
-{
-    public static void Main(string[] args)
-    {
-        var solution = new Solution189();
-        var nums = new[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        var k = 3;
-        
-        Console.WriteLine("Original array: " + string.Join(", ", nums));
-        solution.Rotate(nums, k);
-        Console.WriteLine($"Rotated array by {k} times: " + string.Join(", ", nums));
-    }
-}
-

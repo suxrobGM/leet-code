@@ -74,6 +74,7 @@ LeetCode problems and solutions
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C#](./src/CSharp/Solutions/Solution76.cs) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
+| 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C#](./src/CSharp/Solutions/Solution85.cs) | Hard |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C#](./src/CSharp/Solutions/Solution88.cs) | Easy |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
@@ -108,6 +109,7 @@ LeetCode problems and solutions
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
+| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
