@@ -59,7 +59,7 @@ public static class Program
 
         for (var i = 0; i < iterations; i++)
         {
-            var array = Enumerable.Range(1, n).OrderBy(_ => random.Next()).ToArray();
+            var array = Enumerable.Range(1, n).OrderBy(_ => random.Next(1, n)).ToArray();
 
             // Sort using Lomuto
             quickSort.SortLomuto(array);
@@ -68,7 +68,7 @@ public static class Program
             totalTimeLomuto += quickSort.ExecutionTime.TotalMilliseconds;
 
             // Reset and shuffle array for Hoare
-            array = Enumerable.Range(1, n).OrderBy(_ => random.Next()).ToArray();
+            array = Enumerable.Range(1, n).OrderBy(_ => random.Next(1, n)).ToArray();
 
             // Sort using Hoare
             quickSort.SortHoare(array);
