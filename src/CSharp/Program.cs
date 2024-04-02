@@ -6,7 +6,7 @@ public static class Program
     {
         BenchmarkHoare();
         BenchmarkLomuto();
-        BenchmarkLargeSize();
+        // BenchmarkLargeSize();
         Console.ReadLine();
     }
     
