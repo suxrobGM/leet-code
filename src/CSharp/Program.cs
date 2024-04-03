@@ -6,7 +6,7 @@ public static class Program
     {
         BenchmarkHoare();
         BenchmarkLomuto();
-        // BenchmarkLargeSize();
+        BenchmarkLargeSize();
         Console.ReadLine();
     }
     
@@ -15,7 +15,7 @@ public static class Program
         int[] array = [2, 8, 7, 1, 3, 5, 6, 4];
         // int[] array = [8, 7, 6, 5, 4, 3, 2, 1];
         // int[] array = [1, 2, 3, 4, 5, 6, 7, 8];
-        var quickSort = new QuickSort();
+        var quickSort = new QuickSort<int>();
         
         quickSort.SortHoare(array);
 
@@ -31,7 +31,7 @@ public static class Program
         int[] array = [2, 8, 7, 1, 3, 5, 6, 4];
         // int[] array = [8, 7, 6, 5, 4, 3, 2, 1];
         // int[] array = [1, 2, 3, 4, 5, 6, 7, 8];
-        var quickSort = new QuickSort();
+        var quickSort = new QuickSort<int>();
         
         quickSort.SortLomuto(array);
 
@@ -47,7 +47,7 @@ public static class Program
         const int n = 1000; // Size of array
         const int iterations = 10000; // Number of permutations to test
         var random = new Random();
-        var quickSort = new QuickSort();
+        var quickSort = new QuickSort<int>();
         
         var totalTimeLomuto = 0.0;
         var totalComparisonsLomuto = 0;
