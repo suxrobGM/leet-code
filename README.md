@@ -66,6 +66,7 @@ LeetCode problems and solutions
 | 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | [C#](./src/CSharp/Solutions/Solution60.cs) | Hard |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list) | [C#](./src/CSharp/Solutions/Solution61.cs) | Medium |
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths) | [C#](./src/CSharp/Solutions/Solution62.cs) | Medium |
+| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [C#](./src/CSharp/Solutions/Solution63.cs) | Medium |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one) | [C#](./src/CSharp/Solutions/Solution66.cs) | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary) | [C#](./src/CSharp/Solutions/Solution67.cs) | Easy |
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |

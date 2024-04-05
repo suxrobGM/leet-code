@@ -4,8 +4,8 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-        BenchmarkHoare();
         BenchmarkLomuto();
+        BenchmarkHoare();
         BenchmarkLargeSize();
         Console.ReadLine();
     }

@@ -40,10 +40,11 @@ public class QuickSort<T> where T : IComparable<T>
         Comparisons = 0;
         _stopwatch.Restart(); // Start the stopwatch to measure the execution time
         
+        var stopwatch = Stopwatch.StartNew();
         Sort(array, 0, array.Length - 1, LomutoPartition);
         
         _stopwatch.Stop();
-        ExecutionTime = _stopwatch.Elapsed;
+        ExecutionTime = stopwatch.Elapsed;
     }
     
     /// <summary>
@@ -63,8 +64,9 @@ public class QuickSort<T> where T : IComparable<T>
         // Partition the array and get the pivot index
         var pivotIndex = partition(array, start, end);
         
-        // Recursively sort elements starting from the beginning of the array to the pivot index (inclusive)
-        // and from the pivot index (exclusive) to the end of the array
+        // Recursively sort elements starting from the beginning of the array to the pivot index
+        // and from the pivot index to the end of the array.
+        // Exclude the pivot element from the sorting process.
         Sort(array, start, pivotIndex - 1, partition);
         Sort(array, pivotIndex + 1, end, partition);
     }
@@ -84,14 +86,14 @@ public class QuickSort<T> where T : IComparable<T>
 
         while (true)
         {
-            // Find an element greater than or equal to pivot
+            // Find an element smaller than or equal to pivot
             while (array[left].CompareTo(pivot) < 0)
             {
                 Comparisons++;
                 left++;
             }
             
-            // Find an element smaller than or equal to pivot
+            // Find an element greater than or equal to pivot
             while (array[right].CompareTo(pivot) > 0)
             {
                 Comparisons++;
