@@ -74,7 +74,9 @@ LeetCode problems and solutions
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification) | [C#](./src/CSharp/Solutions/Solution68.cs) | Hard |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C#](./src/CSharp/Solutions/Solution69.cs) | Easy |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./src/Java/Solutions/Solution70.java) | Easy |
-| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [C#](./src/CSharp/Solutions/Solution73.cs) | Medium |
+| 71   | [Simplify Path](https://leetcode.com/problems/simplify-path) | [C#](./src/CSharp/Solutions/Solution71.cs) | Medium |
+| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) | [C#](./src/CSharp/Solutions/Solution72.cs) | Medium |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [C#](./src/CSharp/Solutions/Solution73.cs) | Medium |Hard
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C#](./src/CSharp/Solutions/Solution76.cs) | Hard |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
