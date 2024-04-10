@@ -80,6 +80,7 @@ LeetCode problems and solutions
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [C#](./src/CSharp/Solutions/Solution74.cs) | Medium |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors) | [C#](./src/CSharp/Solutions/Solution75.cs) | Medium |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C#](./src/CSharp/Solutions/Solution76.cs) | Hard |
+| 77   | [Combinations](https://leetcode.com/problems/combinations) | [C#](./src/CSharp/Solutions/Solution77.cs) | Medium |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution80.cs) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
 | 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C#](./src/CSharp/Solutions/Solution85.cs) | Hard |
