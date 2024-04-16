@@ -89,6 +89,8 @@ LeetCode problems and solutions
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./src/Java/Solutions/Solution83.java) | Easy |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [C#](./src/CSharp/Solutions/Solution84.cs) | Hard |
 | 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C#](./src/CSharp/Solutions/Solution85.cs) | Hard |
+| 86   | [Partition List](https://leetcode.com/problems/partition-list) | [C#](./src/CSharp/Solutions/Solution86.cs) | Medium |
+| 87   | [Scramble String](https://leetcode.com/problems/scramble-string) | [C#](./src/CSharp/Solutions/Solution87.cs) | Hard |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C#](./src/CSharp/Solutions/Solution88.cs) | Easy |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
