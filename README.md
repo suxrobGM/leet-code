@@ -93,6 +93,8 @@ LeetCode problems and solutions
 | 87   | [Scramble String](https://leetcode.com/problems/scramble-string) | [C#](./src/CSharp/Solutions/Solution87.cs) | Hard |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/Java/Solutions/Solution88.java) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C#](./src/CSharp/Solutions/Solution88.cs) | Easy |
+| 89   | [Gray Code](https://leetcode.com/problems/gray-code) | [C#](./src/CSharp/Solutions/Solution89.cs) | Medium |
+| 90   | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C#](./src/CSharp/Solutions/Solution90.cs) | Medium |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./src/Java/Solutions/Solution94.java) | Easy |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](./src/Java/Solutions/Solution100.java) | Easy |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
