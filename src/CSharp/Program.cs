@@ -1,12 +1,19 @@
 ﻿using LeetCode.Algorithms;
+using LeetCode.DataStructures;
+using LeetCode.Solutions;
 
 public static class Program
 {
     public static void Main(string[] args)
     {
-        BenchmarkLomuto();
-        BenchmarkHoare();
-        BenchmarkLargeSize();
+        //BenchmarkLomuto();
+        //BenchmarkHoare();
+        //BenchmarkLargeSize();
+        
+        //var solution = new Solution887();
+        //var output = solution.SuperEggDrop(1, 1);
+        //Console.WriteLine(output);
+        ColorGraph();
         Console.ReadLine();
     }
     
@@ -24,6 +31,38 @@ public static class Program
         Console.WriteLine($"Comparisons: {quickSort.Comparisons}");
         Console.WriteLine($"Swaps: {quickSort.Swaps}");
         Console.WriteLine($"Time: {quickSort.ExecutionTime.TotalMilliseconds} ms");
+    }
+
+    private static void ColorGraph()
+    {
+        var graph = new Graph<char>();
+        graph.AddEdge('a', 'b');
+        graph.AddEdge('a', 'd');
+        graph.AddEdge('a', 'e');
+        graph.AddEdge('a', 'f');
+        graph.AddEdge('b', 'c');
+        graph.AddEdge('b', 'h');
+        graph.AddEdge('b', 'j');
+        graph.AddEdge('c', 'g');
+        graph.AddEdge('c', 'd');
+        graph.AddEdge('d', 'i');
+        graph.AddEdge('d', 'k');
+        graph.AddEdge('k', 'f');
+        graph.AddEdge('k', 'h');
+        graph.AddEdge('k', 'j');
+        graph.AddEdge('j', 'i');
+        graph.AddEdge('j', 'e');
+        graph.AddEdge('e', 'g');
+        graph.AddEdge('g', 'f');
+        graph.AddEdge('g', 'i');
+        graph.AddEdge('g', 'h');
+        var colors = graph.GreedyColoring();
+        
+        Console.WriteLine("Coloring of vertices:");
+        foreach (var (vertex, color) in colors)
+        {
+            Console.WriteLine($"{vertex}: {color}");
+        }
     }
     
     private static void BenchmarkLomuto()
