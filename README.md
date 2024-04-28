@@ -102,6 +102,8 @@ LeetCode problems and solutions
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [C#](./src/CSharp/Solutions/Solution95.cs) | Medium |
 | 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [C#](./src/CSharp/Solutions/Solution96.cs) | Medium |
 | 97   | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [C#](./src/CSharp/Solutions/Solution97.cs) | Medium |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution98.cs) | Medium |
+| 99   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution99.cs) | Medium |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](./src/Java/Solutions/Solution100.java) | Easy |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./src/Java/Solutions/Solution101.java) | Easy |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./src/Java/Solutions/Solution104.java) | Easy |
