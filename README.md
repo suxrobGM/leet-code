@@ -110,6 +110,8 @@ LeetCode problems and solutions
 | 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [C#](./src/CSharp/Solutions/Solution103.cs) | Medium |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](./src/Java/Solutions/Solution104.java) | Easy |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C#](./src/CSharp/Solutions/Solution105.cs) | Medium |
+| 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [C#](./src/CSharp/Solutions/Solution106.cs) | Medium |
+| 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [C#](./src/CSharp/Solutions/Solution107.cs) | Medium |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [C#](./src/CSharp/Solutions/Solution118.cs) | Easy |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C#](./src/CSharp/Solutions/Solution119.cs) | Easy |
