@@ -116,6 +116,7 @@ LeetCode problems and solutions
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution109.cs) | Medium |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [C#](./src/CSharp/Solutions/Solution118.cs) | Easy |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C#](./src/CSharp/Solutions/Solution119.cs) | Easy |
+| 120  | [Triangle](https://leetcode.com/problems/triangle) | [C#](./src/CSharp/Solutions/Solution120.cs) | Medium |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C#](./src/CSharp/Solutions/Solution121.cs) | Easy |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](./src/CSharp/Solutions/Solution122.cs) | Medium |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C#](./src/CSharp/Solutions/Solution125.cs) | Easy |
