@@ -114,6 +114,7 @@ LeetCode problems and solutions
 | 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [C#](./src/CSharp/Solutions/Solution107.cs) | Medium |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./src/Java/Solutions/Solution108.java) | Easy |
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution109.cs) | Medium |
+| 115  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | [C#](./src/CSharp/Solutions/Solution115.cs) | Hard |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [C#](./src/CSharp/Solutions/Solution118.cs) | Easy |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C#](./src/CSharp/Solutions/Solution119.cs) | Easy |
 | 120  | [Triangle](https://leetcode.com/problems/triangle) | [C#](./src/CSharp/Solutions/Solution120.cs) | Medium |
