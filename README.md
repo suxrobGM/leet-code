@@ -128,6 +128,7 @@ LeetCode problems and solutions
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph) | [C#](./src/CSharp/Solutions/Solution133.cs) | Medium |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
 | 135  | [Candy](https://leetcode.com/problems/candy) | [C#](./src/CSharp/Solutions/Solution135.cs) | Hard |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [C#](./src/CSharp/Solutions/Solution140.cs) | Hard |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
