@@ -117,6 +117,7 @@ LeetCode problems and solutions
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [C#](./src/CSharp/Solutions/Solution114.cs) | Medium |
 | 115  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | [C#](./src/CSharp/Solutions/Solution115.cs) | Hard |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [C#](./src/CSharp/Solutions/Solution116.cs) | Medium |
+| 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [C#](./src/CSharp/Solutions/Solution117.cs) | Medium |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [C#](./src/CSharp/Solutions/Solution118.cs) | Easy |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C#](./src/CSharp/Solutions/Solution119.cs) | Easy |
 | 120  | [Triangle](https://leetcode.com/problems/triangle) | [C#](./src/CSharp/Solutions/Solution120.cs) | Medium |
