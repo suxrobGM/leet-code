@@ -128,6 +128,8 @@ LeetCode problems and solutions
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder) | [C#](./src/CSharp/Solutions/Solution127.cs) | Hard |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C#](./src/CSharp/Solutions/Solution128.cs) | Medium |
 | 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [C#](./src/CSharp/Solutions/Solution129.cs) | Medium |
+| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [C#](./src/CSharp/Solutions/Solution130.cs) | Medium |
+| 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [C#](./src/CSharp/Solutions/Solution131.cs) | Medium |
 | 132  | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | [C#](./src/CSharp/Solutions/Solution132.cs) | Hard |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph) | [C#](./src/CSharp/Solutions/Solution133.cs) | Medium |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
