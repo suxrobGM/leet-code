@@ -134,8 +134,9 @@ LeetCode problems and solutions
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph) | [C#](./src/CSharp/Solutions/Solution133.cs) | Medium |
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
 | 135  | [Candy](https://leetcode.com/problems/candy) | [C#](./src/CSharp/Solutions/Solution135.cs) | Hard |
+| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C#](./src/CSharp/Solutions/Solution138.cs) | Medium |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [C#](./src/CSharp/Solutions/Solution140.cs) | Hard |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | [C#](./src/CSharp/Solutions/Solution146.cs) | Medium |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [C#](./src/CSharp/Solutions/Solution146.cs) | Medium |
 | 149  | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | [C#](./src/CSharp/Solutions/Solution149.cs) | Hard |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [C#](./src/CSharp/Solutions/Solution150.cs) | Medium |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
