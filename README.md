@@ -139,6 +139,7 @@ LeetCode problems and solutions
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list) | [C#](./src/CSharp/Solutions/Solution143.cs) | Medium |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [C#](./src/CSharp/Solutions/Solution146.cs) | Medium |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [C#](./src/CSharp/Solutions/Solution147.cs) | Medium |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list) | [C#](./src/CSharp/Solutions/Solution148.cs) | Medium |
 | 149  | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | [C#](./src/CSharp/Solutions/Solution149.cs) | Hard |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [C#](./src/CSharp/Solutions/Solution150.cs) | Medium |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
