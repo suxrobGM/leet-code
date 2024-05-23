@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 public class Solution110
 {
     /// <summary>
-    /// 110. Balanced Binary Tree - Medium
+    /// 110. Balanced Binary Tree - Easy
     /// <a href="https://leetcode.com/problems/balanced-binary-tree">See the problem</a>
     /// </summary>
     public bool IsBalanced(TreeNode root)
