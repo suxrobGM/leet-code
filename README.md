@@ -139,6 +139,7 @@ LeetCode problems and solutions
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station) | [C#](./src/CSharp/Solutions/Solution134.cs) | Medium |
 | 135  | [Candy](https://leetcode.com/problems/candy) | [C#](./src/CSharp/Solutions/Solution135.cs) | Hard |
 | 136  | [Single Number](https://leetcode.com/problems/single-number) | [C#](./src/CSharp/Solutions/Solution136.cs) | Easy |
+| 137  | [Single Number II](https://leetcode.com/problems/single-number-ii) | [C#](./src/CSharp/Solutions/Solution137.cs) | Medium |
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C#](./src/CSharp/Solutions/Solution138.cs) | Medium |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [C#](./src/CSharp/Solutions/Solution140.cs) | Hard |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list) | [C#](./src/CSharp/Solutions/Solution143.cs) | Medium |
