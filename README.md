@@ -143,6 +143,7 @@ LeetCode problems and solutions
 | 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C#](./src/CSharp/Solutions/Solution138.cs) | Medium |
 | 139  | [Word Break](https://leetcode.com/problems/word-break) | [C#](./src/CSharp/Solutions/Solution139.cs) | Medium |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [C#](./src/CSharp/Solutions/Solution140.cs) | Hard |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C#](./src/CSharp/Solutions/Solution141.cs) | Easy |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list) | [C#](./src/CSharp/Solutions/Solution143.cs) | Medium |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [C#](./src/CSharp/Solutions/Solution146.cs) | Medium |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [C#](./src/CSharp/Solutions/Solution147.cs) | Medium |
