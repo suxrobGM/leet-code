@@ -146,6 +146,8 @@ LeetCode problems and solutions
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C#](./src/CSharp/Solutions/Solution141.cs) | Easy |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C#](./src/CSharp/Solutions/Solution142.cs) | Medium |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list) | [C#](./src/CSharp/Solutions/Solution143.cs) | Medium |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution144.cs) | Easy |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [C#](./src/CSharp/Solutions/Solution145.cs) | Easy |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | [C#](./src/CSharp/Solutions/Solution146.cs) | Medium |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [C#](./src/CSharp/Solutions/Solution147.cs) | Medium |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list) | [C#](./src/CSharp/Solutions/Solution148.cs) | Medium |
