@@ -155,6 +155,7 @@ LeetCode problems and solutions
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [C#](./src/CSharp/Solutions/Solution150.cs) | Medium |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C#](./src/CSharp/Solutions/Solution151.cs) | Medium |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [C#](./src/CSharp/Solutions/Solution152.cs) | Medium |
+| 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [C#](./src/CSharp/Solutions/Solution153.cs) | Medium |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](./src/SQL/Solution175.sql) | Easy |
