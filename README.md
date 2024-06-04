@@ -158,6 +158,7 @@ LeetCode problems and solutions
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [C#](./src/CSharp/Solutions/Solution153.cs) | Medium |
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C#](./src/CSharp/Solutions/Solution154.cs) | Hard |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack) | [C#](./src/CSharp/Solutions/Solution155.cs) | Medium |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C#](./src/CSharp/Solutions/Solution160.cs) | Easy |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | [C#](./src/CSharp/Solutions/Solution162.cs) | Medium |
 | 164  | [Maximum Gap](https://leetcode.com/problems/maximum-gap) | [C#](./src/CSharp/Solutions/Solution164.cs) | Medium |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
