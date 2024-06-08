@@ -166,6 +166,7 @@ LeetCode problems and solutions
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C#](./src/CSharp/Solutions/Solution167.cs) | Medium |
 | 168  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C#](./src/CSharp/Solutions/Solution168.cs) | Easy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element) | [C#](./src/CSharp/Solutions/Solution169.cs) | Easy |
+| 171  | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [C#](./src/CSharp/Solutions/Solution171.cs) | Easy |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](./src/SQL/Solution175.sql) | Easy |
 | 181  | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
