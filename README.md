@@ -171,6 +171,7 @@ LeetCode problems and solutions
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [C#](./src/CSharp/Solutions/Solution173.cs) | Medium |
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | [C#](./src/CSharp/Solutions/Solution174.cs) | Hard |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [SQL](./src/SQL/Solution175.sql) | Easy |
+| 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [SQL](./src/SQL/Solution176.sql) | Medium |
 | 181  | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
