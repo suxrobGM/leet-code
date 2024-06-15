@@ -177,6 +177,8 @@ LeetCode problems and solutions
 | 179  | [Largest Number](https://leetcode.com/problems/largest-number) | [C#](./src/CSharp/Solutions/Solution179.cs) | Medium |
 | 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](./src/SQL/Solution180.sql) | Medium |
 | 181  | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
+| 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](./src/SQL/Solution182.sql) | Easy |
+| 183  | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](./src/SQL/Solution183.sql) | Easy |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
