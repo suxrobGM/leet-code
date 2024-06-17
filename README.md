@@ -175,12 +175,9 @@ LeetCode problems and solutions
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [SQL](./src/SQL/Solution177.sql) | Medium |
 | 178  | [Rank Scores](https://leetcode.com/problems/rank-scores) | [SQL](./src/SQL/Solution178.sql) | Medium |
 | 179  | [Largest Number](https://leetcode.com/problems/largest-number) | [C#](./src/CSharp/Solutions/Solution179.cs) | Medium |
-| 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](./src/SQL/Solution180.sql) | Medium |
 | 181  | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [SQL](./src/SQL/Solution181.sql) | Easy |
-| 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](./src/SQL/Solution182.sql) | Easy |
-| 183  | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](./src/SQL/Solution183.sql) | Easy |
-| 184  | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [SQL](./src/SQL/Solution184.sql) | Medium |
-| 185  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [SQL](./src/SQL/Solution185.sql) | Hard |
+| 187  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [C#](./src/CSharp/Solutions/Solution187.cs) | Medium |
+| 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [C#](./src/CSharp/Solutions/Solution188.cs) | Hard |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
