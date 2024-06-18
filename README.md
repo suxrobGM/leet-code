@@ -179,6 +179,8 @@ LeetCode problems and solutions
 | 187  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [C#](./src/CSharp/Solutions/Solution187.cs) | Medium |
 | 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [C#](./src/CSharp/Solutions/Solution188.cs) | Hard |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
+| 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [C#](./src/CSharp/Solutions/Solution190.cs) | Easy |
+| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [C#](./src/CSharp/Solutions/Solution191.cs) | Easy |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
