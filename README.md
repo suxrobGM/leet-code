@@ -181,6 +181,10 @@ LeetCode problems and solutions
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C#](./src/CSharp/Solutions/Solution189.cs) | Medium |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [C#](./src/CSharp/Solutions/Solution190.cs) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [C#](./src/CSharp/Solutions/Solution191.cs) | Easy |
+| 192  | [Word Frequency](https://leetcode.com/problems/word-frequency) | [Shell](./src/Shell/Solution192.sh) | Medium |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Shell](./src/Shell/Solution193.sh) | Easy |
+| 194  | [Transpose File](https://leetcode.com/problems/transpose-file) | [Shell](./src/Shell/Solution194.sh) | Medium |
+| 195  | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](./src/Shell/Solution195.sh) | Easy |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
