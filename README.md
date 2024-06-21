@@ -187,6 +187,9 @@ LeetCode problems and solutions
 | 195  | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](./src/Shell/Solution195.sh) | Easy |
 | 196  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [SQL](./src/SQL/Solution196.sql) | Easy |
 | 197  | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [SQL](./src/SQL/Solution197.sql) | Easy |
+| 198  | [House Robber](https://leetcode.com/problems/house-robber) | [C#](./src/CSharp/Solutions/Solution198.cs) | Medium |
+| 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [C#](./src/CSharp/Solutions/Solution199.cs) | Medium |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C#](./src/CSharp/Solutions/Solution200.cs) | Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
