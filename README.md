@@ -190,7 +190,10 @@ LeetCode problems and solutions
 | 198  | [House Robber](https://leetcode.com/problems/house-robber) | [C#](./src/CSharp/Solutions/Solution198.cs) | Medium |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [C#](./src/CSharp/Solutions/Solution199.cs) | Medium |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [C#](./src/CSharp/Solutions/Solution200.cs) | Medium |
+| 201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C#](./src/CSharp/Solutions/Solution201.cs) | Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | [C#](./src/CSharp/Solutions/Solution202.cs) | Easy |
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [C#](./src/CSharp/Solutions/Solution203.cs) | Easy |
+| 204  | [Count Primes](https://leetcode.com/problems/count-primes) | [C#](./src/CSharp/Solutions/Solution204.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
