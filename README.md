@@ -195,6 +195,9 @@ LeetCode problems and solutions
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [C#](./src/CSharp/Solutions/Solution203.cs) | Easy |
 | 204  | [Count Primes](https://leetcode.com/problems/count-primes) | [C#](./src/CSharp/Solutions/Solution204.cs) | Easy |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [C#](./src/CSharp/Solutions/Solution205.cs) | Easy |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C#](./src/CSharp/Solutions/Solution206.cs) | Easy |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [C#](./src/CSharp/Solutions/Solution207.cs) | Medium |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C#](./src/CSharp/Solutions/Solution208.cs) | Medium |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
