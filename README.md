@@ -199,6 +199,9 @@ LeetCode problems and solutions
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) | [C#](./src/CSharp/Solutions/Solution207.cs) | Medium |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [C#](./src/CSharp/Solutions/Solution208.cs) | Medium |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution209.cs) | Medium |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [C#](./src/CSharp/Solutions/Solution210.cs) | Medium |
+| 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [C#](./src/CSharp/Solutions/Solution211.cs) | Medium |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii) | [C#](./src/CSharp/Solutions/Solution212.cs) | Hard |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
