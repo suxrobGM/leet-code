@@ -202,6 +202,9 @@ LeetCode problems and solutions
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [C#](./src/CSharp/Solutions/Solution210.cs) | Medium |
 | 211  | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [C#](./src/CSharp/Solutions/Solution211.cs) | Medium |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii) | [C#](./src/CSharp/Solutions/Solution212.cs) | Hard |
+| 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [C#](./src/CSharp/Solutions/Solution213.cs) | Medium |
+| 214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | [C#](./src/CSharp/Solutions/Solution214.cs) | Hard |
+| 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C#](./src/CSharp/Solutions/Solution215.cs) | Medium |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
