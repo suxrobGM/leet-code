@@ -205,6 +205,11 @@ LeetCode problems and solutions
 | 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [C#](./src/CSharp/Solutions/Solution213.cs) | Medium |
 | 214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | [C#](./src/CSharp/Solutions/Solution214.cs) | Hard |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C#](./src/CSharp/Solutions/Solution215.cs) | Medium |
+| 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [C#](./src/CSharp/Solutions/Solution216.cs) | Medium |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [C#](./src/CSharp/Solutions/Solution217.cs) | Easy |
+| 218  | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [C#](./src/CSharp/Solutions/Solution218.cs) | Hard |
+| 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [C#](./src/CSharp/Solutions/Solution219.cs) | Medium |
+| 220  | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [C#](./src/CSharp/Solutions/Solution220.cs) | Hard |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |

@@ -3,7 +3,7 @@
 public class Solution219
 {
     /// <summary>
-    /// 219. Contains Duplicate II
+    /// 219. Contains Duplicate II - Medium
     /// <a href="https://leetcode.com/problems/contains-duplicate-ii">See the problem</a>
     /// </summary>
     public bool ContainsNearbyDuplicate(int[] nums, int k)
