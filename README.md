@@ -210,6 +210,11 @@ LeetCode problems and solutions
 | 218  | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [C#](./src/CSharp/Solutions/Solution218.cs) | Hard |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [C#](./src/CSharp/Solutions/Solution219.cs) | Medium |
 | 220  | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [C#](./src/CSharp/Solutions/Solution220.cs) | Hard |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square) | [C#](./src/CSharp/Solutions/Solution221.cs) | Medium |
+| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [C#](./src/CSharp/Solutions/Solution222.cs) | Medium |
+| 223  | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [C#](./src/CSharp/Solutions/Solution223.cs) | Medium |
+| 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [C#](./src/CSharp/Solutions/Solution224.cs) | Hard |
+| 225  | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [C#](./src/CSharp/Solutions/Solution225.cs) | Easy |
 | 228  | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [C#](./src/CSharp/Solutions/Solution228.cs) | Easy |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C#](./src/CSharp/Solutions/Solution238.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
