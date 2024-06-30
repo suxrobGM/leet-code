@@ -232,6 +232,10 @@ LeetCode problems and solutions
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C#](./src/CSharp/Solutions/Solution240.cs) | Medium |
 | 241  | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | [C#](./src/CSharp/Solutions/Solution241.cs) | Medium |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [C#](./src/CSharp/Solutions/Solution242.cs) | Easy |
+| 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [C#](./src/CSharp/Solutions/Solution257.cs) | Easy |
+| 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [C#](./src/CSharp/Solutions/Solution258.cs) | Easy |
+| 260  | [Single Number III](https://leetcode.com/problems/single-number-iii) | [C#](./src/CSharp/Solutions/Solution260.cs) | Medium |
+| 263  | [Ugly Number](https://leetcode.com/problems/ugly-number) | [C#](./src/CSharp/Solutions/Solution263.cs) | Easy |
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C#](./src/CSharp/Solutions/Solution283.cs) | Easy |
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
