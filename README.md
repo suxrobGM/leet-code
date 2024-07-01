@@ -236,7 +236,12 @@ LeetCode problems and solutions
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits) | [C#](./src/CSharp/Solutions/Solution258.cs) | Easy |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii) | [C#](./src/CSharp/Solutions/Solution260.cs) | Medium |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number) | [C#](./src/CSharp/Solutions/Solution263.cs) | Easy |
+| 264  | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | [C#](./src/CSharp/Solutions/Solution264.cs) | Medium |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number) | [C#](./src/CSharp/Solutions/Solution268.cs) | Easy |
+| 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | [C#](./src/CSharp/Solutions/Solution273.cs) | Hard |
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
+| 275  | [H-Index II](https://leetcode.com/problems/h-index-ii) | [C#](./src/CSharp/Solutions/Solution275.cs) | Medium |
+| 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [C#](./src/CSharp/Solutions/Solution278.cs) | Easy |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C#](./src/CSharp/Solutions/Solution283.cs) | Easy |
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
