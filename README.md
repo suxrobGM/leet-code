@@ -242,9 +242,14 @@ LeetCode problems and solutions
 | 274  | [H-Index](https://leetcode.com/problems/h-index) | [C#](./src/CSharp/Solutions/Solution274.cs) | Medium |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii) | [C#](./src/CSharp/Solutions/Solution275.cs) | Medium |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [C#](./src/CSharp/Solutions/Solution278.cs) | Easy |
+| 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [C#](./src/CSharp/Solutions/Solution279.cs) | Medium |
+| 282  | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [C#](./src/CSharp/Solutions/Solution282.cs) | Hard |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C#](./src/CSharp/Solutions/Solution283.cs) | Easy |
+| 284  | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [C#](./src/CSharp/Solutions/Solution284.cs) | Medium |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [C#](./src/CSharp/Solutions/Solution287.cs) | Medium |
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
+| 292  | [Nim Game](https://leetcode.com/problems/nim-game) | [C#](./src/CSharp/Solutions/Solution292.cs) | Easy |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
