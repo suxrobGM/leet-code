@@ -250,6 +250,11 @@ LeetCode problems and solutions
 | 289  | [Game of Life](https://leetcode.com/problems/game-of-life) | [C#](./src/CSharp/Solutions/Solution289.cs) | Medium |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern) | [C#](./src/CSharp/Solutions/Solution290.cs) | Easy |
 | 292  | [Nim Game](https://leetcode.com/problems/nim-game) | [C#](./src/CSharp/Solutions/Solution292.cs) | Easy |
+| 295  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [C#](./src/CSharp/Solutions/Solution295.cs) | Hard |
+| 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C#](./src/CSharp/Solutions/Solution297.cs) | Hard |
+| 299  | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | [C#](./src/CSharp/Solutions/Solution299.cs) | Medium |
+| 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution300.cs) | Medium |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [C#](./src/CSharp/Solutions/Solution301.cs) | Hard |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
