@@ -255,6 +255,11 @@ LeetCode problems and solutions
 | 299  | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | [C#](./src/CSharp/Solutions/Solution299.cs) | Medium |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution300.cs) | Medium |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [C#](./src/CSharp/Solutions/Solution301.cs) | Hard |
+| 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [C#](./src/CSharp/Solutions/Solution303.cs) | Easy |
+| 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [C#](./src/CSharp/Solutions/Solution304.cs) | Medium |
+| 306  | [Additive Number](https://leetcode.com/problems/additive-number) | [C#](./src/CSharp/Solutions/Solution306.cs) | Medium |
+| 307  | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [C#](./src/CSharp/Solutions/Solution307.cs) | Medium |
+| 308  | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable) | [C#](./src/CSharp/Solutions/Solution308.cs) | Hard |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
