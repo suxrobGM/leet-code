@@ -260,7 +260,13 @@ LeetCode problems and solutions
 | 306  | [Additive Number](https://leetcode.com/problems/additive-number) | [C#](./src/CSharp/Solutions/Solution306.cs) | Medium |
 | 307  | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [C#](./src/CSharp/Solutions/Solution307.cs) | Medium |
 | 308  | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable) | [C#](./src/CSharp/Solutions/Solution308.cs) | Hard |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [C#](./src/CSharp/Solutions/Solution309.cs) | Medium |
+| 310  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [C#](./src/CSharp/Solutions/Solution310.cs) | Medium |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons) | [C#](./src/CSharp/Solutions/Solution312.cs) | Hard |
+| 315  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [C#](./src/CSharp/Solutions/Solution315.cs) | Hard |
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
+| 318  | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [C#](./src/CSharp/Solutions/Solution318.cs) | Medium |
+| 319  | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | [C#](./src/CSharp/Solutions/Solution319.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
