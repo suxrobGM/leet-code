@@ -267,6 +267,11 @@ LeetCode problems and solutions
 | 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [C#](./src/CSharp/Solutions/Solution316.cs) | Medium |
 | 318  | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [C#](./src/CSharp/Solutions/Solution318.cs) | Medium |
 | 319  | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | [C#](./src/CSharp/Solutions/Solution319.cs) | Medium |
+| 321  | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | [C#](./src/CSharp/Solutions/Solution321.cs) | Hard |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change) | [C#](./src/CSharp/Solutions/Solution322.cs) | Medium |
+| 324  | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [C#](./src/CSharp/Solutions/Solution324.cs) | Medium |
+| 327  | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | [C#](./src/CSharp/Solutions/Solution327.cs) | Hard |
+| 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [C#](./src/CSharp/Solutions/Solution328.cs) | Medium |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
