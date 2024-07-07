@@ -272,6 +272,11 @@ LeetCode problems and solutions
 | 324  | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [C#](./src/CSharp/Solutions/Solution324.cs) | Medium |
 | 327  | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | [C#](./src/CSharp/Solutions/Solution327.cs) | Hard |
 | 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [C#](./src/CSharp/Solutions/Solution328.cs) | Medium |
+| 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [C#](./src/CSharp/Solutions/Solution329.cs) | Hard |
+| 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [C#](./src/CSharp/Solutions/Solution330.cs) | Hard |
+| 331  | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution331.cs) | Medium |
+| 332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | [C#](./src/CSharp/Solutions/Solution332.cs) | Medium |
+| 335  | [Self Crossing](https://leetcode.com/problems/self-crossing) | [C#](./src/CSharp/Solutions/Solution335.cs) | Hard |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
