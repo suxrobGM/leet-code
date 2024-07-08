@@ -276,9 +276,14 @@ LeetCode problems and solutions
 | 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [C#](./src/CSharp/Solutions/Solution330.cs) | Hard |
 | 331  | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution331.cs) | Medium |
 | 332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | [C#](./src/CSharp/Solutions/Solution332.cs) | Medium |
-| 335  | [Self Crossing](https://leetcode.com/problems/self-crossing) | [C#](./src/CSharp/Solutions/Solution335.cs) | Hard |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C#](./src/CSharp/Solutions/Solution334.cs) | Medium |
+| 335  | [Self Crossing](https://leetcode.com/problems/self-crossing) | [C#](./src/CSharp/Solutions/Solution335.cs) | Hard |
+| 337  | [House Robber III](https://leetcode.com/problems/house-robber-iii) | [C#](./src/CSharp/Solutions/Solution337.cs) | Medium |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits) | [C#](./src/CSharp/Solutions/Solution338.cs) | Medium |
+| 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | [C#](./src/CSharp/Solutions/Solution341.cs) | Medium |
+| 342  | [Power of Four](https://leetcode.com/problems/power-of-four) | [C#](./src/CSharp/Solutions/Solution342.cs) | Easy |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [C#](./src/CSharp/Solutions/Solution343.cs) | Medium |
+| 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [C#](./src/CSharp/Solutions/Solution344.cs) | Easy |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
