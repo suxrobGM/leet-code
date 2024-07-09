@@ -285,6 +285,7 @@ LeetCode problems and solutions
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break) | [C#](./src/CSharp/Solutions/Solution343.cs) | Medium |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [C#](./src/CSharp/Solutions/Solution344.cs) | Easy |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [C#](./src/CSharp/Solutions/Solution347.cs) | Medium |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
