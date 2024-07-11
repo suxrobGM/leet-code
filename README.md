@@ -286,6 +286,9 @@ LeetCode problems and solutions
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string) | [C#](./src/CSharp/Solutions/Solution344.cs) | Easy |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [C#](./src/CSharp/Solutions/Solution345.cs) | Easy |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [C#](./src/CSharp/Solutions/Solution347.cs) | Medium |
+| 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C#](./src/CSharp/Solutions/Solution349.cs) | Easy |
+| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [C#](./src/CSharp/Solutions/Solution350.cs) | Easy |
+| 352  | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | [C#](./src/CSharp/Solutions/Solution352.cs) | Hard |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
