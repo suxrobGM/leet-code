@@ -289,6 +289,11 @@ LeetCode problems and solutions
 | 349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C#](./src/CSharp/Solutions/Solution349.cs) | Easy |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [C#](./src/CSharp/Solutions/Solution350.cs) | Easy |
 | 352  | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | [C#](./src/CSharp/Solutions/Solution352.cs) | Hard |
+| 355  | [Design Twitter](https://leetcode.com/problems/design-twitter) | [C#](./src/CSharp/Solutions/Solution355.cs) | Medium |
+| 357  | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) | [C#](./src/CSharp/Solutions/Solution357.cs) | Medium |
+| 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem) | [C#](./src/CSharp/Solutions/Solution365.cs) | Medium |
+| 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [C#](./src/CSharp/Solutions/Solution367.cs) | Easy |
+| 368  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | [C#](./src/CSharp/Solutions/Solution368.cs) | Medium |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
