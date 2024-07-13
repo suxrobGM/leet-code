@@ -294,6 +294,10 @@ LeetCode problems and solutions
 | 365  | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem) | [C#](./src/CSharp/Solutions/Solution365.cs) | Medium |
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [C#](./src/CSharp/Solutions/Solution367.cs) | Easy |
 | 368  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | [C#](./src/CSharp/Solutions/Solution368.cs) | Medium |
+| 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [C#](./src/CSharp/Solutions/Solution371.cs) | Easy |
+| 372  | [Super Pow](https://leetcode.com/problems/super-pow) | [C#](./src/CSharp/Solutions/Solution372.cs) | Medium |
+| 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | [C#](./src/CSharp/Solutions/Solution373.cs) | Medium |
+| 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C#](./src/CSharp/Solutions/Solution374.cs) | Easy |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
