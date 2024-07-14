@@ -3,7 +3,7 @@
 public class Solution380
 {
     /// <summary>
-    /// 380. Insert Delete GetRandom O(1)
+    /// 380. Insert Delete GetRandom O(1) - Medium
     /// <a href="https://leetcode.com/problems/insert-delete-getrandom-o1">See the problem</a>
     /// </summary>
     public class RandomizedSet

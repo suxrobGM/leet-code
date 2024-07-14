@@ -298,7 +298,12 @@ LeetCode problems and solutions
 | 372  | [Super Pow](https://leetcode.com/problems/super-pow) | [C#](./src/CSharp/Solutions/Solution372.cs) | Medium |
 | 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | [C#](./src/CSharp/Solutions/Solution373.cs) | Medium |
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C#](./src/CSharp/Solutions/Solution374.cs) | Easy |
+| 375  | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii) | [C#](./src/CSharp/Solutions/Solution375.cs) | Medium |
+| 376  | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [C#](./src/CSharp/Solutions/Solution376.cs) | Medium |
+| 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [C#](./src/CSharp/Solutions/Solution377.cs) | Medium |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [C#](./src/CSharp/Solutions/Solution378.cs) | Medium |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
+| 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | [C#](./src/CSharp/Solutions/Solution381.cs) | Hard |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
