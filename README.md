@@ -304,7 +304,12 @@ LeetCode problems and solutions
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [C#](./src/CSharp/Solutions/Solution378.cs) | Medium |
 | 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [C#](./src/CSharp/Solutions/Solution380.cs) | Medium |
 | 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | [C#](./src/CSharp/Solutions/Solution381.cs) | Hard |
+| 382  | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | [C#](./src/CSharp/Solutions/Solution382.cs) | Medium |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [C#](./src/CSharp/Solutions/Solution380.cs) | Easy |
+| 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | [C#](./src/CSharp/Solutions/Solution384.cs) | Medium |
+| 385  | [Mini Parser](https://leetcode.com/problems/mini-parser) | [C#](./src/CSharp/Solutions/Solution385.cs) | Medium |
+| 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | [C#](./src/CSharp/Solutions/Solution386.cs) | Medium |
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [C#](./src/CSharp/Solutions/Solution387.cs) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
