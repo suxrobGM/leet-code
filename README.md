@@ -310,7 +310,12 @@ LeetCode problems and solutions
 | 385  | [Mini Parser](https://leetcode.com/problems/mini-parser) | [C#](./src/CSharp/Solutions/Solution385.cs) | Medium |
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | [C#](./src/CSharp/Solutions/Solution386.cs) | Medium |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [C#](./src/CSharp/Solutions/Solution387.cs) | Easy |
+| 388  | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | [C#](./src/CSharp/Solutions/Solution388.cs) | Medium |
+| 389  | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [C#](./src/CSharp/Solutions/Solution389.cs) | Easy |
+| 390  | [Elimination Game](https://leetcode.com/problems/elimination-game) | [C#](./src/CSharp/Solutions/Solution390.cs) | Medium |
+| 391  | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | [C#](./src/CSharp/Solutions/Solution391.cs) | Hard |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
+| 393  | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [C#](./src/CSharp/Solutions/Solution393.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |

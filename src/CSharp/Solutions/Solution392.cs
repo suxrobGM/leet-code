@@ -3,7 +3,7 @@
 public class Solution392
 {
     /// <summary>
-    /// 392. Is Subsequence
+    /// 392. Is Subsequence - Easy
     /// <a href="https://leetcode.com/problems/is-subsequence">See the problem</a>
     /// </summary>
     public bool IsSubsequence(string s, string t) 
