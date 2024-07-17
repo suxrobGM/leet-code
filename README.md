@@ -316,6 +316,9 @@ LeetCode problems and solutions
 | 391  | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | [C#](./src/CSharp/Solutions/Solution391.cs) | Hard |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [C#](./src/CSharp/Solutions/Solution392.cs) | Easy |
 | 393  | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [C#](./src/CSharp/Solutions/Solution393.cs) | Medium |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string) | [C#](./src/CSharp/Solutions/Solution394.cs) | Medium |
+| 395  | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [C#](./src/CSharp/Solutions/Solution395.cs) | Medium |
+| 396  | [Rotate Function](https://leetcode.com/problems/rotate-function) | [C#](./src/CSharp/Solutions/Solution396.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
