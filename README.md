@@ -319,6 +319,10 @@ LeetCode problems and solutions
 | 394  | [Decode String](https://leetcode.com/problems/decode-string) | [C#](./src/CSharp/Solutions/Solution394.cs) | Medium |
 | 395  | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [C#](./src/CSharp/Solutions/Solution395.cs) | Medium |
 | 396  | [Rotate Function](https://leetcode.com/problems/rotate-function) | [C#](./src/CSharp/Solutions/Solution396.cs) | Medium |
+| 397  | [Integer Replacement](https://leetcode.com/problems/integer-replacement) | [C#](./src/CSharp/Solutions/Solution397.cs) | Medium |
+| 398  | [Random Pick Index](https://leetcode.com/problems/random-pick-index) | [C#](./src/CSharp/Solutions/Solution398.cs) | Medium |
+| 399  | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [C#](./src/CSharp/Solutions/Solution399.cs) | Medium |
+| 400  | [Nth Digit](https://leetcode.com/problems/nth-digit) | [C#](./src/CSharp/Solutions/Solution400.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
