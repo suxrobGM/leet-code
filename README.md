@@ -323,6 +323,8 @@ LeetCode problems and solutions
 | 398  | [Random Pick Index](https://leetcode.com/problems/random-pick-index) | [C#](./src/CSharp/Solutions/Solution398.cs) | Medium |
 | 399  | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [C#](./src/CSharp/Solutions/Solution399.cs) | Medium |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit) | [C#](./src/CSharp/Solutions/Solution400.cs) | Easy |
+| 401  | [Binary Watch](https://leetcode.com/problems/binary-watch) | [C#](./src/CSharp/Solutions/Solution401.cs) | Easy |
+| 402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [C#](./src/CSharp/Solutions/Solution402.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
