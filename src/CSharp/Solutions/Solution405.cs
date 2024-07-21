@@ -11,22 +11,21 @@ public class Solution405
     /// </summary>
     public string ToHex(int num)
     {
-        if (num == 0)
+        if (num == 0) 
         {
             return "0";
         }
 
-        var result = new StringBuilder();
+        char[] hexChars = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'];
+        var number = (uint)num; // Treat num as unsigned to handle two's complement automatically.
+        var result = "";
 
-        while (num != 0)
+        while (number != 0)
         {
-            var hex = num & 15;
-
-            result.Insert(0, hex < 10 ? (char)(hex + '0') : (char)(hex - 10 + 'a'));
-
-            num >>= 4;
+            result = hexChars[number & 15] + result; // Get the last 4 bits and find the corresponding hex char.
+            number >>= 4; // Shift the number 4 bits to the right.
         }
 
-        return result.ToString();
+        return result;
     }
 }

@@ -327,6 +327,9 @@ LeetCode problems and solutions
 | 402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [C#](./src/CSharp/Solutions/Solution402.cs) | Medium |
 | 403  | [Frog Jump](https://leetcode.com/problems/frog-jump) | [C#](./src/CSharp/Solutions/Solution403.cs) | Hard |
 | 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | [C#](./src/CSharp/Solutions/Solution404.cs) | Easy |
+| 405  | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | [C#](./src/CSharp/Solutions/Solution405.cs) | Easy |
+| 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [C#](./src/CSharp/Solutions/Solution406.cs) | Medium |
+| 407  | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | [C#](./src/CSharp/Solutions/Solution407.cs) | Hard |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
