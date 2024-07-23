@@ -331,6 +331,8 @@ LeetCode problems and solutions
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [C#](./src/CSharp/Solutions/Solution406.cs) | Medium |
 | 407  | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | [C#](./src/CSharp/Solutions/Solution407.cs) | Hard |
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [C#](./src/CSharp/Solutions/Solution409.cs) | Easy |
+| 410  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | [C#](./src/CSharp/Solutions/Solution410.cs) | Hard |
+| 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C#](./src/CSharp/Solutions/Solution412.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
