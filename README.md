@@ -333,6 +333,9 @@ LeetCode problems and solutions
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [C#](./src/CSharp/Solutions/Solution409.cs) | Easy |
 | 410  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | [C#](./src/CSharp/Solutions/Solution410.cs) | Hard |
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C#](./src/CSharp/Solutions/Solution412.cs) | Easy |
+| 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [C#](./src/CSharp/Solutions/Solution413.cs) | Medium |
+| 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [C#](./src/CSharp/Solutions/Solution414.cs) | Easy |
+| 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [C#](./src/CSharp/Solutions/Solution415.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
