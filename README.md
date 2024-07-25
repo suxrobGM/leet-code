@@ -336,6 +336,8 @@ LeetCode problems and solutions
 | 413  | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [C#](./src/CSharp/Solutions/Solution413.cs) | Medium |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [C#](./src/CSharp/Solutions/Solution414.cs) | Easy |
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [C#](./src/CSharp/Solutions/Solution415.cs) | Easy |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [C#](./src/CSharp/Solutions/Solution416.cs) | Medium |
+| 417  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [C#](./src/CSharp/Solutions/Solution417.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
