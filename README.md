@@ -338,6 +338,9 @@ LeetCode problems and solutions
 | 415  | [Add Strings](https://leetcode.com/problems/add-strings) | [C#](./src/CSharp/Solutions/Solution415.cs) | Easy |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [C#](./src/CSharp/Solutions/Solution416.cs) | Medium |
 | 417  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [C#](./src/CSharp/Solutions/Solution417.cs) | Medium |
+| 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | [C#](./src/CSharp/Solutions/Solution419.cs) | Medium |
+| 420  | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker) | [C#](./src/CSharp/Solutions/Solution420.cs) | Hard |
+| 421  | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) | [C#](./src/CSharp/Solutions/Solution421.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
