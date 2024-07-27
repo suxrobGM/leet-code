@@ -341,6 +341,8 @@ LeetCode problems and solutions
 | 419  | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | [C#](./src/CSharp/Solutions/Solution419.cs) | Medium |
 | 420  | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker) | [C#](./src/CSharp/Solutions/Solution420.cs) | Hard |
 | 421  | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) | [C#](./src/CSharp/Solutions/Solution421.cs) | Medium |
+| 423  | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english) | [C#](./src/CSharp/Solutions/Solution423.cs) | Medium |
+| 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [C#](./src/CSharp/Solutions/Solution424.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
