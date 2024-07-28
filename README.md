@@ -343,6 +343,9 @@ LeetCode problems and solutions
 | 421  | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) | [C#](./src/CSharp/Solutions/Solution421.cs) | Medium |
 | 423  | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english) | [C#](./src/CSharp/Solutions/Solution423.cs) | Medium |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [C#](./src/CSharp/Solutions/Solution424.cs) | Medium |
+| 427  | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree) | [C#](./src/CSharp/Solutions/Solution427.cs) | Medium |
+| 429  | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [C#](./src/CSharp/Solutions/Solution429.cs) | Medium |
+| 430  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C#](./src/CSharp/Solutions/Solution430.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
