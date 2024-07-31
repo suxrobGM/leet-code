@@ -348,6 +348,7 @@ LeetCode problems and solutions
 | 430  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C#](./src/CSharp/Solutions/Solution430.cs) | Medium |
 | 432  | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) | [C#](./src/CSharp/Solutions/Solution432.cs) | Hard |
 | 433  | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [C#](./src/CSharp/Solutions/Solution433.cs) | Medium |
+| 434  | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [C#](./src/CSharp/Solutions/Solution434.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
