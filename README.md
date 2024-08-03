@@ -351,6 +351,8 @@ LeetCode problems and solutions
 | 434  | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [C#](./src/CSharp/Solutions/Solution434.cs) | Easy |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C#](./src/CSharp/Solutions/Solution435.cs) | Medium |
 | 436  | [Find Right Interval](https://leetcode.com/problems/find-right-interval) | [C#](./src/CSharp/Solutions/Solution436.cs) | Medium |
+| 437  | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | [C#](./src/CSharp/Solutions/Solution437.cs) | Easy |
+| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [C#](./src/CSharp/Solutions/Solution438.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
