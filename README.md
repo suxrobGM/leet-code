@@ -357,6 +357,8 @@ LeetCode problems and solutions
 | 441  | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | [C#](./src/CSharp/Solutions/Solution441.cs) | Easy |
 | 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C#](./src/CSharp/Solutions/Solution442.cs) | Medium |
 | 443  | [String Compression](https://leetcode.com/problems/string-compression) | [C#](./src/CSharp/Solutions/Solution443.cs) | Easy |
+| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [C#](./src/CSharp/Solutions/Solution445.cs) | Medium |
+| 446  | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) | [C#](./src/CSharp/Solutions/Solution446.cs) | Hard |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
