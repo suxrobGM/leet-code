@@ -359,6 +359,8 @@ LeetCode problems and solutions
 | 443  | [String Compression](https://leetcode.com/problems/string-compression) | [C#](./src/CSharp/Solutions/Solution443.cs) | Easy |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [C#](./src/CSharp/Solutions/Solution445.cs) | Medium |
 | 446  | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) | [C#](./src/CSharp/Solutions/Solution446.cs) | Hard |
+| 447  | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [C#](./src/CSharp/Solutions/Solution447.cs) | Easy |
+| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [C#](./src/CSharp/Solutions/Solution448.cs) | Easy |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
