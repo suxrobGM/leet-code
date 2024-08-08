@@ -361,6 +361,9 @@ LeetCode problems and solutions
 | 446  | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) | [C#](./src/CSharp/Solutions/Solution446.cs) | Hard |
 | 447  | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [C#](./src/CSharp/Solutions/Solution447.cs) | Easy |
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [C#](./src/CSharp/Solutions/Solution448.cs) | Easy |
+| 449  | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | [C#](./src/CSharp/Solutions/Solution449.cs) | Medium |
+| 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [C#](./src/CSharp/Solutions/Solution450.cs) | Medium |
+| 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [C#](./src/CSharp/Solutions/Solution451.cs) | Medium |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [C#](./src/CSharp/Solutions/Solution452.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
