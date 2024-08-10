@@ -368,6 +368,7 @@ LeetCode problems and solutions
 | 453  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | [C#](./src/CSharp/Solutions/Solution453.cs) | Medium |
 | 454  | [4Sum II](https://leetcode.com/problems/4sum-ii) | [C#](./src/CSharp/Solutions/Solution454.cs) | Medium |
 | 455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [C#](./src/CSharp/Solutions/Solution455.cs) | Easy |
+| 456  | [132 Pattern](https://leetcode.com/problems/132-pattern) | [C#](./src/CSharp/Solutions/Solution456.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
