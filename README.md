@@ -371,6 +371,8 @@ LeetCode problems and solutions
 | 456  | [132 Pattern](https://leetcode.com/problems/132-pattern) | [C#](./src/CSharp/Solutions/Solution456.cs) | Medium |
 | 458  | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [C#](./src/CSharp/Solutions/Solution458.cs) | Hard |
 | 459  | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [C#](./src/CSharp/Solutions/Solution459.cs) | Easy |
+| 460  | [LFU Cache](https://leetcode.com/problems/lfu-cache) | [C#](./src/CSharp/Solutions/Solution460.cs) | Hard |
+| 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [C#](./src/CSharp/Solutions/Solution461.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
