@@ -377,6 +377,8 @@ LeetCode problems and solutions
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [C#](./src/CSharp/Solutions/Solution463.cs) | Easy |
 | 464  | [Can I Win](https://leetcode.com/problems/can-i-win) | [C#](./src/CSharp/Solutions/Solution464.cs) | Medium |
 | 466  | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions) | [C#](./src/CSharp/Solutions/Solution466.cs) | Hard |
+| 467  | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string) | [C#](./src/CSharp/Solutions/Solution467.cs) | Medium |
+| 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) | [C#](./src/CSharp/Solutions/Solution468.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
