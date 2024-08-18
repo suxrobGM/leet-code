@@ -381,6 +381,10 @@ LeetCode problems and solutions
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) | [C#](./src/CSharp/Solutions/Solution468.cs) | Medium |
 | 470  | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7) | [C#](./src/CSharp/Solutions/Solution470.cs) | Medium |
 | 472  | [Concatenated Words](https://leetcode.com/problems/concatenated-words) | [C#](./src/CSharp/Solutions/Solution472.cs) | Hard |
+| 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [C#](./src/CSharp/Solutions/Solution473.cs) | Medium |
+| 474  | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) | [C#](./src/CSharp/Solutions/Solution474.cs) | Medium |
+| 475  | [Heaters](https://leetcode.com/problems/heaters) | [C#](./src/CSharp/Solutions/Solution475.cs) | Medium |
+| 476  | [Number Complement](https://leetcode.com/problems/number-complement) | [C#](./src/CSharp/Solutions/Solution476.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
