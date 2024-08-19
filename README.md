@@ -385,6 +385,8 @@ LeetCode problems and solutions
 | 474  | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) | [C#](./src/CSharp/Solutions/Solution474.cs) | Medium |
 | 475  | [Heaters](https://leetcode.com/problems/heaters) | [C#](./src/CSharp/Solutions/Solution475.cs) | Medium |
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement) | [C#](./src/CSharp/Solutions/Solution476.cs) | Easy |
+| 477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) | [C#](./src/CSharp/Solutions/Solution477.cs) | Medium |
+| 478  | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle) | [C#](./src/CSharp/Solutions/Solution478.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
