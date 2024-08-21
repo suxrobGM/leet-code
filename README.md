@@ -388,6 +388,10 @@ LeetCode problems and solutions
 | 477  | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) | [C#](./src/CSharp/Solutions/Solution477.cs) | Medium |
 | 478  | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle) | [C#](./src/CSharp/Solutions/Solution478.cs) | Medium |
 | 481  | [Magical String](https://leetcode.com/problems/magical-string) | [C#](./src/CSharp/Solutions/Solution481.cs) | Medium |
+| 482  | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | [C#](./src/CSharp/Solutions/Solution482.cs) | Easy |
+| 483  | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base) | [C#](./src/CSharp/Solutions/Solution483.cs) | Hard |
+| 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [C#](./src/CSharp/Solutions/Solution485.cs) | Easy |
+| 486  | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [C#](./src/CSharp/Solutions/Solution486.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
