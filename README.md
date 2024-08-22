@@ -392,6 +392,8 @@ LeetCode problems and solutions
 | 483  | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base) | [C#](./src/CSharp/Solutions/Solution483.cs) | Hard |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [C#](./src/CSharp/Solutions/Solution485.cs) | Easy |
 | 486  | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [C#](./src/CSharp/Solutions/Solution486.cs) | Medium |
+| 491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) | [C#](./src/CSharp/Solutions/Solution491.cs) | Medium |
+| 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [C#](./src/CSharp/Solutions/Solution492.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
