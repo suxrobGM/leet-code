@@ -394,6 +394,8 @@ LeetCode problems and solutions
 | 486  | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [C#](./src/CSharp/Solutions/Solution486.cs) | Medium |
 | 491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) | [C#](./src/CSharp/Solutions/Solution491.cs) | Medium |
 | 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [C#](./src/CSharp/Solutions/Solution492.cs) | Easy |
+| 493  | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | [C#](./src/CSharp/Solutions/Solution493.cs) | Hard |
+| 494  | [Target Sum](https://leetcode.com/problems/target-sum) | [C#](./src/CSharp/Solutions/Solution494.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
