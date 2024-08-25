@@ -398,6 +398,9 @@ LeetCode problems and solutions
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum) | [C#](./src/CSharp/Solutions/Solution494.cs) | Medium |
 | 495  | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [C#](./src/CSharp/Solutions/Solution495.cs) | Medium
 | 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [C#](./src/CSharp/Solutions/Solution496.cs) | Easy |
+| 497  | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles) | [C#](./src/CSharp/Solutions/Solution497.cs) | Medium |
+| 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse) | [C#](./src/CSharp/Solutions/Solution498.cs) | Medium
+| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [C#](./src/CSharp/Solutions/Solution500.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
