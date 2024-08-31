@@ -407,6 +407,8 @@ LeetCode problems and solutions
 | 504  | [Base 7](https://leetcode.com/problems/base-7) | [C#](./src/CSharp/Solutions/Solution504.cs) | Easy |
 | 506  | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [C#](./src/CSharp/Solutions/Solution506.cs) | Easy |
 | 507  | [Perfect Number](https://leetcode.com/problems/perfect-number) | [C#](./src/CSharp/Solutions/Solution507.cs) | Easy |
+| 508  | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | [C#](./src/CSharp/Solutions/Solution508.cs) | Medium |
+| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [C#](./src/CSharp/Solutions/Solution509.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
