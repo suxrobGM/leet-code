@@ -409,6 +409,10 @@ LeetCode problems and solutions
 | 507  | [Perfect Number](https://leetcode.com/problems/perfect-number) | [C#](./src/CSharp/Solutions/Solution507.cs) | Easy |
 | 508  | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | [C#](./src/CSharp/Solutions/Solution508.cs) | Medium |
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [C#](./src/CSharp/Solutions/Solution509.cs) | Easy |
+| 511  | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [SQL](./src/SQL/Solutions/Solution511.sql) | Easy |
+| 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | [C#](./src/CSharp/Solutions/Solution513.cs) | Medium |
+| 514  | [Freedom Trail](https://leetcode.com/problems/freedom-trail) | [C#](./src/CSharp/Solutions/Solution514.cs) | Hard |
+| 515  | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [C#](./src/CSharp/Solutions/Solution515.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
