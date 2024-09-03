@@ -413,6 +413,10 @@ LeetCode problems and solutions
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | [C#](./src/CSharp/Solutions/Solution513.cs) | Medium |
 | 514  | [Freedom Trail](https://leetcode.com/problems/freedom-trail) | [C#](./src/CSharp/Solutions/Solution514.cs) | Hard |
 | 515  | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [C#](./src/CSharp/Solutions/Solution515.cs) | Medium |
+| 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [C#](./src/CSharp/Solutions/Solution516.cs) | Medium |
+| 517  | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) | [C#](./src/CSharp/Solutions/Solution517.cs) | Hard |
+| 518  | [Coin Change 2](https://leetcode.com/problems/coin-change-2) | [C#](./src/CSharp/Solutions/Solution518.cs) | Medium |
+| 519  | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix) | [C#](./src/CSharp/Solutions/Solution519.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
