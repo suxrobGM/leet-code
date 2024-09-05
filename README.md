@@ -419,6 +419,8 @@ LeetCode problems and solutions
 | 519  | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix) | [C#](./src/CSharp/Solutions/Solution519.cs) | Medium |
 | 520  | [Detect Capital](https://leetcode.com/problems/detect-capital) | [C#](./src/CSharp/Solutions/Solution520.cs) | Easy |
 | 521  | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [C#](./src/CSharp/Solutions/Solution521.cs) | Easy |
+| 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii) | [C#](./src/CSharp/Solutions/Solution522.cs) | Medium |
+| 523  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [C#](./src/CSharp/Solutions/Solution523.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
