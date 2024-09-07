@@ -423,6 +423,8 @@ LeetCode problems and solutions
 | 523  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [C#](./src/CSharp/Solutions/Solution523.cs) | Medium |
 | 524  | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) | [C#](./src/CSharp/Solutions/Solution524.cs) | Medium |
 | 525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | [C#](./src/CSharp/Solutions/Solution525.cs) | Medium |
+| 526  | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) | [C#](./src/CSharp/Solutions/Solution526.cs) | Medium |
+| 528  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | [C#](./src/CSharp/Solutions/Solution528.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
