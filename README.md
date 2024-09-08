@@ -425,6 +425,8 @@ LeetCode problems and solutions
 | 525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | [C#](./src/CSharp/Solutions/Solution525.cs) | Medium |
 | 526  | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) | [C#](./src/CSharp/Solutions/Solution526.cs) | Medium |
 | 528  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | [C#](./src/CSharp/Solutions/Solution528.cs) | Medium |
+| 529  | [Minesweeper](https://leetcode.com/problems/minesweeper) | [C#](./src/CSharp/Solutions/Solution529.cs) | Medium |
+| 530  | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [C#](./src/CSharp/Solutions/Solution530.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
