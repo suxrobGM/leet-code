@@ -427,6 +427,8 @@ LeetCode problems and solutions
 | 528  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | [C#](./src/CSharp/Solutions/Solution528.cs) | Medium |
 | 529  | [Minesweeper](https://leetcode.com/problems/minesweeper) | [C#](./src/CSharp/Solutions/Solution529.cs) | Medium |
 | 530  | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [C#](./src/CSharp/Solutions/Solution530.cs) | Easy |
+| 532  | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [C#](./src/CSharp/Solutions/Solution532.cs) | Medium |
+| 535  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [C#](./src/CSharp/Solutions/Solution535.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
