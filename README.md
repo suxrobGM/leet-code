@@ -433,6 +433,8 @@ LeetCode problems and solutions
 | 538  | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [C#](./src/CSharp/Solutions/Solution538.cs) | Easy |
 | 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [C#](./src/CSharp/Solutions/Solution539.cs) | Medium |
 | 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C#](./src/CSharp/Solutions/Solution540.cs) | Medium |
+| 541  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [C#](./src/CSharp/Solutions/Solution541.cs) | Easy |
+| 542  | [01 Matrix](https://leetcode.com/problems/01-matrix) | [C#](./src/CSharp/Solutions/Solution542.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
