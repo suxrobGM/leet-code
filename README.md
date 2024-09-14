@@ -437,6 +437,8 @@ LeetCode problems and solutions
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix) | [C#](./src/CSharp/Solutions/Solution542.cs) | Medium |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C#](./src/CSharp/Solutions/Solution543.cs) | Easy |
 | 546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes) | [C#](./src/CSharp/Solutions/Solution546.cs) | Hard |
+| 547  | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | [C#](./src/CSharp/Solutions/Solution547.cs) | Medium |
+| 550  | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [SQL](./src/SQL/Solutions/Solution550.sql) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
