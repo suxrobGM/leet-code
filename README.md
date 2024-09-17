@@ -443,6 +443,8 @@ LeetCode problems and solutions
 | 552  | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) | [C#](./src/CSharp/Solutions/Solution552.cs) | Hard |
 | 553  | [Optimal Division](https://leetcode.com/problems/optimal-division) | [C#](./src/CSharp/Solutions/Solution553.cs) | Medium |
 | 554  | [Brick Wall](https://leetcode.com/problems/brick-wall) | [C#](./src/CSharp/Solutions/Solution554.cs) | Medium |
+| 556  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii) | [C#](./src/CSharp/Solutions/Solution556.cs) | Medium |
+| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C#](./src/CSharp/Solutions/Solution557.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
