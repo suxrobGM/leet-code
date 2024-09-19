@@ -447,6 +447,8 @@ LeetCode problems and solutions
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C#](./src/CSharp/Solutions/Solution557.cs) | Easy |
 | 558  | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) | [C#](./src/CSharp/Solutions/Solution558.cs) | Medium |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [C#](./src/CSharp/Solutions/Solution559.cs) | Easy |
+| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [C#](./src/CSharp/Solutions/Solution560.cs) | Medium |
+| 561  | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [C#](./src/CSharp/Solutions/Solution561.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
