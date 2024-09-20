@@ -449,6 +449,8 @@ LeetCode problems and solutions
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [C#](./src/CSharp/Solutions/Solution559.cs) | Easy |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [C#](./src/CSharp/Solutions/Solution560.cs) | Medium |
 | 561  | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [C#](./src/CSharp/Solutions/Solution561.cs) | Easy |
+| 563  | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [C#](./src/CSharp/Solutions/Solution563.cs) | Easy |
+| 565  | [Array Nesting](https://leetcode.com/problems/array-nesting) | [C#](./src/CSharp/Solutions/Solution565.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
