@@ -453,6 +453,8 @@ LeetCode problems and solutions
 | 565  | [Array Nesting](https://leetcode.com/problems/array-nesting) | [C#](./src/CSharp/Solutions/Solution565.cs) | Medium |
 | 566  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [C#](./src/CSharp/Solutions/Solution566.cs) | Easy |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [C#](./src/CSharp/Solutions/Solution567.cs) | Medium |
+| 570  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [SQL](./src/SQL/Solutions/Solution570.sql) | Medium |
+| 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [C#](./src/CSharp/Solutions/Solution572.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
