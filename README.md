@@ -457,6 +457,8 @@ LeetCode problems and solutions
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [C#](./src/CSharp/Solutions/Solution572.cs) | Easy |
 | 575  | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [C#](./src/CSharp/Solutions/Solution575.cs) | Easy |
 | 576  | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [C#](./src/CSharp/Solutions/Solution576.cs) | Medium |
+| 577  | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [SQL](./src/SQL/Solutions/Solution577.sql) | Easy |
+| 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [C#](./src/CSharp/Solutions/Solution581.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
