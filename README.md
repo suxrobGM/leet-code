@@ -461,6 +461,8 @@ LeetCode problems and solutions
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [C#](./src/CSharp/Solutions/Solution581.cs) | Medium |
 | 583  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | [C#](./src/CSharp/Solutions/Solution583.cs) | Medium |
 | 584  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./src/SQL/Solutions/Solution584.sql) | Easy |
+| 585  | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) | [SQL](./src/SQL/Solutions/Solution585.sql) | Medium |
+| 586  | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [SQL](./src/SQL/Solutions/Solution586.sql) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
