@@ -463,6 +463,9 @@ LeetCode problems and solutions
 | 584  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./src/SQL/Solutions/Solution584.sql) | Easy |
 | 585  | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) | [SQL](./src/SQL/Solutions/Solution585.sql) | Medium |
 | 586  | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [SQL](./src/SQL/Solutions/Solution586.sql) | Easy |
+| 587  | [Erect the Fence](https://leetcode.com/problems/erect-the-fence) | [C#](./src/CSharp/Solutions/Solution587.cs) | Hard |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution589.cs) | Easy |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [C#](./src/CSharp/Solutions/Solution590.cs) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
