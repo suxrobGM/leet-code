@@ -466,6 +466,9 @@ LeetCode problems and solutions
 | 587  | [Erect the Fence](https://leetcode.com/problems/erect-the-fence) | [C#](./src/CSharp/Solutions/Solution587.cs) | Hard |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution589.cs) | Easy |
 | 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [C#](./src/CSharp/Solutions/Solution590.cs) | Easy |
+| 591  | [Tag Validator](https://leetcode.com/problems/tag-validator) | [C#](./src/CSharp/Solutions/Solution591.cs) | Hard |
+| 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [C#](./src/CSharp/Solutions/Solution592.cs) | Medium |
+| 593  | [Valid Square](https://leetcode.com/problems/valid-square) | [C#](./src/CSharp/Solutions/Solution593.cs) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
