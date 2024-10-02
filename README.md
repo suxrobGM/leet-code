@@ -469,6 +469,9 @@ LeetCode problems and solutions
 | 591  | [Tag Validator](https://leetcode.com/problems/tag-validator) | [C#](./src/CSharp/Solutions/Solution591.cs) | Hard |
 | 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [C#](./src/CSharp/Solutions/Solution592.cs) | Medium |
 | 593  | [Valid Square](https://leetcode.com/problems/valid-square) | [C#](./src/CSharp/Solutions/Solution593.cs) | Medium |
+| 594  | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [C#](./src/CSharp/Solutions/Solution594.cs) | Easy |
+| 595  | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./src/SQL/Solutions/Solution595.sql) | Easy |
+| 596  | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [SQL](./src/SQL/Solutions/Solution596.sql) | Easy |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
