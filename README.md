@@ -1,5 +1,7 @@
 # LeetCode Solutions
-LeetCode problems and solutions
+LeetCode problems and solutions.
+
+My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 
 | #    | Title                                                                                                                          | Solution                                         | Difficulty |
 |------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--|
@@ -474,6 +476,9 @@ LeetCode problems and solutions
 | 596  | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [SQL](./src/SQL/Solutions/Solution596.sql) | Easy |
 | 598  | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [C#](./src/CSharp/Solutions/Solution598.cs) | Easy |
 | 599  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [C#](./src/CSharp/Solutions/Solution599.cs) | Easy |
+| 600  | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | [C#](./src/CSharp/Solutions/Solution600.cs) | Hard |
+| 601  | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [SQL](./src/SQL/Solutions/Solution601.sql) | Hard |
+| 602  | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) | [SQL](./src/SQL/Solutions/Solution602.sql) | Medium |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C#](./src/CSharp/Solutions/Solution605.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
