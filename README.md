@@ -483,6 +483,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 606  | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [C#](./src/CSharp/Solutions/Solution606.cs) | Easy |
 | 607  | [Sales Person](https://leetcode.com/problems/sales-person) | [SQL](./src/SQL/Solutions/Solution607.sql) | Easy |
 | 608  | [Tree Node](https://leetcode.com/problems/tree-node) | [SQL](./src/SQL/Solutions/Solution608.sql) | Easy |
+| 609  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [C#](./src/CSharp/Solutions/Solution609.cs) | Medium |
+| 610  | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [SQL](./src/SQL/Solutions/Solution610.sql) | Easy |
+| 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | [C#](./src/CSharp/Solutions/Solution611.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
