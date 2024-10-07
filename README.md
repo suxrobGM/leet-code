@@ -486,6 +486,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 609  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [C#](./src/CSharp/Solutions/Solution609.cs) | Medium |
 | 610  | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [SQL](./src/SQL/Solutions/Solution610.sql) | Easy |
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | [C#](./src/CSharp/Solutions/Solution611.cs) | Medium |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [C#](./src/CSharp/Solutions/Solution617.cs) | Easy |
+| 619  | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [SQL](./src/SQL/Solutions/Solution619.sql) | Easy |
+| 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](./src/SQL/Solutions/Solution620.sql) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
