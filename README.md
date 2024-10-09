@@ -489,6 +489,12 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [C#](./src/CSharp/Solutions/Solution617.cs) | Easy |
 | 619  | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [SQL](./src/SQL/Solutions/Solution619.sql) | Easy |
 | 620  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [SQL](./src/SQL/Solutions/Solution620.sql) | Easy |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [C#](./src/CSharp/Solutions/Solution621.cs) | Medium |
+| 622  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [C#](./src/CSharp/Solutions/Solution622.cs) | Medium |
+| 623  | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) | [C#](./src/CSharp/Solutions/Solution623.cs) | Medium |
+| 624  | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays) | [C#](./src/CSharp/Solutions/Solution624.cs) | Medium |
+| 626  | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [SQL](./src/SQL/Solutions/Solution626.sql) | Medium |
+| 627  | [Swap Salary](https://leetcode.com/problems/swap-salary) | [SQL](./src/SQL/Solutions/Solution627.sql) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
