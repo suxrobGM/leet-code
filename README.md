@@ -498,6 +498,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 628  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [C#](./src/CSharp/Solutions/Solution628.cs) | Easy |
 | 629  | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array) | [C#](./src/CSharp/Solutions/Solution629.cs) | Hard |
 | 630  | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [C#](./src/CSharp/Solutions/Solution630.cs) | Hard |
+| 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | [C#](./src/CSharp/Solutions/Solution633.cs) | Medium |
+| 636  | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | [C#](./src/CSharp/Solutions/Solution636.cs) | Medium |
+| 637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution637.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
