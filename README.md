@@ -504,6 +504,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 638  | [Shopping Offers](https://leetcode.com/problems/shopping-offers) | [C#](./src/CSharp/Solutions/Solution638.cs) | Medium |
 | 639  | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii) | [C#](./src/CSharp/Solutions/Solution639.cs) | Hard |
 | 640  | [Solve the Equation](https://leetcode.com/problems/solve-the-equation) | [C#](./src/CSharp/Solutions/Solution640.cs) | Medium |
+| 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque) | [C#](./src/CSharp/Solutions/Solution641.cs) | Medium |
+| 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [C#](./src/CSharp/Solutions/Solution643.cs) | Easy |
+| 645  | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [C#](./src/CSharp/Solutions/Solution645.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
