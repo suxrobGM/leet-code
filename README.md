@@ -510,6 +510,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | [C#](./src/CSharp/Solutions/Solution646.cs) | Medium |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [C#](./src/CSharp/Solutions/Solution647.cs) | Medium |
 | 648  | [Replace Words](https://leetcode.com/problems/replace-words) | [C#](./src/CSharp/Solutions/Solution648.cs) | Medium |
+| 649  | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | [C#](./src/CSharp/Solutions/Solution649.cs) | Medium |
+| 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | [C#](./src/CSharp/Solutions/Solution650.cs) | Medium |
+| 652  | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [C#](./src/CSharp/Solutions/Solution652.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
