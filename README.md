@@ -519,6 +519,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 657  | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | [C#](./src/CSharp/Solutions/Solution657.cs) | Easy |
 | 658  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [C#](./src/CSharp/Solutions/Solution658.cs) | Medium |
 | 659  | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [C#](./src/CSharp/Solutions/Solution659.cs) | Medium |
+| 661  | [Image Smoother](https://leetcode.com/problems/image-smoother) | [C#](./src/CSharp/Solutions/Solution661.cs) | Easy |
+| 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [C#](./src/CSharp/Solutions/Solution662.cs) | Medium |
+| 664  | [Strange Printer](https://leetcode.com/problems/strange-printer) | [C#](./src/CSharp/Solutions/Solution664.cs) | Hard |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
