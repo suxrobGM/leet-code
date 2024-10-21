@@ -522,6 +522,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 661  | [Image Smoother](https://leetcode.com/problems/image-smoother) | [C#](./src/CSharp/Solutions/Solution661.cs) | Easy |
 | 662  | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [C#](./src/CSharp/Solutions/Solution662.cs) | Medium |
 | 664  | [Strange Printer](https://leetcode.com/problems/strange-printer) | [C#](./src/CSharp/Solutions/Solution664.cs) | Hard |
+| 665  | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [C#](./src/CSharp/Solutions/Solution665.cs) | Easy |
+| 667  | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C#](./src/CSharp/Solutions/Solution667.cs) | Medium |
+| 668  | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) | [C#](./src/CSharp/Solutions/Solution668.cs) | Hard |
+| 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution669.cs) | Medium |
+| 670  | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | [C#](./src/CSharp/Solutions/Solution670.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
