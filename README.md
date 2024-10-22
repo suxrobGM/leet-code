@@ -527,6 +527,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 668  | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) | [C#](./src/CSharp/Solutions/Solution668.cs) | Hard |
 | 669  | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution669.cs) | Medium |
 | 670  | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | [C#](./src/CSharp/Solutions/Solution670.cs) | Medium |
+| 671  | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution671.cs) | Easy |
+| 672  | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii) | [C#](./src/CSharp/Solutions/Solution672.cs) | Medium |
+| 673  | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution673.cs) | Medium |
+| 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution674.cs) | Easy |
+| 675  | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) | [C#](./src/CSharp/Solutions/Solution675.cs) | Hard |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
