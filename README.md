@@ -532,6 +532,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 673  | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution673.cs) | Medium |
 | 674  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | [C#](./src/CSharp/Solutions/Solution674.cs) | Easy |
 | 675  | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) | [C#](./src/CSharp/Solutions/Solution675.cs) | Hard |
+| 676  | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary) | [C#](./src/CSharp/Solutions/Solution676.cs) | Medium |
+| 677  | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs) | [C#](./src/CSharp/Solutions/Solution677.cs) | Medium |
+| 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [C#](./src/CSharp/Solutions/Solution678.cs) | Medium |
+| 679  | [24 Game](https://leetcode.com/problems/24-game) | [C#](./src/CSharp/Solutions/Solution679.cs) | Hard |
+| 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [C#](./src/CSharp/Solutions/Solution680.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
