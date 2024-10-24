@@ -537,6 +537,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [C#](./src/CSharp/Solutions/Solution678.cs) | Medium |
 | 679  | [24 Game](https://leetcode.com/problems/24-game) | [C#](./src/CSharp/Solutions/Solution679.cs) | Hard |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [C#](./src/CSharp/Solutions/Solution680.cs) | Easy |
+| 682  | [Baseball Game](https://leetcode.com/problems/baseball-game) | [C#](./src/CSharp/Solutions/Solution682.cs) | Easy |
+| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | [C#](./src/CSharp/Solutions/Solution684.cs) | Medium |
+| 685  | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii) | [C#](./src/CSharp/Solutions/Solution685.cs) | Hard |
+| 686  | [Repeated String Match](https://leetcode.com/problems/repeated-string-match) | [C#](./src/CSharp/Solutions/Solution686.cs) | Easy |
+| 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [C#](./src/CSharp/Solutions/Solution687.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
