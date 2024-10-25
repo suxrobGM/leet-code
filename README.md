@@ -542,6 +542,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 685  | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii) | [C#](./src/CSharp/Solutions/Solution685.cs) | Hard |
 | 686  | [Repeated String Match](https://leetcode.com/problems/repeated-string-match) | [C#](./src/CSharp/Solutions/Solution686.cs) | Easy |
 | 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path) | [C#](./src/CSharp/Solutions/Solution687.cs) | Easy |
+| 688  | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard) | [C#](./src/CSharp/Solutions/Solution688.cs) | Medium |
+| 689  | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [C#](./src/CSharp/Solutions/Solution689.cs) | Hard |
+| 690  | [Employee Importance](https://leetcode.com/problems/employee-importance) | [C#](./src/CSharp/Solutions/Solution690.cs) | Easy |
+| 691  | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word) | [C#](./src/CSharp/Solutions/Solution691.cs) | Hard |
+| 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [C#](./src/CSharp/Solutions/Solution692.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
