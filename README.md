@@ -547,6 +547,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 690  | [Employee Importance](https://leetcode.com/problems/employee-importance) | [C#](./src/CSharp/Solutions/Solution690.cs) | Easy |
 | 691  | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word) | [C#](./src/CSharp/Solutions/Solution691.cs) | Hard |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [C#](./src/CSharp/Solutions/Solution692.cs) | Medium |
+| 693  | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | [C#](./src/CSharp/Solutions/Solution693.cs) | Easy |
+| 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [C#](./src/CSharp/Solutions/Solution695.cs) | Medium |
+| 696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [C#](./src/CSharp/Solutions/Solution696.cs) | Easy |
+| 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [C#](./src/CSharp/Solutions/Solution697.cs) | Easy |
+| 698  | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | [C#](./src/CSharp/Solutions/Solution698.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
