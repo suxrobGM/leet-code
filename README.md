@@ -552,6 +552,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [C#](./src/CSharp/Solutions/Solution696.cs) | Easy |
 | 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [C#](./src/CSharp/Solutions/Solution697.cs) | Easy |
 | 698  | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | [C#](./src/CSharp/Solutions/Solution698.cs) | Medium |
+| 699  | [Falling Squares](https://leetcode.com/problems/falling-squares) | [C#](./src/CSharp/Solutions/Solution699.cs) | Hard |
+| 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution700.cs) | Easy |
+| 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution701.cs) | Medium |
+| 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [C#](./src/CSharp/Solutions/Solution703.cs) | Easy |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search) | [C#](./src/CSharp/Solutions/Solution704.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
