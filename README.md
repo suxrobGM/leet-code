@@ -557,6 +557,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C#](./src/CSharp/Solutions/Solution701.cs) | Medium |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [C#](./src/CSharp/Solutions/Solution703.cs) | Easy |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search) | [C#](./src/CSharp/Solutions/Solution704.cs) | Easy |
+| 705  | [Design HashSet](https://leetcode.com/problems/design-hashset) | [C#](./src/CSharp/Solutions/Solution705.cs) | Easy |
+| 706  | [Design HashMap](https://leetcode.com/problems/design-hashmap) | [C#](./src/CSharp/Solutions/Solution706.cs) | Easy |
+| 707  | [Design Linked List](https://leetcode.com/problems/design-linked-list) | [C#](./src/CSharp/Solutions/Solution707.cs) | Medium |
+| 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [C#](./src/CSharp/Solutions/Solution709.cs) | Easy |
+| 710  | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist) | [C#](./src/CSharp/Solutions/Solution710.cs) | Hard |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
