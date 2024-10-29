@@ -562,6 +562,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 707  | [Design Linked List](https://leetcode.com/problems/design-linked-list) | [C#](./src/CSharp/Solutions/Solution707.cs) | Medium |
 | 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [C#](./src/CSharp/Solutions/Solution709.cs) | Easy |
 | 710  | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist) | [C#](./src/CSharp/Solutions/Solution710.cs) | Hard |
+| 712  | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [C#](./src/CSharp/Solutions/Solution712.cs) | Medium |
+| 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [C#](./src/CSharp/Solutions/Solution713.cs) | Medium |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C#](./src/CSharp/Solutions/Solution714.cs) | Medium |
+| 717  | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [C#](./src/CSharp/Solutions/Solution717.cs) | Easy |
+| 718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [C#](./src/CSharp/Solutions/Solution718.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
