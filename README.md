@@ -567,6 +567,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C#](./src/CSharp/Solutions/Solution714.cs) | Medium |
 | 717  | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | [C#](./src/CSharp/Solutions/Solution717.cs) | Easy |
 | 718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [C#](./src/CSharp/Solutions/Solution718.cs) | Medium |
+| 719  | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | [C#](./src/CSharp/Solutions/Solution719.cs) | Hard |
+| 720  | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [C#](./src/CSharp/Solutions/Solution720.cs) | Easy |
+| 722  | [Remove Comments](https://leetcode.com/problems/remove-comments) | [C#](./src/CSharp/Solutions/Solution722.cs) | Medium |
+| 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [C#](./src/CSharp/Solutions/Solution724.cs) | Easy |
+| 725  | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [C#](./src/CSharp/Solutions/Solution725.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
