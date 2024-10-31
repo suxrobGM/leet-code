@@ -572,6 +572,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 722  | [Remove Comments](https://leetcode.com/problems/remove-comments) | [C#](./src/CSharp/Solutions/Solution722.cs) | Medium |
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [C#](./src/CSharp/Solutions/Solution724.cs) | Easy |
 | 725  | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | [C#](./src/CSharp/Solutions/Solution725.cs) | Medium |
+| 728  | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [C#](./src/CSharp/Solutions/Solution728.cs) | Easy |
+| 729  | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | [C#](./src/CSharp/Solutions/Solution729.cs) | Medium |
+| 731  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | [C#](./src/CSharp/Solutions/Solution731.cs) | Medium |
+| 732  | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | [C#](./src/CSharp/Solutions/Solution732.cs) | Hard |
+| 733  | [Flood Fill](https://leetcode.com/problems/flood-fill) | [C#](./src/CSharp/Solutions/Solution733.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
