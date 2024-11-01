@@ -577,6 +577,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 731  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | [C#](./src/CSharp/Solutions/Solution731.cs) | Medium |
 | 732  | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | [C#](./src/CSharp/Solutions/Solution732.cs) | Hard |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill) | [C#](./src/CSharp/Solutions/Solution733.cs) | Easy |
+| 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [C#](./src/CSharp/Solutions/Solution735.cs) | Medium |
+| 736  | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression) | [C#](./src/CSharp/Solutions/Solution736.cs) | Hard |
+| 738  | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) | [C#](./src/CSharp/Solutions/Solution738.cs) | Medium |
+| 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [C#](./src/CSharp/Solutions/Solution739.cs) | Medium |
+| 740  | [Delete and Earn](https://leetcode.com/problems/delete-and-earn) | [C#](./src/CSharp/Solutions/Solution740.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |

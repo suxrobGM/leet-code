@@ -9,7 +9,6 @@ public class Solution733
     /// 733. Flood Fill - Easy
     /// <a href="https://leetcode.com/problems/flood-fill">See the problem</a>
     /// </summary>
-
     public int[][] FloodFill(int[][] image, int sr, int sc, int color)
     {
         var rows = image.Length;
