@@ -582,6 +582,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 738  | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits) | [C#](./src/CSharp/Solutions/Solution738.cs) | Medium |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [C#](./src/CSharp/Solutions/Solution739.cs) | Medium |
 | 740  | [Delete and Earn](https://leetcode.com/problems/delete-and-earn) | [C#](./src/CSharp/Solutions/Solution740.cs) | Medium |
+| 741  | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup) | [C#](./src/CSharp/Solutions/Solution741.cs) | Hard |
+| 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [C#](./src/CSharp/Solutions/Solution743.cs) | Medium |
+| 744  | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C#](./src/CSharp/Solutions/Solution744.cs) | Easy |
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C#](./src/CSharp/Solutions/Solution746.cs) | Easy |
+| 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [C#](./src/CSharp/Solutions/Solution747.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
