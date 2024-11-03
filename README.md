@@ -587,6 +587,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 744  | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C#](./src/CSharp/Solutions/Solution744.cs) | Easy |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C#](./src/CSharp/Solutions/Solution746.cs) | Easy |
 | 747  | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [C#](./src/CSharp/Solutions/Solution747.cs) | Easy |
+| 748  | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [C#](./src/CSharp/Solutions/Solution748.cs) | Easy |
+| 749  | [Contain Virus](https://leetcode.com/problems/contain-virus) | [C#](./src/CSharp/Solutions/Solution749.cs) | Hard |
+| 752  | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [C#](./src/CSharp/Solutions/Solution752.cs) | Medium |
+| 753  | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe) | [C#](./src/CSharp/Solutions/Solution753.cs) | Hard |
+| 754  | [Reach a Number](https://leetcode.com/problems/reach-a-number) | [C#](./src/CSharp/Solutions/Solution754.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
