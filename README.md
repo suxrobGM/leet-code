@@ -592,6 +592,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 752  | [Open the Lock](https://leetcode.com/problems/open-the-lock) | [C#](./src/CSharp/Solutions/Solution752.cs) | Medium |
 | 753  | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe) | [C#](./src/CSharp/Solutions/Solution753.cs) | Hard |
 | 754  | [Reach a Number](https://leetcode.com/problems/reach-a-number) | [C#](./src/CSharp/Solutions/Solution754.cs) | Medium |
+| 756  | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix) | [C#](./src/CSharp/Solutions/Solution756.cs) | Medium |
+| 761  | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [C#](./src/CSharp/Solutions/Solution761.cs) | Hard |
+| 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | [C#](./src/CSharp/Solutions/Solution762.cs) | Easy |
+| 763  | [Partition Labels](https://leetcode.com/problems/partition-labels) | [C#](./src/CSharp/Solutions/Solution763.cs) | Medium |
+| 764  | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign) | [C#](./src/CSharp/Solutions/Solution764.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
