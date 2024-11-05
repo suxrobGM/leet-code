@@ -597,6 +597,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | [C#](./src/CSharp/Solutions/Solution762.cs) | Easy |
 | 763  | [Partition Labels](https://leetcode.com/problems/partition-labels) | [C#](./src/CSharp/Solutions/Solution763.cs) | Medium |
 | 764  | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign) | [C#](./src/CSharp/Solutions/Solution764.cs) | Medium |
+| 765  | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | [C#](./src/CSharp/Solutions/Solution765.cs) | Hard |
+| 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [C#](./src/CSharp/Solutions/Solution766.cs) | Easy |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string) | [C#](./src/CSharp/Solutions/Solution767.cs) | Medium |
+| 768  | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii) | [C#](./src/CSharp/Solutions/Solution768.cs) | Hard |
+| 769  | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [C#](./src/CSharp/Solutions/Solution769.cs) | Medium |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
