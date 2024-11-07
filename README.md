@@ -602,6 +602,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string) | [C#](./src/CSharp/Solutions/Solution767.cs) | Medium |
 | 768  | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii) | [C#](./src/CSharp/Solutions/Solution768.cs) | Hard |
 | 769  | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | [C#](./src/CSharp/Solutions/Solution769.cs) | Medium |
+| 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [C#](./src/CSharp/Solutions/Solution771.cs) | Easy |
+| 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle) | [C#](./src/CSharp/Solutions/Solution773.cs) | Hard |
+| 775  | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | [C#](./src/CSharp/Solutions/Solution775.cs) | Medium |
+| 777  | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string) | [C#](./src/CSharp/Solutions/Solution777.cs) | Medium |
+| 778  | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) | [C#](./src/CSharp/Solutions/Solution778.cs) | Hard |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
