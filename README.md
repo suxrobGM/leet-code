@@ -607,6 +607,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 775  | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | [C#](./src/CSharp/Solutions/Solution775.cs) | Medium |
 | 777  | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string) | [C#](./src/CSharp/Solutions/Solution777.cs) | Medium |
 | 778  | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) | [C#](./src/CSharp/Solutions/Solution778.cs) | Hard |
+| 779  | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | [C#](./src/CSharp/Solutions/Solution779.cs) | Medium |
+| 780  | [Reaching Points](https://leetcode.com/problems/reaching-points) | [C#](./src/CSharp/Solutions/Solution780.cs) | Hard |
+| 781  | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | [C#](./src/CSharp/Solutions/Solution781.cs) | Medium |
+| 782  | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard) | [C#](./src/CSharp/Solutions/Solution782.cs) | Hard |
+| 783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [C#](./src/CSharp/Solutions/Solution783.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
