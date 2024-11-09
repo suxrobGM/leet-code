@@ -3,7 +3,7 @@
 public class Solution785
 {
     /// <summary>
-    /// 785. Is Graph Bipartite?
+    /// 785. Is Graph Bipartite? - Medium
     /// <a href="https://leetcode.com/problems/is-graph-bipartite">See the problem</a>
     /// </summary>
     public bool IsBipartite(int[][] graph)
