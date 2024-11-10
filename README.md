@@ -613,6 +613,15 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 782  | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard) | [C#](./src/CSharp/Solutions/Solution782.cs) | Hard |
 | 783  | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [C#](./src/CSharp/Solutions/Solution783.cs) | Easy |
 | 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [C#](./src/CSharp/Solutions/Solution785.cs) | Medium |
+| 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | [C#](./src/CSharp/Solutions/Solution786.cs) | Hard |
+| 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | [C#](./src/CSharp/Solutions/Solution787.cs) | Medium |
+| 788  | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | [C#](./src/CSharp/Solutions/Solution788.cs) | Easy |
+| 789  | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts) | [C#](./src/CSharp/Solutions/Solution789.cs) | Medium |
+| 790  | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | [C#](./src/CSharp/Solutions/Solution790.cs) | Medium |
+| 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [C#](./src/CSharp/Solutions/Solution791.cs) | Medium |
+| 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [C#](./src/CSharp/Solutions/Solution792.cs) | Medium |
+| 793  | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) | [C#](./src/CSharp/Solutions/Solution793.cs) | Hard |
+| 794  | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state) | [C#](./src/CSharp/Solutions/Solution794.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
