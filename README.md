@@ -622,6 +622,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 792  | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [C#](./src/CSharp/Solutions/Solution792.cs) | Medium |
 | 793  | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) | [C#](./src/CSharp/Solutions/Solution793.cs) | Hard |
 | 794  | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state) | [C#](./src/CSharp/Solutions/Solution794.cs) | Medium |
+| 795  | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum) | [C#](./src/CSharp/Solutions/Solution795.cs) | Medium |
+| 796  | [Rotate String](https://leetcode.com/problems/rotate-string) | [C#](./src/CSharp/Solutions/Solution796.cs) | Easy |
+| 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C#](./src/CSharp/Solutions/Solution797.cs) | Medium |
+| 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score) | [C#](./src/CSharp/Solutions/Solution798.cs) | Hard |
+| 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | [C#](./src/CSharp/Solutions/Solution799.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
