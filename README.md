@@ -627,6 +627,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C#](./src/CSharp/Solutions/Solution797.cs) | Medium |
 | 798  | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score) | [C#](./src/CSharp/Solutions/Solution798.cs) | Hard |
 | 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | [C#](./src/CSharp/Solutions/Solution799.cs) | Medium |
+| 801  | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing) | [C#](./src/CSharp/Solutions/Solution801.cs) | Hard |
+| 802  | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | [C#](./src/CSharp/Solutions/Solution802.cs) | Medium |
+| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [C#](./src/CSharp/Solutions/Solution804.cs) | Easy |
+| 805  | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average) | [C#](./src/CSharp/Solutions/Solution805.cs) | Hard |
+| 806  | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [C#](./src/CSharp/Solutions/Solution806.cs) | Easy |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
