@@ -637,6 +637,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 809  | [Expressive Words](https://leetcode.com/problems/expressive-words) | [C#](./src/CSharp/Solutions/Solution809.cs) | Medium |
 | 810  | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game) | [C#](./src/CSharp/Solutions/Solution810.cs) | Hard |
 | 811  | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) | [C#](./src/CSharp/Solutions/Solution811.cs) | Easy |
+| 812  | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) | [C#](./src/CSharp/Solutions/Solution812.cs) | Easy |
+| 813  | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages) | [C#](./src/CSharp/Solutions/Solution813.cs) | Medium |
+| 814  | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [C#](./src/CSharp/Solutions/Solution814.cs) | Medium |
+| 815  | [Bus Routes](https://leetcode.com/problems/bus-routes) | [C#](./src/CSharp/Solutions/Solution815.cs) | Hard |
+| 816  | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates) | [C#](./src/CSharp/Solutions/Solution816.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
