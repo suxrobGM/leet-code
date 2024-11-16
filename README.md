@@ -642,6 +642,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 814  | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [C#](./src/CSharp/Solutions/Solution814.cs) | Medium |
 | 815  | [Bus Routes](https://leetcode.com/problems/bus-routes) | [C#](./src/CSharp/Solutions/Solution815.cs) | Hard |
 | 816  | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates) | [C#](./src/CSharp/Solutions/Solution816.cs) | Medium |
+| 817  | [Linked List Components](https://leetcode.com/problems/linked-list-components) | [C#](./src/CSharp/Solutions/Solution817.cs) | Medium |
+| 818  | [Race Car](https://leetcode.com/problems/race-car) | [C#](./src/CSharp/Solutions/Solution818.cs) | Hard |
+| 819  | [Most Common Word](https://leetcode.com/problems/most-common-word) | [C#](./src/CSharp/Solutions/Solution819.cs) | Easy |
+| 820  | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [C#](./src/CSharp/Solutions/Solution820.cs) | Medium |
+| 821  | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [C#](./src/CSharp/Solutions/Solution821.cs) | Easy |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
