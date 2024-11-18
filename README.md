@@ -652,6 +652,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 824  | [Goat Latin](https://leetcode.com/problems/goat-latin) | [C#](./src/CSharp/Solutions/Solution824.cs) | Easy |
 | 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages) | [C#](./src/CSharp/Solutions/Solution825.cs) | Medium |
 | 826  | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) | [C#](./src/CSharp/Solutions/Solution826.cs) | Medium |
+| 827  | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | [C#](./src/CSharp/Solutions/Solution827.cs) | Hard |
+| 828  | [Unique Letter String](https://leetcode.com/problems/unique-letter-string) | [C#](./src/CSharp/Solutions/Solution828.cs) | Hard |
+| 829  | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum) | [C#](./src/CSharp/Solutions/Solution829.cs) | Hard |
+| 830  | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [C#](./src/CSharp/Solutions/Solution830.cs) | Easy |
+| 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information) | [C#](./src/CSharp/Solutions/Solution831.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
