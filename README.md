@@ -657,6 +657,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 829  | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum) | [C#](./src/CSharp/Solutions/Solution829.cs) | Hard |
 | 830  | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [C#](./src/CSharp/Solutions/Solution830.cs) | Easy |
 | 831  | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information) | [C#](./src/CSharp/Solutions/Solution831.cs) | Medium |
+| 832  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [C#](./src/CSharp/Solutions/Solution832.cs) | Easy |
+| 833  | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string) | [C#](./src/CSharp/Solutions/Solution833.cs) | Medium |
+| 834  | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree) | [C#](./src/CSharp/Solutions/Solution834.cs) | Hard |
+| 835  | [Image Overlap](https://leetcode.com/problems/image-overlap) | [C#](./src/CSharp/Solutions/Solution835.cs) | Medium |
+| 836  | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [C#](./src/CSharp/Solutions/Solution836.cs) | Easy |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
