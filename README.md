@@ -663,6 +663,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 835  | [Image Overlap](https://leetcode.com/problems/image-overlap) | [C#](./src/CSharp/Solutions/Solution835.cs) | Medium |
 | 836  | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | [C#](./src/CSharp/Solutions/Solution836.cs) | Easy |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
+| 837  | [New 21 Game](https://leetcode.com/problems/new-21-game) | [C#](./src/CSharp/Solutions/Solution837.cs) | Medium |
+| 838  | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [C#](./src/CSharp/Solutions/Solution838.cs) | Medium |
+| 839  | [Similar String Groups](https://leetcode.com/problems/similar-string-groups) | [C#](./src/CSharp/Solutions/Solution839.cs) | Hard |
+| 840  | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | [C#](./src/CSharp/Solutions/Solution840.cs) | Easy |
+| 841  | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [C#](./src/CSharp/Solutions/Solution841.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
