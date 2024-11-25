@@ -674,6 +674,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 846  | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | [C#](./src/CSharp/Solutions/Solution846.cs) | Medium |
 | 847  | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) | [C#](./src/CSharp/Solutions/Solution847.cs) | Hard |
 | 848  | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [C#](./src/CSharp/Solutions/Solution848.cs) | Medium |
+| 849  | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | [C#](./src/CSharp/Solutions/Solution849.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
