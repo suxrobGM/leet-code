@@ -678,6 +678,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 851  | [Loud and Rich](https://leetcode.com/problems/loud-and-rich) | [C#](./src/CSharp/Solutions/Solution851.cs) | Medium |
 | 852  | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [C#](./src/CSharp/Solutions/Solution852.cs) | Medium |
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet) | [C#](./src/CSharp/Solutions/Solution853.cs) | Medium |
+| 854  | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings) | [C#](./src/CSharp/Solutions/Solution854.cs) | Hard |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
