@@ -680,6 +680,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet) | [C#](./src/CSharp/Solutions/Solution853.cs) | Medium |
 | 854  | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings) | [C#](./src/CSharp/Solutions/Solution854.cs) | Hard |
 | 855  | [Exam Room](https://leetcode.com/problems/exam-room) | [C#](./src/CSharp/Solutions/Solution855.cs) | Medium |
+| 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [C#](./src/CSharp/Solutions/Solution856.cs) | Medium |
+| 857  | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | [C#](./src/CSharp/Solutions/Solution857.cs) | Hard |
+| 858  | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [C#](./src/CSharp/Solutions/Solution858.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
