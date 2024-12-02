@@ -683,6 +683,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 856  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [C#](./src/CSharp/Solutions/Solution856.cs) | Medium |
 | 857  | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | [C#](./src/CSharp/Solutions/Solution857.cs) | Hard |
 | 858  | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [C#](./src/CSharp/Solutions/Solution858.cs) | Medium |
+| 859  | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [C#](./src/CSharp/Solutions/Solution859.cs) | Easy |
+| 860  | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [C#](./src/CSharp/Solutions/Solution860.cs) | Easy |
+| 861  | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) | [C#](./src/CSharp/Solutions/Solution861.cs) | Medium |
+| 862  | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) | [C#](./src/CSharp/Solutions/Solution862.cs) | Hard |
+| 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution863.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
