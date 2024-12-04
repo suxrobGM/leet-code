@@ -688,6 +688,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 861  | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) | [C#](./src/CSharp/Solutions/Solution861.cs) | Medium |
 | 862  | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k) | [C#](./src/CSharp/Solutions/Solution862.cs) | Hard |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution863.cs) | Medium |
+| 864  | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys) | [C#](./src/CSharp/Solutions/Solution864.cs) | Hard |
+| 865  | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes) | [C#](./src/CSharp/Solutions/Solution865.cs) | Medium |
+| 866  | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome) | [C#](./src/CSharp/Solutions/Solution866.cs) | Medium |
+| 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [C#](./src/CSharp/Solutions/Solution867.cs) | Easy |
+| 868  | [Binary Gap](https://leetcode.com/problems/binary-gap) | [C#](./src/CSharp/Solutions/Solution868.cs) | Easy |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
