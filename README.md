@@ -694,6 +694,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [C#](./src/CSharp/Solutions/Solution867.cs) | Easy |
 | 868  | [Binary Gap](https://leetcode.com/problems/binary-gap) | [C#](./src/CSharp/Solutions/Solution868.cs) | Easy |
 | 869  | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | [C#](./src/CSharp/Solutions/Solution869.cs) | Medium |
+| 870  | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle) | [C#](./src/CSharp/Solutions/Solution870.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
