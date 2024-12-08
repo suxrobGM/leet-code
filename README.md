@@ -700,6 +700,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | [C#](./src/CSharp/Solutions/Solution873.cs) | Medium |
 | 874  | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) | [C#](./src/CSharp/Solutions/Solution874.cs) | Easy |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [C#](./src/CSharp/Solutions/Solution875.cs) | Medium |
+| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C#](./src/CSharp/Solutions/Solution876.cs) | Easy |
+| 877  | [Stone Game](https://leetcode.com/problems/stone-game) | [C#](./src/CSharp/Solutions/Solution877.cs) | Medium |
+| 878  | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number) | [C#](./src/CSharp/Solutions/Solution878.cs) | Hard |
+| 879  | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes) | [C#](./src/CSharp/Solutions/Solution879.cs) | Hard |
+| 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [C#](./src/CSharp/Solutions/Solution881.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
