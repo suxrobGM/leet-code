@@ -705,6 +705,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 878  | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number) | [C#](./src/CSharp/Solutions/Solution878.cs) | Hard |
 | 879  | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes) | [C#](./src/CSharp/Solutions/Solution879.cs) | Hard |
 | 881  | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [C#](./src/CSharp/Solutions/Solution881.cs) | Medium |
+| 882  | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph) | [C#](./src/CSharp/Solutions/Solution882.cs) | Hard |
+| 883  | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | [C#](./src/CSharp/Solutions/Solution883.cs) | Easy |
+| 884  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [C#](./src/CSharp/Solutions/Solution884.cs) | Easy |
+| 885  | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) | [C#](./src/CSharp/Solutions/Solution885.cs) | Medium |
+| 886  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | [C#](./src/CSharp/Solutions/Solution886.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
