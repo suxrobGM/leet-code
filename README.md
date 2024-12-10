@@ -711,6 +711,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 885  | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) | [C#](./src/CSharp/Solutions/Solution885.cs) | Medium |
 | 886  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | [C#](./src/CSharp/Solutions/Solution886.cs) | Medium |
 | 887  | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop) | [C#](./src/CSharp/Solutions/Solution887.cs) | Hard |
+| 888  | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [C#](./src/CSharp/Solutions/Solution888.cs) | Easy |
+| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [C#](./src/CSharp/Solutions/Solution889.cs) | Medium |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [C#](./src/CSharp/Solutions/Solution890.cs) | Medium |
+| 891  | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths) | [C#](./src/CSharp/Solutions/Solution891.cs) | Hard |
+| 892  | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | [C#](./src/CSharp/Solutions/Solution892.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
