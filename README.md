@@ -718,6 +718,12 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 892  | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | [C#](./src/CSharp/Solutions/Solution892.cs) | Easy |
 | 893  | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings) | [C#](./src/CSharp/Solutions/Solution893.cs) | Medium |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | [C#](./src/CSharp/Solutions/Solution894.cs) | Medium |
+| 895  | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack) | [C#](./src/CSharp/Solutions/Solution895.cs) | Hard |
+| 896  | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [C#](./src/CSharp/Solutions/Solution896.cs) | Easy |
+| 897  | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [C#](./src/CSharp/Solutions/Solution897.cs) | Easy |
+| 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | [C#](./src/CSharp/Solutions/Solution898.cs) | Medium |
+| 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [C#](./src/CSharp/Solutions/Solution899.cs) | Hard |
+| 900  | [RLE Iterator](https://leetcode.com/problems/rle-iterator) | [C#](./src/CSharp/Solutions/Solution900.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
