@@ -724,6 +724,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | [C#](./src/CSharp/Solutions/Solution898.cs) | Medium |
 | 899  | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [C#](./src/CSharp/Solutions/Solution899.cs) | Hard |
 | 900  | [RLE Iterator](https://leetcode.com/problems/rle-iterator) | [C#](./src/CSharp/Solutions/Solution900.cs) | Medium |
+| 901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | [C#](./src/CSharp/Solutions/Solution901.cs) | Medium |
+| 902  | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set) | [C#](./src/CSharp/Solutions/Solution902.cs) | Hard |
+| 903  | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence) | [C#](./src/CSharp/Solutions/Solution903.cs) | Hard |
+| 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [C#](./src/CSharp/Solutions/Solution904.cs) | Medium |
+| 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [C#](./src/CSharp/Solutions/Solution905.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
