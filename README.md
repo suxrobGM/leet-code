@@ -730,6 +730,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [C#](./src/CSharp/Solutions/Solution904.cs) | Medium |
 | 905  | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [C#](./src/CSharp/Solutions/Solution905.cs) | Easy |
 | 906  | [Super Palindromes](https://leetcode.com/problems/super-palindromes) | [C#](./src/CSharp/Solutions/Solution906.cs) | Hard |
+| 907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | [C#](./src/CSharp/Solutions/Solution907.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
