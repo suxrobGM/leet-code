@@ -735,6 +735,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 909  | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | [C#](./src/CSharp/Solutions/Solution909.cs) | Medium |
 | 910  | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | [C#](./src/CSharp/Solutions/Solution910.cs) | Medium |
 | 911  | [Online Election](https://leetcode.com/problems/online-election) | [C#](./src/CSharp/Solutions/Solution911.cs) | Medium |
+| 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [C#](./src/CSharp/Solutions/Solution912.cs) | Medium |
+| 914  | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [C#](./src/CSharp/Solutions/Solution914.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
