@@ -737,6 +737,11 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 911  | [Online Election](https://leetcode.com/problems/online-election) | [C#](./src/CSharp/Solutions/Solution911.cs) | Medium |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [C#](./src/CSharp/Solutions/Solution912.cs) | Medium |
 | 914  | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [C#](./src/CSharp/Solutions/Solution914.cs) | Easy |
+| 915  | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | [C#](./src/CSharp/Solutions/Solution915.cs) | Medium |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets) | [C#](./src/CSharp/Solutions/Solution916.cs) | Medium |
+| 917  | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [C#](./src/CSharp/Solutions/Solution917.cs) | Easy |
+| 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C#](./src/CSharp/Solutions/Solution918.cs) | Medium |
+| 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [C#](./src/CSharp/Solutions/Solution919.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
