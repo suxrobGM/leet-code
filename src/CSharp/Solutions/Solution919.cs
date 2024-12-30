@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 public class Solution919
 {
     /// <summary>
-    ///919. Complete Binary Tree Inserter - Medium
+    /// 919. Complete Binary Tree Inserter - Medium
     /// <a href="https://leetcode.com/problems/complete-binary-tree-inserter">See the problem</a>
     /// </summary>
     public class CBTInserter

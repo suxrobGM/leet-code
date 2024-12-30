@@ -742,6 +742,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 917  | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [C#](./src/CSharp/Solutions/Solution917.cs) | Easy |
 | 918  | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C#](./src/CSharp/Solutions/Solution918.cs) | Medium |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | [C#](./src/CSharp/Solutions/Solution919.cs) | Medium |
+| 920  | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | [C#](./src/CSharp/Solutions/Solution920.cs) | Hard |
+| 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [C#](./src/CSharp/Solutions/Solution921.cs) | Medium |
+| 922  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [C#](./src/CSharp/Solutions/Solution922.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
