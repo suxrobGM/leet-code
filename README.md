@@ -746,6 +746,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [C#](./src/CSharp/Solutions/Solution921.cs) | Medium |
 | 922  | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [C#](./src/CSharp/Solutions/Solution922.cs) | Easy |
 | 923  | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [C#](./src/CSharp/Solutions/Solution923.cs) | Medium |
+| 924  | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread) | [C#](./src/CSharp/Solutions/Solution924.cs) | Hard |
+| 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [C#](./src/CSharp/Solutions/Solution925.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
