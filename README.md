@@ -755,6 +755,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 931  | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [C#](./src/CSharp/Solutions/Solution931.cs) | Medium |
 | 932  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [C#](./src/CSharp/Solutions/Solution932.cs) | Medium |
 | 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | [C#](./src/CSharp/Solutions/Solution933.cs) | Easy |
+| 934  | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [C#](./src/CSharp/Solutions/Solution934.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
