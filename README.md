@@ -764,6 +764,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 940  | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii) | [C#](./src/CSharp/Solutions/Solution940.cs) | Hard |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | [C#](./src/CSharp/Solutions/Solution941.cs) | Easy |
 | 942  | [DI String Match](https://leetcode.com/problems/di-string-match) | [C#](./src/CSharp/Solutions/Solution942.cs) | Easy |
+| 943  | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring) | [C#](./src/CSharp/Solutions/Solution943.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
