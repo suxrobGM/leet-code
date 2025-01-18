@@ -766,6 +766,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 942  | [DI String Match](https://leetcode.com/problems/di-string-match) | [C#](./src/CSharp/Solutions/Solution942.cs) | Easy |
 | 943  | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring) | [C#](./src/CSharp/Solutions/Solution943.cs) | Hard |
 | 944  | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [C#](./src/CSharp/Solutions/Solution944.cs) | Easy |
+| 945  | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) | [C#](./src/CSharp/Solutions/Solution945.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
