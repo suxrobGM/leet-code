@@ -773,6 +773,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 949  | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits) | [C#](./src/CSharp/Solutions/Solution949.cs) | Medium |
 | 950  | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C#](./src/CSharp/Solutions/Solution950.cs) | Medium |
 | 951  | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) | [C#](./src/CSharp/Solutions/Solution951.cs) | Medium |
+| 952  | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor) | [C#](./src/CSharp/Solutions/Solution952.cs) | Hard |
+| 953  | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [C#](./src/CSharp/Solutions/Solution953.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
