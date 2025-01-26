@@ -779,6 +779,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 955  | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) | [C#](./src/CSharp/Solutions/Solution955.cs) | Medium |
 | 956  | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard) | [C#](./src/CSharp/Solutions/Solution956.cs) | Hard |
 | 957  | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) | [C#](./src/CSharp/Solutions/Solution957.cs) | Medium |
+| 958  | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution958.cs) | Medium |
+| 959  | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) | [C#](./src/CSharp/Solutions/Solution959.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
