@@ -783,6 +783,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 959  | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) | [C#](./src/CSharp/Solutions/Solution959.cs) | Medium |
 | 960  | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) | [C#](./src/CSharp/Solutions/Solution960.cs) | Hard |
 | 961  | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [C#](./src/CSharp/Solutions/Solution961.cs) | Easy |
+| 962  | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) | [C#](./src/CSharp/Solutions/Solution962.cs) | Medium |
+| 963  | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) | [C#](./src/CSharp/Solutions/Solution963.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
