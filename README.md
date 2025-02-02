@@ -787,6 +787,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 963  | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) | [C#](./src/CSharp/Solutions/Solution963.cs) | Medium |
 | 965  | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [C#](./src/CSharp/Solutions/Solution965.cs) | Easy |
 | 966  | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | [C#](./src/CSharp/Solutions/Solution966.cs) | Medium |
+| 968  | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [C#](./src/CSharp/Solutions/Solution968.cs) | Hard |
+| 969  | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting) | [C#](./src/CSharp/Solutions/Solution969.cs) | Medium |
+| 970  | [Powerful Integers](https://leetcode.com/problems/powerful-integers) | [C#](./src/CSharp/Solutions/Solution970.cs) | Medium |
+| 971  | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution971.cs) | Medium |
 | 967  | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [C#](./src/CSharp/Solutions/Solution967.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
