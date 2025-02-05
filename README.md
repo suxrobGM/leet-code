@@ -793,6 +793,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 970  | [Powerful Integers](https://leetcode.com/problems/powerful-integers) | [C#](./src/CSharp/Solutions/Solution970.cs) | Medium |
 | 971  | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution971.cs) | Medium |
 | 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [C#](./src/CSharp/Solutions/Solution973.cs) | Medium |
+| 974  | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | [C#](./src/CSharp/Solutions/Solution974.cs) | Medium |
+| 975  | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | [C#](./src/CSharp/Solutions/Solution975.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
