@@ -796,6 +796,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 974  | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | [C#](./src/CSharp/Solutions/Solution974.cs) | Medium |
 | 975  | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | [C#](./src/CSharp/Solutions/Solution975.cs) | Hard |
 | 976  | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [C#](./src/CSharp/Solutions/Solution976.cs) | Easy |
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C#](./src/CSharp/Solutions/Solution977.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
