@@ -801,6 +801,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 979  | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution979.cs) | Medium |
 | 980  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | [C#](./src/CSharp/Solutions/Solution980.cs) | Hard |
 | 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [C#](./src/CSharp/Solutions/Solution981.cs) | Medium |
+| 982  | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero) | [C#](./src/CSharp/Solutions/Solution982.cs) | Hard |
+| 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | [C#](./src/CSharp/Solutions/Solution983.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
