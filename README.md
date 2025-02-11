@@ -803,6 +803,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [C#](./src/CSharp/Solutions/Solution981.cs) | Medium |
 | 982  | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero) | [C#](./src/CSharp/Solutions/Solution982.cs) | Hard |
 | 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | [C#](./src/CSharp/Solutions/Solution983.cs) | Medium |
+| 984  | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb) | [C#](./src/CSharp/Solutions/Solution984.cs) | Medium |
+| 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [C#](./src/CSharp/Solutions/Solution985.cs) | Easy |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
