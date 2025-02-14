@@ -807,6 +807,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 985  | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [C#](./src/CSharp/Solutions/Solution985.cs) | Easy |
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | [C#](./src/CSharp/Solutions/Solution986.cs) | Medium |
 | 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution987.cs) | Hard |
+| 988  | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) | [C#](./src/CSharp/Solutions/Solution988.cs) | Medium |
+| 989  | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [C#](./src/CSharp/Solutions/Solution989.cs) | Easy |
+| 990  | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) | [C#](./src/CSharp/Solutions/Solution990.cs) | Medium |
+| 991  | [Broken Calculator](https://leetcode.com/problems/broken-calculator) | [C#](./src/CSharp/Solutions/Solution991.cs) | Medium |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
