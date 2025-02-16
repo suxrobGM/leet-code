@@ -813,6 +813,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 991  | [Broken Calculator](https://leetcode.com/problems/broken-calculator) | [C#](./src/CSharp/Solutions/Solution991.cs) | Medium |
 | 992  | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C#](./src/CSharp/Solutions/Solution992.cs) | Hard |
 | 993  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution993.cs) | Easy |
+| 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [C#](./src/CSharp/Solutions/Solution994.cs) | Medium |
+| 995  | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | [C#](./src/CSharp/Solutions/Solution995.cs) | Hard |
+| 996  | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays) | [C#](./src/CSharp/Solutions/Solution996.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
