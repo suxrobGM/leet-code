@@ -817,6 +817,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 995  | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | [C#](./src/CSharp/Solutions/Solution995.cs) | Hard |
 | 996  | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays) | [C#](./src/CSharp/Solutions/Solution996.cs) | Hard |
 | 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [C#](./src/CSharp/Solutions/Solution997.cs) | Easy |
+| 998  | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii) | [C#](./src/CSharp/Solutions/Solution998.cs) | Medium |
+| 999  | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [C#](./src/CSharp/Solutions/Solution999.cs) | Easy |
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones) | [C#](./src/CSharp/Solutions/Solution1000.cs) | Hard |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |

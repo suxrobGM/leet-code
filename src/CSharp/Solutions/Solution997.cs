@@ -3,7 +3,7 @@
 public class Solution997
 {
     /// <summary>
-    /// 997. Find the Town Judge
+    /// 997. Find the Town Judge - Easy
     /// <a href="https://leetcode.com/problems/find-the-town-judge">See the problem</a>
     /// </summary>
     public int FindJudge(int n, int[][] trust)
