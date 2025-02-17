@@ -820,6 +820,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 998  | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii) | [C#](./src/CSharp/Solutions/Solution998.cs) | Medium |
 | 999  | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [C#](./src/CSharp/Solutions/Solution999.cs) | Easy |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones) | [C#](./src/CSharp/Solutions/Solution1000.cs) | Hard |
+| 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination) | [C#](./src/CSharp/Solutions/Solution1001.cs) | Hard |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [C#](./src/CSharp/Solutions/Solution1002.cs) | Easy |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | [C#](./src/CSharp/Solutions/Solution1003.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
