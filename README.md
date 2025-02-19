@@ -823,6 +823,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination) | [C#](./src/CSharp/Solutions/Solution1001.cs) | Hard |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [C#](./src/CSharp/Solutions/Solution1002.cs) | Easy |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | [C#](./src/CSharp/Solutions/Solution1003.cs) | Medium |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [C#](./src/CSharp/Solutions/Solution1004.cs) | Medium |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [C#](./src/CSharp/Solutions/Solution1005.cs) | Easy |
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [C#](./src/CSharp/Solutions/Solution1006.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
