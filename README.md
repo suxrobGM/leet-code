@@ -826,6 +826,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [C#](./src/CSharp/Solutions/Solution1004.cs) | Medium |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [C#](./src/CSharp/Solutions/Solution1005.cs) | Easy |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [C#](./src/CSharp/Solutions/Solution1006.cs) | Medium |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [C#](./src/CSharp/Solutions/Solution1007.cs) | Medium |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution1008.cs) | Medium |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C#](./src/CSharp/Solutions/Solution1009.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
