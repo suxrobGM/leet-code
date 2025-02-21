@@ -829,6 +829,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [C#](./src/CSharp/Solutions/Solution1007.cs) | Medium |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution1008.cs) | Medium |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C#](./src/CSharp/Solutions/Solution1009.cs) | Easy |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [C#](./src/CSharp/Solutions/Solution1010.cs) | Medium |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C#](./src/CSharp/Solutions/Solution1011.cs) | Medium |
+| 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | [C#](./src/CSharp/Solutions/Solution1012.cs) | Hard |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
