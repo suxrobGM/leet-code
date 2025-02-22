@@ -832,6 +832,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [C#](./src/CSharp/Solutions/Solution1010.cs) | Medium |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C#](./src/CSharp/Solutions/Solution1011.cs) | Medium |
 | 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | [C#](./src/CSharp/Solutions/Solution1012.cs) | Hard |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [C#](./src/CSharp/Solutions/Solution1013.cs) | Easy |
+| 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | [C#](./src/CSharp/Solutions/Solution1014.cs) | Medium |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [C#](./src/CSharp/Solutions/Solution1015.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
