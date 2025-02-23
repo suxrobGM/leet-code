@@ -835,6 +835,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [C#](./src/CSharp/Solutions/Solution1013.cs) | Easy |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | [C#](./src/CSharp/Solutions/Solution1014.cs) | Medium |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | [C#](./src/CSharp/Solutions/Solution1015.cs) | Medium |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | [C#](./src/CSharp/Solutions/Solution1016.cs) | Medium |
+| 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | [C#](./src/CSharp/Solutions/Solution1017.cs) | Medium |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | [C#](./src/CSharp/Solutions/Solution1018.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
