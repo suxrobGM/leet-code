@@ -841,6 +841,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | [C#](./src/CSharp/Solutions/Solution1019.cs) | Medium |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | [C#](./src/CSharp/Solutions/Solution1020.cs) | Medium |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C#](./src/CSharp/Solutions/Solution1021.cs) | Easy |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [C#](./src/CSharp/Solutions/Solution1022.cs) | Easy |
+| 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching) | [C#](./src/CSharp/Solutions/Solution1023.cs) | Medium |
+| 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching) | [C#](./src/CSharp/Solutions/Solution1024.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
