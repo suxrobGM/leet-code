@@ -847,6 +847,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | [C#](./src/CSharp/Solutions/Solution1025.cs) | Easy |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | [C#](./src/CSharp/Solutions/Solution1026.cs) | Medium |
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence) | [C#](./src/CSharp/Solutions/Solution1027.cs) | Medium |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution1028.cs) | Hard |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | [C#](./src/CSharp/Solutions/Solution1029.cs) | Medium |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [C#](./src/CSharp/Solutions/Solution1030.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
