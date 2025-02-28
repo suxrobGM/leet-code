@@ -850,6 +850,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | [C#](./src/CSharp/Solutions/Solution1028.cs) | Hard |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | [C#](./src/CSharp/Solutions/Solution1029.cs) | Medium |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | [C#](./src/CSharp/Solutions/Solution1030.cs) | Easy |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | [C#](./src/CSharp/Solutions/Solution1031.cs) | Medium |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters) | [C#](./src/CSharp/Solutions/Solution1032.cs) | Hard |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive) | [C#](./src/CSharp/Solutions/Solution1033.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
