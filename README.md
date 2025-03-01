@@ -853,6 +853,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | [C#](./src/CSharp/Solutions/Solution1031.cs) | Medium |
 | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters) | [C#](./src/CSharp/Solutions/Solution1032.cs) | Hard |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive) | [C#](./src/CSharp/Solutions/Solution1033.cs) | Easy |
+| 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border) | [C#](./src/CSharp/Solutions/Solution1034.cs) | Medium |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines) | [C#](./src/CSharp/Solutions/Solution1035.cs) | Medium |
+| 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | [C#](./src/CSharp/Solutions/Solution1036.cs) | Hard |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
