@@ -859,6 +859,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | [C#](./src/CSharp/Solutions/Solution1037.cs) | Easy |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [C#](./src/CSharp/Solutions/Solution1038.cs) | Medium |
 | 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) | [C#](./src/CSharp/Solutions/Solution1039.cs) | Medium |
+| 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii) | [C#](./src/CSharp/Solutions/Solution1040.cs) | Medium |
+| 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | [C#](./src/CSharp/Solutions/Solution1041.cs) | Medium |
+| 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent) | [C#](./src/CSharp/Solutions/Solution1042.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
