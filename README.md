@@ -862,6 +862,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii) | [C#](./src/CSharp/Solutions/Solution1040.cs) | Medium |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | [C#](./src/CSharp/Solutions/Solution1041.cs) | Medium |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent) | [C#](./src/CSharp/Solutions/Solution1042.cs) | Medium |
+| 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | [C#](./src/CSharp/Solutions/Solution1043.cs) | Medium |
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [SQL](./src/SQL/Solution1045.sql) | Medium |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [C#](./src/CSharp/Solutions/Solution1046.cs) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
