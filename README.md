@@ -865,6 +865,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | [C#](./src/CSharp/Solutions/Solution1043.cs) | Medium |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [SQL](./src/SQL/Solution1045.sql) | Medium |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [C#](./src/CSharp/Solutions/Solution1046.cs) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [C#](./src/CSharp/Solutions/Solution1047.cs) | Easy |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [C#](./src/CSharp/Solutions/Solution1048.cs) | Medium |
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii) | [C#](./src/CSharp/Solutions/Solution1049.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
