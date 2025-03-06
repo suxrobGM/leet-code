@@ -868,6 +868,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [C#](./src/CSharp/Solutions/Solution1047.cs) | Easy |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [C#](./src/CSharp/Solutions/Solution1048.cs) | Medium |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii) | [C#](./src/CSharp/Solutions/Solution1049.cs) | Medium |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [SQL](./src/SQL/Solution1050.sql) | Medium |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [C#](./src/CSharp/Solutions/Solution1051.cs) | Easy |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C#](./src/CSharp/Solutions/Solution1052.cs) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
