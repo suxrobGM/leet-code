@@ -874,10 +874,13 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap) | [C#](./src/CSharp/Solutions/Solution1053.cs) | Medium |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) | [C#](./src/CSharp/Solutions/Solution1054.cs) | Medium |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | [C#](./src/CSharp/Solutions/Solution1061.cs) | Medium |
+| 1068 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii) | [SQL](./src/SQL/Solution1068.sql) | Easy |
 | 1070 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [SQL](./src/SQL/Solution1070.sql) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [C#](./src/CSharp/Solutions/Solution1071.cs) | Easy |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [C#](./src/CSharp/Solutions/Solution1072.cs) | Medium |
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers) | [C#](./src/CSharp/Solutions/Solution1073.cs) | Medium |
+| 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [C#](./src/CSharp/Solutions/Solution1074.cs) | Hard |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL](./src/SQL/Solution1075.sql) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
