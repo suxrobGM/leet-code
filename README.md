@@ -881,6 +881,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers) | [C#](./src/CSharp/Solutions/Solution1073.cs) | Medium |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [C#](./src/CSharp/Solutions/Solution1074.cs) | Hard |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL](./src/SQL/Solution1075.sql) | Easy |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | [C#](./src/CSharp/Solutions/Solution1078.cs) | Easy |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [C#](./src/CSharp/Solutions/Solution1079.cs) | Medium |
+| 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths) | [C#](./src/CSharp/Solutions/Solution1080.cs) | Medium |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
