@@ -885,6 +885,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [C#](./src/CSharp/Solutions/Solution1079.cs) | Medium |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths) | [C#](./src/CSharp/Solutions/Solution1080.cs) | Medium |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1081.cs) | Medium |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | [SQL](./src/SQL/Solution1084.sql) | Easy |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [C#](./src/CSharp/Solutions/Solution1089.cs) | Easy |
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels) | [C#](./src/CSharp/Solutions/Solution1090.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
