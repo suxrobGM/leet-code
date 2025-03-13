@@ -888,6 +888,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | [SQL](./src/SQL/Solution1084.sql) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [C#](./src/CSharp/Solutions/Solution1089.cs) | Easy |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels) | [C#](./src/CSharp/Solutions/Solution1090.cs) | Medium |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [C#](./src/CSharp/Solutions/Solution1091.cs) | Medium |
+| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence) | [C#](./src/CSharp/Solutions/Solution1092.cs) | Hard |
+| 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample) | [C#](./src/CSharp/Solutions/Solution1093.cs) | Medium |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
