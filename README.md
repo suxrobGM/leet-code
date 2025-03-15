@@ -895,6 +895,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [C#](./src/CSharp/Solutions/Solution1095.cs) | Hard |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | [C#](./src/CSharp/Solutions/Solution1096.cs) | Hard |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [C#](./src/CSharp/Solutions/Solution1103.cs) | Easy |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | [C#](./src/CSharp/Solutions/Solution1104.cs) | Medium |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | [C#](./src/CSharp/Solutions/Solution1105.cs) | Medium |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | [C#](./src/CSharp/Solutions/Solution1106.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
