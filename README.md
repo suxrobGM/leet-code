@@ -901,6 +901,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [C#](./src/CSharp/Solutions/Solution1108.cs) | Easy |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | [C#](./src/CSharp/Solutions/Solution1109.cs) | Medium |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | [C#](./src/CSharp/Solutions/Solution1110.cs) | Medium |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [C#](./src/CSharp/Solutions/Solution1111.cs) | Medium |
+| 1114 | [Print in Order](https://leetcode.com/problems/print-in-order) | [C#](./src/CSharp/Solutions/Solution1114.cs) | Easy |
+| 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | [C#](./src/CSharp/Solutions/Solution1115.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
