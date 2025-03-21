@@ -910,6 +910,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [C#](./src/CSharp/Solutions/Solution1123.cs) | Medium |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval) | [C#](./src/CSharp/Solutions/Solution1124.cs) | Medium |
 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) | [C#](./src/CSharp/Solutions/Solution1125.cs) | Hard |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [C#](./src/CSharp/Solutions/Solution1128.cs) | Easy |
+| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | [C#](./src/CSharp/Solutions/Solution1129.cs) | Medium |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | [C#](./src/CSharp/Solutions/Solution1130.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
