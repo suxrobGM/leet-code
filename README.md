@@ -913,6 +913,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [C#](./src/CSharp/Solutions/Solution1128.cs) | Easy |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | [C#](./src/CSharp/Solutions/Solution1129.cs) | Medium |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | [C#](./src/CSharp/Solutions/Solution1130.cs) | Medium |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | [C#](./src/CSharp/Solutions/Solution1131.cs) | Medium |
+| 1132 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates) | [SQL](./src/SQL/Solution1132.sql) | Easy |
+| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number) | [C#](./src/CSharp/Solutions/Solution1133.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
