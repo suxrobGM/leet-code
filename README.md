@@ -915,7 +915,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | [C#](./src/CSharp/Solutions/Solution1130.cs) | Medium |
 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | [C#](./src/CSharp/Solutions/Solution1131.cs) | Medium |
 | 1132 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates) | [SQL](./src/SQL/Solution1132.sql) | Easy |
-| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number) | [C#](./src/CSharp/Solutions/Solution1133.cs) | Medium |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square) | [C#](./src/CSharp/Solutions/Solution1139.cs) | Medium |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | [C#](./src/CSharp/Solutions/Solution1140.cs) | Medium |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [SQL](./src/SQL/Solution1141.sql) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
