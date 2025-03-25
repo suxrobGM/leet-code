@@ -913,6 +913,12 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | [C#](./src/CSharp/Solutions/Solution1128.cs) | Easy |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | [C#](./src/CSharp/Solutions/Solution1129.cs) | Medium |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | [C#](./src/CSharp/Solutions/Solution1130.cs) | Medium |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | [C#](./src/CSharp/Solutions/Solution1131.cs) | Medium |
+| 1132 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates) | [SQL](./src/SQL/Solution1132.sql) | Easy |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square) | [C#](./src/CSharp/Solutions/Solution1139.cs) | Medium |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | [C#](./src/CSharp/Solutions/Solution1140.cs) | Medium |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [SQL](./src/SQL/Solution1141.sql) | Easy |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C#](./src/CSharp/Solutions/Solution1143.cs) | Medium |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag) | [C#](./src/CSharp/Solutions/Solution1144.cs) | Medium |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game) | [C#](./src/CSharp/Solutions/Solution1145.cs) | Medium |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | [C#](./src/CSharp/Solutions/Solution1146.cs) | Medium |
