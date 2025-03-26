@@ -922,6 +922,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag) | [C#](./src/CSharp/Solutions/Solution1144.cs) | Medium |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game) | [C#](./src/CSharp/Solutions/Solution1145.cs) | Medium |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | [C#](./src/CSharp/Solutions/Solution1146.cs) | Medium |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition) | [C#](./src/CSharp/Solutions/Solution1147.cs) | Hard |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [SQL](./src/SQL/Solution1148.sql) | Easy |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | [C#](./src/CSharp/Solutions/Solution1154.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
