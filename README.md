@@ -925,6 +925,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition) | [C#](./src/CSharp/Solutions/Solution1147.cs) | Hard |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [SQL](./src/SQL/Solution1148.sql) | Easy |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | [C#](./src/CSharp/Solutions/Solution1154.cs) | Easy |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [C#](./src/CSharp/Solutions/Solution1155.cs) | Medium |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring) | [C#](./src/CSharp/Solutions/Solution1156.cs) | Medium |
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray) | [C#](./src/CSharp/Solutions/Solution1157.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
