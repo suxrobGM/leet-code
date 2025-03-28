@@ -928,6 +928,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [C#](./src/CSharp/Solutions/Solution1155.cs) | Medium |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring) | [C#](./src/CSharp/Solutions/Solution1156.cs) | Medium |
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray) | [C#](./src/CSharp/Solutions/Solution1157.cs) | Hard |
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | [SQL](./src/SQL/Solution1158.sql) | Easy |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [C#](./src/CSharp/Solutions/Solution1160.cs) | Easy |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution1161.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
