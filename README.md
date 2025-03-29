@@ -931,6 +931,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | [SQL](./src/SQL/Solution1158.sql) | Easy |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [C#](./src/CSharp/Solutions/Solution1160.cs) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution1161.cs) | Medium |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible) | [C#](./src/CSharp/Solutions/Solution1162.cs) | Medium |
+| 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order) | [C#](./src/CSharp/Solutions/Solution1163.cs) | Hard |
+| 1164 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [SQL](./src/SQL/Solution1164.sql) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
