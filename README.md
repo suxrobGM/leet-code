@@ -934,6 +934,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible) | [C#](./src/CSharp/Solutions/Solution1162.cs) | Medium |
 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order) | [C#](./src/CSharp/Solutions/Solution1163.cs) | Hard |
 | 1164 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [SQL](./src/SQL/Solution1164.sql) | Easy |
+| 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions) | [C#](./src/CSharp/Solutions/Solution1169.cs) | Medium |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [C#](./src/CSharp/Solutions/Solution1170.cs) | Medium |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [C#](./src/CSharp/Solutions/Solution1171.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
