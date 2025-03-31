@@ -937,6 +937,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions) | [C#](./src/CSharp/Solutions/Solution1169.cs) | Medium |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [C#](./src/CSharp/Solutions/Solution1170.cs) | Medium |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [C#](./src/CSharp/Solutions/Solution1171.cs) | Medium |
+| 1172 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [C#](./src/CSharp/Solutions/Solution1172.cs) | Easy |
+| 1174 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i) | [SQL](./src/SQL/Solution1174.sql) | Easy |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | [C#](./src/CSharp/Solutions/Solution1175.cs) | Easy |
+| 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring) | [C#](./src/CSharp/Solutions/Solution1177.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
