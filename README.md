@@ -944,6 +944,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle) | [C#](./src/CSharp/Solutions/Solution1178.cs) | Medium |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [SQL](./src/SQL/Solution1179.sql) | Easy |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops) | [C#](./src/CSharp/Solutions/Solution1184.cs) | Easy |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | [C#](./src/CSharp/Solutions/Solution1185.cs) | Easy |
+| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion) | [C#](./src/CSharp/Solutions/Solution1186.cs) | Medium |
+| 1187 | [Easiest Problem Ever](https://leetcode.com/problems/easiest-problem-ever) | [C#](./src/CSharp/Solutions/Solution1187.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
