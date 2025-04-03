@@ -947,6 +947,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | [C#](./src/CSharp/Solutions/Solution1185.cs) | Easy |
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion) | [C#](./src/CSharp/Solutions/Solution1186.cs) | Medium |
 | 1187 | [Easiest Problem Ever](https://leetcode.com/problems/easiest-problem-ever) | [C#](./src/CSharp/Solutions/Solution1187.cs) | Easy |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [C#](./src/CSharp/Solutions/Solution1189.cs) | Easy |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [C#](./src/CSharp/Solutions/Solution1190.cs) | Medium |
+| 1191 | [K Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum) | [C#](./src/CSharp/Solutions/Solution1191.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
