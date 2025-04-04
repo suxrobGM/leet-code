@@ -950,6 +950,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [C#](./src/CSharp/Solutions/Solution1189.cs) | Easy |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [C#](./src/CSharp/Solutions/Solution1190.cs) | Medium |
 | 1191 | [K Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum) | [C#](./src/CSharp/Solutions/Solution1191.cs) | Medium |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | [C#](./src/CSharp/Solutions/Solution1192.cs) | Hard |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [SQL](./src/SQL/Solution1193.sql) | Easy |
+| 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) | [C#](./src/CSharp/Solutions/Solution1195.cs) | Medium |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | [C#](./src/CSharp/Solutions/Solution1200.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
