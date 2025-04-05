@@ -954,6 +954,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [SQL](./src/SQL/Solution1193.sql) | Easy |
 | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) | [C#](./src/CSharp/Solutions/Solution1195.cs) | Medium |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | [C#](./src/CSharp/Solutions/Solution1200.cs) | Easy |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [C#](./src/CSharp/Solutions/Solution1201.cs) | Medium |
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps) | [C#](./src/CSharp/Solutions/Solution1202.cs) | Medium |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) | [C#](./src/CSharp/Solutions/Solution1203.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
