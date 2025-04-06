@@ -957,6 +957,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | [C#](./src/CSharp/Solutions/Solution1201.cs) | Medium |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps) | [C#](./src/CSharp/Solutions/Solution1202.cs) | Medium |
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) | [C#](./src/CSharp/Solutions/Solution1203.cs) | Hard |
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [SQL](./src/SQL/Solution1204.sql) | Medium |
+| 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist) | [C#](./src/CSharp/Solutions/Solution1206.cs) | Hard |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [C#](./src/CSharp/Solutions/Solution1207.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
