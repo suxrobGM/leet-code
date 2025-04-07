@@ -960,6 +960,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [SQL](./src/SQL/Solution1204.sql) | Medium |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist) | [C#](./src/CSharp/Solutions/Solution1206.cs) | Hard |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [C#](./src/CSharp/Solutions/Solution1207.cs) | Easy |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | [C#](./src/CSharp/Solutions/Solution1208.cs) | Medium |
+| 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) | [C#](./src/CSharp/Solutions/Solution1209.cs) | Medium |
+| 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | [C#](./src/CSharp/Solutions/Solution1210.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
