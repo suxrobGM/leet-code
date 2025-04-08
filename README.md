@@ -963,6 +963,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | [C#](./src/CSharp/Solutions/Solution1208.cs) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) | [C#](./src/CSharp/Solutions/Solution1209.cs) | Medium |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | [C#](./src/CSharp/Solutions/Solution1210.cs) | Hard |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [SQL](./src/SQL/Solution1211.sql) | Easy |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [C#](./src/CSharp/Solutions/Solution1217.cs) | Easy |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) | [C#](./src/CSharp/Solutions/Solution1218.cs) | Medium |
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | [C#](./src/CSharp/Solutions/Solution1219.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
