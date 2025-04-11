@@ -971,6 +971,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [C#](./src/CSharp/Solutions/Solution1221.cs) | Easy |
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | [C#](./src/CSharp/Solutions/Solution1222.cs) | Medium |
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation) | [C#](./src/CSharp/Solutions/Solution1223.cs) | Medium |
+| 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | [C#](./src/CSharp/Solutions/Solution1227.cs) | Medium |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [C#](./src/CSharp/Solutions/Solution1232.cs) | Easy |
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | [C#](./src/CSharp/Solutions/Solution1233.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
