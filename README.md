@@ -977,6 +977,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) | [C#](./src/CSharp/Solutions/Solution1234.cs) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | [C#](./src/CSharp/Solutions/Solution1235.cs) | Hard |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [C#](./src/CSharp/Solutions/Solution1237.cs) | Medium |
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | [C#](./src/CSharp/Solutions/Solution1238.cs) | Medium |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [C#](./src/CSharp/Solutions/Solution1239.cs) | Medium |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) | [C#](./src/CSharp/Solutions/Solution1240.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
