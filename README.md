@@ -983,6 +983,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal) | [C#](./src/CSharp/Solutions/Solution1247.cs) | Medium |
 | 1248 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | [C#](./src/CSharp/Solutions/Solution1248.cs) | Medium |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [C#](./src/CSharp/Solutions/Solution1249.cs) | Medium |
+| 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | [C#](./src/CSharp/Solutions/Solution1250.cs) | Hard |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [SQL](./src/SQL/Solution1251.sql) | Easy |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [C#](./src/CSharp/Solutions/Solution1252.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
