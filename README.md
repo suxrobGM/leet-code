@@ -986,6 +986,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | [C#](./src/CSharp/Solutions/Solution1250.cs) | Hard |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [SQL](./src/SQL/Solution1251.sql) | Easy |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [C#](./src/CSharp/Solutions/Solution1252.cs) | Easy |
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix) | [C#](./src/CSharp/Solutions/Solution1253.cs) | Medium |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [C#](./src/CSharp/Solutions/Solution1254.cs) | Medium |
+| 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) | [C#](./src/CSharp/Solutions/Solution1255.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
