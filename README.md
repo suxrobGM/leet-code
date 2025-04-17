@@ -989,6 +989,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix) | [C#](./src/CSharp/Solutions/Solution1253.cs) | Medium |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [C#](./src/CSharp/Solutions/Solution1254.cs) | Medium |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) | [C#](./src/CSharp/Solutions/Solution1255.cs) | Hard |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | [C#](./src/CSharp/Solutions/Solution1260.cs) | Easy |
+| 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [C#](./src/CSharp/Solutions/Solution1261.cs) | Medium |
+| 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three) | [C#](./src/CSharp/Solutions/Solution1262.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
