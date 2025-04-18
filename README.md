@@ -992,6 +992,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | [C#](./src/CSharp/Solutions/Solution1260.cs) | Easy |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [C#](./src/CSharp/Solutions/Solution1261.cs) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three) | [C#](./src/CSharp/Solutions/Solution1262.cs) | Medium |
+| 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | [C#](./src/CSharp/Solutions/Solution1263.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
