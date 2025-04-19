@@ -993,6 +993,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | [C#](./src/CSharp/Solutions/Solution1261.cs) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three) | [C#](./src/CSharp/Solutions/Solution1262.cs) | Medium |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | [C#](./src/CSharp/Solutions/Solution1263.cs) | Hard |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points) | [C#](./src/CSharp/Solutions/Solution1266.cs) | Easy |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | [C#](./src/CSharp/Solutions/Solution1267.cs) | Medium |
+| 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [C#](./src/CSharp/Solutions/Solution1268.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
