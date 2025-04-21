@@ -999,6 +999,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [C#](./src/CSharp/Solutions/Solution1269.cs) | Hard |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | [C#](./src/CSharp/Solutions/Solution1275.cs) | Easy |
 | 1276 | [Number of Ways to Move Objects to Obtain a Target Arrangement](https://leetcode.com/problems/number-of-ways-to-move-objects-to-obtain-a-target-arrangement) | [C#](./src/CSharp/Solutions/Solution1276.cs) | Medium |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [C#](./src/CSharp/Solutions/Solution1277.cs) | Medium |
+| 1278 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [C#](./src/CSharp/Solutions/Solution1278.cs) | Medium |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [SQL](./src/SQL/Solution1280.sql) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
