@@ -1001,10 +1001,13 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1276 | [Number of Ways to Move Objects to Obtain a Target Arrangement](https://leetcode.com/problems/number-of-ways-to-move-objects-to-obtain-a-target-arrangement) | [C#](./src/CSharp/Solutions/Solution1276.cs) | Medium |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [C#](./src/CSharp/Solutions/Solution1277.cs) | Medium |
 | 1278 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [C#](./src/CSharp/Solutions/Solution1278.cs) | Medium |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [SQL](./src/SQL/Solution1280.sql) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [C#](./src/CSharp/Solutions/Solution1281.cs) | Easy |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [C#](./src/CSharp/Solutions/Solution1282.cs) | Medium |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | [C#](./src/CSharp/Solutions/Solution1283.cs) | Medium |
-| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [SQL](./src/SQL/Solution1280.sql) | Easy |
+| 1284 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [C#](./src/CSharp/Solutions/Solution1284.cs) | Hard |
+| 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination) | [C#](./src/CSharp/Solutions/Solution1286.cs) | Medium |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | [C#](./src/CSharp/Solutions/Solution1287.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
