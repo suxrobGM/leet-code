@@ -1008,6 +1008,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1284 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [C#](./src/CSharp/Solutions/Solution1284.cs) | Hard |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination) | [C#](./src/CSharp/Solutions/Solution1286.cs) | Medium |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | [C#](./src/CSharp/Solutions/Solution1287.cs) | Easy |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | [C#](./src/CSharp/Solutions/Solution1288.cs) | Medium |
+| 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii) | [C#](./src/CSharp/Solutions/Solution1289.cs) | Hard |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C#](./src/CSharp/Solutions/Solution1290.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
