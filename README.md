@@ -1011,6 +1011,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | [C#](./src/CSharp/Solutions/Solution1288.cs) | Medium |
 | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii) | [C#](./src/CSharp/Solutions/Solution1289.cs) | Hard |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C#](./src/CSharp/Solutions/Solution1290.cs) | Easy |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits) | [C#](./src/CSharp/Solutions/Solution1291.cs) | Medium |
+| 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [C#](./src/CSharp/Solutions/Solution1292.cs) | Medium |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | [C#](./src/CSharp/Solutions/Solution1293.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
