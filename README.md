@@ -1020,6 +1020,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) | [C#](./src/CSharp/Solutions/Solution1298.cs) | Hard |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side) | [C#](./src/CSharp/Solutions/Solution1299.cs) | Easy |
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target) | [C#](./src/CSharp/Solutions/Solution1300.cs) | Medium |
+| 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score) | [C#](./src/CSharp/Solutions/Solution1301.cs) | Hard |
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [C#](./src/CSharp/Solutions/Solution1302.cs) | Medium |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [C#](./src/CSharp/Solutions/Solution1304.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
