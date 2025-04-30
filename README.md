@@ -1025,6 +1025,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [C#](./src/CSharp/Solutions/Solution1304.cs) | Easy |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [C#](./src/CSharp/Solutions/Solution1305.cs) | Medium |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | [C#](./src/CSharp/Solutions/Solution1306.cs) | Medium |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [C#](./src/CSharp/Solutions/Solution1309.cs) | Easy |
+| 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [C#](./src/CSharp/Solutions/Solution1310.cs) | Medium |
+| 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends) | [C#](./src/CSharp/Solutions/Solution1311.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
