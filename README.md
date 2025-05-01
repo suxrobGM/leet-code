@@ -1028,6 +1028,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [C#](./src/CSharp/Solutions/Solution1309.cs) | Easy |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) | [C#](./src/CSharp/Solutions/Solution1310.cs) | Medium |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends) | [C#](./src/CSharp/Solutions/Solution1311.cs) | Medium |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | [C#](./src/CSharp/Solutions/Solution1312.cs) | Hard |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C#](./src/CSharp/Solutions/Solution1313.cs) | Easy |
+| 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) | [C#](./src/CSharp/Solutions/Solution1314.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
