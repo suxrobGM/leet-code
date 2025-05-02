@@ -1031,6 +1031,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | [C#](./src/CSharp/Solutions/Solution1312.cs) | Hard |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C#](./src/CSharp/Solutions/Solution1313.cs) | Easy |
 | 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) | [C#](./src/CSharp/Solutions/Solution1314.cs) | Medium |
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [C#](./src/CSharp/Solutions/Solution1315.cs) | Medium |
+| 1316 | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings) | [C#](./src/CSharp/Solutions/Solution1316.cs) | Hard |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [C#](./src/CSharp/Solutions/Solution1317.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
