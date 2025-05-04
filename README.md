@@ -1037,6 +1037,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [C#](./src/CSharp/Solutions/Solution1318.cs) | Medium |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected) | [C#](./src/CSharp/Solutions/Solution1319.cs) | Medium |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers) | [C#](./src/CSharp/Solutions/Solution1320.cs) | Hard |
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [SQL](./src/SQL/Solution1321.sql) | Easy |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [C#](./src/CSharp/Solutions/Solution1323.cs) | Easy |
+| 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | [C#](./src/CSharp/Solutions/Solution1324.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
