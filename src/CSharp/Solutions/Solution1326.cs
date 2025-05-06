@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1326
 {
-    /// <summar
+    /// <summary>
     /// 1326. Minimum Number of Taps to Open to Water a Garden - Hard
     /// <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden">See the problem</a>
     /// </summary>

@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1312
 {
-    /// <summar
+    /// <summary>
     /// 1312. Minimum Insertion Steps to Make a String Palindrome - Hard
     /// <a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome">See the problem</a>
     /// </summary>

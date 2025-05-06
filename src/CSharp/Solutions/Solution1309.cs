@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1309
 {
-    /// <summar
+    /// <summary>
     /// 1309. Decrypt String from Alphabet to Integer Mapping - Easy
     /// <a href="https://leetcode.com/problems/verbal-arithmetic-puzzle">See the problem</a>
     /// </summary>

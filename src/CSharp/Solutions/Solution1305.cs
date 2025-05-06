@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1305
 {
-    /// <summar
+    /// <summary>
     /// 1305. All Elements in Two Binary Search Trees - Medium
     /// <a href="https://leetcode.com/problems/all-elements-in-two-binary-search-trees">See the problem</a>
     /// </summary>

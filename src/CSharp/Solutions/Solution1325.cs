@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1325
 {
-    /// <summar
+    /// <summary>
     /// 1325. Delete Leaves With a Given Value - Medium
     /// <a href="https://leetcode.com/problems/delete-leaves-with-a-given-value">See the problem</a>
     /// </summary>

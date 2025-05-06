@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1317
 {
-    /// <summar
+    /// <summary>
     /// 1317. Convert Integer to the Sum of Two No-Zero Integers - Easy
     /// <a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers">See the problem</a>
     /// </summary>

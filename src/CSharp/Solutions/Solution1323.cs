@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1323
 {
-    /// <summar
+    /// <summary>
     /// 1323. Maximum 69 Number - Easy
     /// <a href="https://leetcode.com/problems/maximum-69-number">See the problem</a>
     /// </summary>

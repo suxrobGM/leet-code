@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1313
 {
-    /// <summar
+    /// <summary>
     /// 1313. Decompress Run-Length Encoded List - Easy
     /// <a href="https://leetcode.com/problems/decompress-run-length-encoded-list">See the problem</a>
     /// </summary>

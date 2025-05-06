@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1304
 {
-    /// <summar
+    /// <summary>
     /// 1304. Find N Unique Integers Sum up to Zero - Easy
     /// <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero">See the problem</a>
     /// </summary>

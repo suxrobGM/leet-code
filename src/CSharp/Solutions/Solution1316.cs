@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1316
 {
-    /// <summar
+    /// <summary>
     /// 1316. Distinct Echo Substrings - Hard
     /// <a href="https://leetcode.com/problems/distinct-echo-substrings">See the problem</a>
     /// </summary>

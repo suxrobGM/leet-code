@@ -11,7 +11,7 @@ public class Solution1307
     private Dictionary<char, int> charToDigit;
     private bool[] usedDigits;
 
-    /// <summar
+    /// <summary>
     /// 1307. Verbal Arithmetic Puzzle - Hard
     /// <a href="https://leetcode.com/problems/verbal-arithmetic-puzzle">See the problem</a>
     /// </summary>

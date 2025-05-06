@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1319
 {
-    /// <summar
+    /// <summary>
     /// 1319. Number of Operations to Make Network Connected - Medium
     /// <a href="https://leetcode.com/problems/number-of-operations-to-make-network-connected">See the problem</a>
     /// </summary>

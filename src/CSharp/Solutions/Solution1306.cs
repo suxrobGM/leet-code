@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1306
 {
-    /// <summar
+    /// <summary>
     /// 1306. Jump Game III - Medium
     /// <a href="https://leetcode.com/problems/jump-game-iii">See the problem</a>
     /// </summary>

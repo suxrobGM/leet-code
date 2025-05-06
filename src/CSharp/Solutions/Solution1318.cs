@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1318
 {
-    /// <summar
+    /// <summary>
     /// 1318. Minimum Flips to Make a OR b Equal to c - Medium
     /// <a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c">See the problem</a>
     /// </summary>

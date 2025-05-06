@@ -1043,6 +1043,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | [C#](./src/CSharp/Solutions/Solution1325.cs) | Medium |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden) | [C#](./src/CSharp/Solutions/Solution1326.cs) | Hard |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [SQL](./src/SQL/Solution1327.sql) | Easy |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [C#](./src/CSharp/Solutions/Solution1328.cs) | Medium |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [C#](./src/CSharp/Solutions/Solution1329.cs) | Medium |
+| 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value) | [C#](./src/CSharp/Solutions/Solution1330.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |

@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1311
 {
-    /// <summar
+    /// <summary>
     /// 1311. Get Watched Videos by Your Friends - Medium
     /// <a href="https://leetcode.com/problems/get-watched-videos-by-your-friends">See the problem</a>
     /// </summary>

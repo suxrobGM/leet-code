@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1310
 {
-    /// <summar
+    /// <summary>
     /// 1310. XOR Queries of a Subarray - Medium
     /// <a href="https://leetcode.com/problems/xor-queries-of-a-subarray">See the problem</a>
     /// </summary>

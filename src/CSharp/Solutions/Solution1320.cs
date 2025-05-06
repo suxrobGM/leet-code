@@ -9,7 +9,7 @@ public class Solution1320
     private int[,] memo;
     private string word;
 
-    /// <summar
+    /// <summary>
     /// 1320. Minimum Distance to Type a Word Using Two Fingers - Hard
     /// <a href="https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers">See the problem</a>
     /// </summary>

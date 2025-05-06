@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1315
 {
-    /// <summar
+    /// <summary>
     /// 1315. Sum of Nodes with Even-Valued Grandparent - Medium
     /// <a href="https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent">See the problem</a>
     /// </summary>

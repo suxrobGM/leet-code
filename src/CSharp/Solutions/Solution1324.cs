@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1324
 {
-    /// <summar
+    /// <summary>
     /// 1324. Print Words Vertically - Medium
     /// <a href="https://leetcode.com/problems/print-words-vertically">See the problem</a>
     /// </summary>

@@ -5,7 +5,7 @@ namespace LeetCode.Solutions;
 
 public class Solution1314
 {
-    /// <summar
+    /// <summary>
     /// 1314. Matrix Block Sum - Medium
     /// <a href="https://leetcode.com/problems/matrix-block-sum">See the problem</a>
     /// </summary>
