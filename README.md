@@ -1046,6 +1046,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [C#](./src/CSharp/Solutions/Solution1328.cs) | Medium |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [C#](./src/CSharp/Solutions/Solution1329.cs) | Medium |
 | 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value) | [C#](./src/CSharp/Solutions/Solution1330.cs) | Hard |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | [C#](./src/CSharp/Solutions/Solution1331.cs) | Easy |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [C#](./src/CSharp/Solutions/Solution1332.cs) | Easy |
+| 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [C#](./src/CSharp/Solutions/Solution1333.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
