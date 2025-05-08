@@ -1049,6 +1049,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | [C#](./src/CSharp/Solutions/Solution1331.cs) | Easy |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [C#](./src/CSharp/Solutions/Solution1332.cs) | Easy |
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [C#](./src/CSharp/Solutions/Solution1333.cs) | Medium |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [C#](./src/CSharp/Solutions/Solution1334.cs) | Medium |
+| 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | [C#](./src/CSharp/Solutions/Solution1335.cs) | Hard |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [C#](./src/CSharp/Solutions/Solution1337.cs) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
