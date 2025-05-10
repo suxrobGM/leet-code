@@ -1055,6 +1055,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [C#](./src/CSharp/Solutions/Solution1338.cs) | Medium |
 | 1339 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings) | [C#](./src/CSharp/Solutions/Solution1339.cs) | Medium |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | [C#](./src/CSharp/Solutions/Solution1340.cs) | Medium |
+| 1341 | [Movie Ratings](https://leetcode.com/problems/movie-ratings) | [SQL](./src/SQL/Solution1341.sql) | Medium |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [C#](./src/CSharp/Solutions/Solution1342.cs) | Easy |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C#](./src/CSharp/Solutions/Solution1343.cs) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
