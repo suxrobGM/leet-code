@@ -1061,6 +1061,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | [C#](./src/CSharp/Solutions/Solution1344.cs) | Medium |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | [C#](./src/CSharp/Solutions/Solution1345.cs) | Hard |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | [C#](./src/CSharp/Solutions/Solution1346.cs) | Easy |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [C#](./src/CSharp/Solutions/Solution1347.cs) | Easy |
+| 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency) | [C#](./src/CSharp/Solutions/Solution1348.cs) | Medium |
+| 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam) | [C#](./src/CSharp/Solutions/Solution1349.cs) | Hard |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C#](./src/CSharp/Solutions/Solution1431.cs) | Easy |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string) | [C#](./src/CSharp/Solutions/Solution1433.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
