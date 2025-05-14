@@ -1069,6 +1069,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) | [C#](./src/CSharp/Solutions/Solution1434.cs) | Hard |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [C#](./src/CSharp/Solutions/Solution1436.cs) | Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [C#](./src/CSharp/Solutions/Solution1437.cs) | Easy |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [C#](./src/CSharp/Solutions/Solution1438.cs) | Medium |
+| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | [C#](./src/CSharp/Solutions/Solution1439.cs) | Hard |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | [C#](./src/CSharp/Solutions/Solution1441.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
