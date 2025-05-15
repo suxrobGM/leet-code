@@ -1075,6 +1075,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [C#](./src/CSharp/Solutions/Solution1442.cs) | Medium |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [C#](./src/CSharp/Solutions/Solution1443.cs) | Medium |
 | 1444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [C#](./src/CSharp/Solutions/Solution1444.cs) | Hard |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [C#](./src/CSharp/Solutions/Solution1446.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
