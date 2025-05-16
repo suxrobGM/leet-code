@@ -1076,6 +1076,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [C#](./src/CSharp/Solutions/Solution1443.cs) | Medium |
 | 1444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [C#](./src/CSharp/Solutions/Solution1444.cs) | Hard |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [C#](./src/CSharp/Solutions/Solution1446.cs) | Easy |
+| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions) | [C#](./src/CSharp/Solutions/Solution1447.cs) | Medium |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [C#](./src/CSharp/Solutions/Solution1448.cs) | Medium |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | [C#](./src/CSharp/Solutions/Solution1449.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
