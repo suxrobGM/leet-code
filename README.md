@@ -1081,6 +1081,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | [C#](./src/CSharp/Solutions/Solution1449.cs) | Hard |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | [C#](./src/CSharp/Solutions/Solution1450.cs) | Easy |
 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence) | [C#](./src/CSharp/Solutions/Solution1451.cs) | Medium |
+| 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [SQL](./src/SQL/Solution1452.sql) | Medium |
+| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [C#](./src/CSharp/Solutions/Solution1453.cs) | Hard |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [C#](./src/CSharp/Solutions/Solution1455.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
