@@ -1087,6 +1087,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [C#](./src/CSharp/Solutions/Solution1456.cs) | Medium |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree) | [C#](./src/CSharp/Solutions/Solution1457.cs) | Medium |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences) | [C#](./src/CSharp/Solutions/Solution1458.cs) | Hard |
+| 1460 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [C#](./src/CSharp/Solutions/Solution1460.cs) | Easy |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [C#](./src/CSharp/Solutions/Solution1461.cs) | Medium |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | [C#](./src/CSharp/Solutions/Solution1462.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
