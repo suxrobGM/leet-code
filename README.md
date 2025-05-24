@@ -1093,6 +1093,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii) | [C#](./src/CSharp/Solutions/Solution1463.cs) | Hard |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [C#](./src/CSharp/Solutions/Solution1464.cs) | Easy |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | [C#](./src/CSharp/Solutions/Solution1465.cs) | Medium |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | [C#](./src/CSharp/Solutions/Solution1466.cs) | Medium |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [C#](./src/CSharp/Solutions/Solution1467.cs) | Hard |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [C#](./src/CSharp/Solutions/Solution1470.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
