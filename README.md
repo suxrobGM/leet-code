@@ -1096,6 +1096,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | [C#](./src/CSharp/Solutions/Solution1466.cs) | Medium |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [C#](./src/CSharp/Solutions/Solution1467.cs) | Hard |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [C#](./src/CSharp/Solutions/Solution1470.cs) | Easy |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array) | [C#](./src/CSharp/Solutions/Solution1471.cs) | Easy |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | [C#](./src/CSharp/Solutions/Solution1472.cs) | Medium |
+| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii) | [C#](./src/CSharp/Solutions/Solution1473.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
