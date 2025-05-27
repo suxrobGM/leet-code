@@ -1102,6 +1102,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [C#](./src/CSharp/Solutions/Solution1475.cs) | Easy |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) | [C#](./src/CSharp/Solutions/Solution1476.cs) | Medium |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | [C#](./src/CSharp/Solutions/Solution1477.cs) | Medium |
+| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes) | [C#](./src/CSharp/Solutions/Solution1478.cs) | Hard |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C#](./src/CSharp/Solutions/Solution1480.cs) | Easy |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) | [C#](./src/CSharp/Solutions/Solution1481.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
