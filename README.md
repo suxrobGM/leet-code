@@ -1105,6 +1105,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes) | [C#](./src/CSharp/Solutions/Solution1478.cs) | Hard |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C#](./src/CSharp/Solutions/Solution1480.cs) | Easy |
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) | [C#](./src/CSharp/Solutions/Solution1481.cs) | Medium |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | [C#](./src/CSharp/Solutions/Solution1482.cs) | Medium |
+| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node) | [C#](./src/CSharp/Solutions/Solution1483.cs) | Hard |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [SQL](./src/SQL/Solution1484.sql) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
