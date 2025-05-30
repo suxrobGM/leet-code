@@ -1111,6 +1111,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | [C#](./src/CSharp/Solutions/Solution1486.cs) | Easy |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique) | [C#](./src/CSharp/Solutions/Solution1487.cs) | Medium |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city) | [C#](./src/CSharp/Solutions/Solution1488.cs) | Hard |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [C#](./src/CSharp/Solutions/Solution1489.cs) | Hard |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [C#](./src/CSharp/Solutions/Solution1491.cs) | Easy |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | [C#](./src/CSharp/Solutions/Solution1492.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
