@@ -1114,6 +1114,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [C#](./src/CSharp/Solutions/Solution1489.cs) | Hard |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [C#](./src/CSharp/Solutions/Solution1491.cs) | Easy |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | [C#](./src/CSharp/Solutions/Solution1492.cs) | Medium |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [C#](./src/CSharp/Solutions/Solution1493.cs) | Medium |
+| 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii) | [C#](./src/CSharp/Solutions/Solution1494.cs) | Hard |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [C#](./src/CSharp/Solutions/Solution1496.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
