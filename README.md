@@ -1117,6 +1117,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [C#](./src/CSharp/Solutions/Solution1493.cs) | Medium |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii) | [C#](./src/CSharp/Solutions/Solution1494.cs) | Hard |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [C#](./src/CSharp/Solutions/Solution1496.cs) | Easy |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) | [C#](./src/CSharp/Solutions/Solution1497.cs) | Medium |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [C#](./src/CSharp/Solutions/Solution1498.cs) | Medium |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation) | [C#](./src/CSharp/Solutions/Solution1499.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
