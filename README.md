@@ -1123,6 +1123,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [C#](./src/CSharp/Solutions/Solution1502.cs) | Easy |
 | 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank) | [C#](./src/CSharp/Solutions/Solution1503.cs) | Medium |
 | 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones) | [C#](./src/CSharp/Solutions/Solution1504.cs) | Hard |
+| 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | [C#](./src/CSharp/Solutions/Solution1505.cs) | Hard |
+| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [C#](./src/CSharp/Solutions/Solution1507.cs) | Easy |
+| 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | [C#](./src/CSharp/Solutions/Solution1508.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
