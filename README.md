@@ -1126,6 +1126,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | [C#](./src/CSharp/Solutions/Solution1505.cs) | Hard |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [C#](./src/CSharp/Solutions/Solution1507.cs) | Easy |
 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | [C#](./src/CSharp/Solutions/Solution1508.cs) | Medium |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | [C#](./src/CSharp/Solutions/Solution1509.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
