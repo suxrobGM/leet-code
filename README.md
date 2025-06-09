@@ -1130,6 +1130,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv) | [C#](./src/CSharp/Solutions/Solution1510.cs) | Hard |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [C#](./src/CSharp/Solutions/Solution1512.cs) | Easy |
 | 1513 | [Number of Substrings With Only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s) | [C#](./src/CSharp/Solutions/Solution1513.cs) | Medium |
+| 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [C#](./src/CSharp/Solutions/Solution1514.cs) | Medium |
+| 1515 | [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre) | [C#](./src/CSharp/Solutions/Solution1515.cs) | Hard |
+| 1517 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [C#](./src/CSharp/Solutions/Solution1517.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
