@@ -1136,6 +1136,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [C#](./src/CSharp/Solutions/Solution1518.cs) | Easy |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [C#](./src/CSharp/Solutions/Solution1519.cs) | Medium |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings) | [C#](./src/CSharp/Solutions/Solution1520.cs) | Hard |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [C#](./src/CSharp/Solutions/Solution1523.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
