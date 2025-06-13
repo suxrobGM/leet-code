@@ -1140,6 +1140,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | [C#](./src/CSharp/Solutions/Solution1524.cs) | Medium |
 | 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string) | [C#](./src/CSharp/Solutions/Solution1525.cs) | Medium |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | [C#](./src/CSharp/Solutions/Solution1526.cs) | Hard |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [SQL](./src/SQL/Solution1527.sql) | Easy |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [C#](./src/CSharp/Solutions/Solution1528.cs) | Easy |
+| 1529 | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv) | [C#](./src/CSharp/Solutions/Solution1529.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
