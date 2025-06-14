@@ -1143,6 +1143,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [SQL](./src/SQL/Solution1527.sql) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [C#](./src/CSharp/Solutions/Solution1528.cs) | Easy |
 | 1529 | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv) | [C#](./src/CSharp/Solutions/Solution1529.cs) | Medium |
+| 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) | [C#](./src/CSharp/Solutions/Solution1530.cs) | Medium |
+| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii) | [C#](./src/CSharp/Solutions/Solution1531.cs) | Hard |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | [C#](./src/CSharp/Solutions/Solution1534.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
