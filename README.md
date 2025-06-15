@@ -1146,6 +1146,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs) | [C#](./src/CSharp/Solutions/Solution1530.cs) | Medium |
 | 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii) | [C#](./src/CSharp/Solutions/Solution1531.cs) | Hard |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | [C#](./src/CSharp/Solutions/Solution1534.cs) | Easy |
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game) | [C#](./src/CSharp/Solutions/Solution1535.cs) | Medium |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid) | [C#](./src/CSharp/Solutions/Solution1536.cs) | Medium |
+| 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score) | [C#](./src/CSharp/Solutions/Solution1537.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
