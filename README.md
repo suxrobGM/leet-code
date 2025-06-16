@@ -1149,6 +1149,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game) | [C#](./src/CSharp/Solutions/Solution1535.cs) | Medium |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid) | [C#](./src/CSharp/Solutions/Solution1536.cs) | Medium |
 | 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score) | [C#](./src/CSharp/Solutions/Solution1537.cs) | Hard |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [C#](./src/CSharp/Solutions/Solution1539.cs) | Easy |
+| 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves) | [C#](./src/CSharp/Solutions/Solution1540.cs) | Medium |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string) | [C#](./src/CSharp/Solutions/Solution1541.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
