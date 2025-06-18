@@ -1155,6 +1155,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring) | [C#](./src/CSharp/Solutions/Solution1542.cs) | Hard |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [C#](./src/CSharp/Solutions/Solution1544.cs) | Easy |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | [C#](./src/CSharp/Solutions/Solution1545.cs) | Medium |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [C#](./src/CSharp/Solutions/Solution1546.cs) | Medium |
+| 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | [C#](./src/CSharp/Solutions/Solution1547.cs) | Hard |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | [C#](./src/CSharp/Solutions/Solution1550.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
