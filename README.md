@@ -1158,6 +1158,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [C#](./src/CSharp/Solutions/Solution1546.cs) | Medium |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | [C#](./src/CSharp/Solutions/Solution1547.cs) | Hard |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | [C#](./src/CSharp/Solutions/Solution1550.cs) | Easy |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [C#](./src/CSharp/Solutions/Solution1551.cs) | Easy |
+| 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | [C#](./src/CSharp/Solutions/Solution1552.cs) | Medium |
+| 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges) | [C#](./src/CSharp/Solutions/Solution1553.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
