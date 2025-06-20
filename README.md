@@ -1161,6 +1161,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [C#](./src/CSharp/Solutions/Solution1551.cs) | Easy |
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | [C#](./src/CSharp/Solutions/Solution1552.cs) | Medium |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges) | [C#](./src/CSharp/Solutions/Solution1553.cs) | Hard |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [C#](./src/CSharp/Solutions/Solution1556.cs) | Easy |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [C#](./src/CSharp/Solutions/Solution1557.cs) | Medium |
+| 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array) | [C#](./src/CSharp/Solutions/Solution1558.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
