@@ -1164,6 +1164,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [C#](./src/CSharp/Solutions/Solution1556.cs) | Easy |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [C#](./src/CSharp/Solutions/Solution1557.cs) | Medium |
 | 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array) | [C#](./src/CSharp/Solutions/Solution1558.cs) | Medium |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid) | [C#](./src/CSharp/Solutions/Solution1559.cs) | Medium |
+| 1560 | [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track) | [C#](./src/CSharp/Solutions/Solution1560.cs) | Medium |
+| 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | [C#](./src/CSharp/Solutions/Solution1561.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
