@@ -1167,6 +1167,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid) | [C#](./src/CSharp/Solutions/Solution1559.cs) | Medium |
 | 1560 | [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track) | [C#](./src/CSharp/Solutions/Solution1560.cs) | Medium |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get) | [C#](./src/CSharp/Solutions/Solution1561.cs) | Medium |
+| 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m) | [C#](./src/CSharp/Solutions/Solution1562.cs) | Medium |
+| 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v) | [C#](./src/CSharp/Solutions/Solution1563.cs) | Hard |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times) | [C#](./src/CSharp/Solutions/Solution1566.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
