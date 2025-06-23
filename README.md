@@ -1170,6 +1170,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m) | [C#](./src/CSharp/Solutions/Solution1562.cs) | Medium |
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v) | [C#](./src/CSharp/Solutions/Solution1563.cs) | Hard |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times) | [C#](./src/CSharp/Solutions/Solution1566.cs) | Easy |
+| 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product) | [C#](./src/CSharp/Solutions/Solution1567.cs) | Medium |
+| 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island) | [C#](./src/CSharp/Solutions/Solution1568.cs) | Hard |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | [C#](./src/CSharp/Solutions/Solution1569.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
