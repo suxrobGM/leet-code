@@ -1177,6 +1177,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1573 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string) | [C#](./src/CSharp/Solutions/Solution1573.cs) | Medium |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [C#](./src/CSharp/Solutions/Solution1574.cs) | Medium |
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes) | [C#](./src/CSharp/Solutions/Solution1575.cs) | Hard |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [C#](./src/CSharp/Solutions/Solution1576.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
