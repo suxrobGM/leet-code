@@ -1186,6 +1186,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends) | [C#](./src/CSharp/Solutions/Solution1583.cs) | Medium |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | [C#](./src/CSharp/Solutions/Solution1584.cs) | Medium |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations) | [C#](./src/CSharp/Solutions/Solution1585.cs) | Hard |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [SQL](./src/SQL/Solution1587.sql) | Easy |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C#](./src/CSharp/Solutions/Solution1588.cs) | Easy |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation) | [C#](./src/CSharp/Solutions/Solution1589.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
