@@ -1189,6 +1189,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [SQL](./src/SQL/Solution1587.sql) | Easy |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C#](./src/CSharp/Solutions/Solution1588.cs) | Easy |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation) | [C#](./src/CSharp/Solutions/Solution1589.cs) | Medium |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) | [C#](./src/CSharp/Solutions/Solution1590.cs) | Medium |
+| 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii) | [C#](./src/CSharp/Solutions/Solution1591.cs) | Hard |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C#](./src/CSharp/Solutions/Solution1592.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
