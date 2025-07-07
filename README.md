@@ -1192,6 +1192,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) | [C#](./src/CSharp/Solutions/Solution1590.cs) | Medium |
 | 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii) | [C#](./src/CSharp/Solutions/Solution1591.cs) | Hard |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C#](./src/CSharp/Solutions/Solution1592.cs) | Easy |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | [C#](./src/CSharp/Solutions/Solution1598.cs) | Easy |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel) | [C#](./src/CSharp/Solutions/Solution1599.cs) | Medium |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance) | [C#](./src/CSharp/Solutions/Solution1600.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
