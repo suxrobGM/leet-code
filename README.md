@@ -1200,6 +1200,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [C#](./src/CSharp/Solutions/Solution1603.cs) | Easy |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | [C#](./src/CSharp/Solutions/Solution1605.cs) | Medium |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | [C#](./src/CSharp/Solutions/Solution1608.cs) | Easy |
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [C#](./src/CSharp/Solutions/Solution1609.cs) | Medium |
+| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points) | [C#](./src/CSharp/Solutions/Solution1610.cs) | Hard |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero) | [C#](./src/CSharp/Solutions/Solution1611.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
