@@ -1203,6 +1203,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [C#](./src/CSharp/Solutions/Solution1609.cs) | Medium |
 | 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points) | [C#](./src/CSharp/Solutions/Solution1610.cs) | Hard |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero) | [C#](./src/CSharp/Solutions/Solution1611.cs) | Hard |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C#](./src/CSharp/Solutions/Solution1614.cs) | Easy |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) | [C#](./src/CSharp/Solutions/Solution1615.cs) | Medium |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome) | [C#](./src/CSharp/Solutions/Solution1616.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
