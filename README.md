@@ -1206,6 +1206,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C#](./src/CSharp/Solutions/Solution1614.cs) | Easy |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) | [C#](./src/CSharp/Solutions/Solution1615.cs) | Medium |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome) | [C#](./src/CSharp/Solutions/Solution1616.cs) | Medium |
+| 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities) | [C#](./src/CSharp/Solutions/Solution1617.cs) | Hard |
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | [C#](./src/CSharp/Solutions/Solution1619.cs) | Easy |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality) | [C#](./src/CSharp/Solutions/Solution1620.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
