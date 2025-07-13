@@ -1209,6 +1209,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities) | [C#](./src/CSharp/Solutions/Solution1617.cs) | Hard |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | [C#](./src/CSharp/Solutions/Solution1619.cs) | Easy |
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality) | [C#](./src/CSharp/Solutions/Solution1620.cs) | Medium |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | [C#](./src/CSharp/Solutions/Solution1621.cs) | Medium |
+| 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence) | [C#](./src/CSharp/Solutions/Solution1622.cs) | Hard |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [C#](./src/CSharp/Solutions/Solution1624.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
