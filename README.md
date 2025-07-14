@@ -1212,6 +1212,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments) | [C#](./src/CSharp/Solutions/Solution1621.cs) | Medium |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence) | [C#](./src/CSharp/Solutions/Solution1622.cs) | Hard |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [C#](./src/CSharp/Solutions/Solution1624.cs) | Easy |
+| 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | [C#](./src/CSharp/Solutions/Solution1625.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
