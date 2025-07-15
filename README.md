@@ -1213,6 +1213,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence) | [C#](./src/CSharp/Solutions/Solution1622.cs) | Hard |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [C#](./src/CSharp/Solutions/Solution1624.cs) | Easy |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | [C#](./src/CSharp/Solutions/Solution1625.cs) | Medium |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts) | [C#](./src/CSharp/Solutions/Solution1626.cs) | Medium |
+| 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold) | [C#](./src/CSharp/Solutions/Solution1627.cs) | Hard |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [C#](./src/CSharp/Solutions/Solution1629.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
