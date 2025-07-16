@@ -1216,6 +1216,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts) | [C#](./src/CSharp/Solutions/Solution1626.cs) | Medium |
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold) | [C#](./src/CSharp/Solutions/Solution1627.cs) | Hard |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [C#](./src/CSharp/Solutions/Solution1629.cs) | Easy |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [C#](./src/CSharp/Solutions/Solution1630.cs) | Medium |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | [C#](./src/CSharp/Solutions/Solution1631.cs) | Medium |
+| 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix) | [C#](./src/CSharp/Solutions/Solution1632.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
