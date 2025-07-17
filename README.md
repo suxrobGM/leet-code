@@ -1219,6 +1219,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [C#](./src/CSharp/Solutions/Solution1630.cs) | Medium |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | [C#](./src/CSharp/Solutions/Solution1631.cs) | Medium |
 | 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix) | [C#](./src/CSharp/Solutions/Solution1632.cs) | Hard |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL](./src/SQL/Solution1633.sql) | Easy |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [C#](./src/CSharp/Solutions/Solution1636.cs) | Easy |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [C#](./src/CSharp/Solutions/Solution1637.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
