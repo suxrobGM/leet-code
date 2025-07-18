@@ -1222,6 +1222,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL](./src/SQL/Solution1633.sql) | Easy |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [C#](./src/CSharp/Solutions/Solution1636.cs) | Easy |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [C#](./src/CSharp/Solutions/Solution1637.cs) | Medium |
+| 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character) | [C#](./src/CSharp/Solutions/Solution1638.cs) | Medium |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [C#](./src/CSharp/Solutions/Solution1639.cs) | Hard |
+| 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [C#](./src/CSharp/Solutions/Solution1640.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
