@@ -1225,6 +1225,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character) | [C#](./src/CSharp/Solutions/Solution1638.cs) | Medium |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [C#](./src/CSharp/Solutions/Solution1639.cs) | Hard |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [C#](./src/CSharp/Solutions/Solution1640.cs) | Easy |
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings) | [C#](./src/CSharp/Solutions/Solution1641.cs) | Medium |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [C#](./src/CSharp/Solutions/Solution1642.cs) | Medium |
+| 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions) | [C#](./src/CSharp/Solutions/Solution1643.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
