@@ -1229,6 +1229,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [C#](./src/CSharp/Solutions/Solution1642.cs) | Medium |
 | 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions) | [C#](./src/CSharp/Solutions/Solution1643.cs) | Hard |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array) | [C#](./src/CSharp/Solutions/Solution1646.cs) | Easy |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [C#](./src/CSharp/Solutions/Solution1647.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
