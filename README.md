@@ -1234,6 +1234,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions) | [C#](./src/CSharp/Solutions/Solution1649.cs) | Hard |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [C#](./src/CSharp/Solutions/Solution1652.cs) | Easy |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced) | [C#](./src/CSharp/Solutions/Solution1653.cs) | Medium |
+| 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home) | [C#](./src/CSharp/Solutions/Solution1654.cs) | Medium |
+| 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers) | [C#](./src/CSharp/Solutions/Solution1655.cs) | Hard |
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | [C#](./src/CSharp/Solutions/Solution1656.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
