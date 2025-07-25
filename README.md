@@ -1237,6 +1237,8 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home) | [C#](./src/CSharp/Solutions/Solution1654.cs) | Medium |
 | 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers) | [C#](./src/CSharp/Solutions/Solution1655.cs) | Hard |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | [C#](./src/CSharp/Solutions/Solution1656.cs) | Easy |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | [C#](./src/CSharp/Solutions/Solution1657.cs) | Medium |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [C#](./src/CSharp/Solutions/Solution1658.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
