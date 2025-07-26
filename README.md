@@ -1239,6 +1239,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | [C#](./src/CSharp/Solutions/Solution1656.cs) | Easy |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | [C#](./src/CSharp/Solutions/Solution1657.cs) | Medium |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [C#](./src/CSharp/Solutions/Solution1658.cs) | Medium |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [SQL](./src/SQL/Solution1661.sql) | Easy |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C#](./src/CSharp/Solutions/Solution1662.cs) | Easy |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | [C#](./src/CSharp/Solutions/Solution1663.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
