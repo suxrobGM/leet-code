@@ -1242,6 +1242,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [SQL](./src/SQL/Solution1661.sql) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C#](./src/CSharp/Solutions/Solution1662.cs) | Easy |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | [C#](./src/CSharp/Solutions/Solution1663.cs) | Medium |
+| 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array) | [C#](./src/CSharp/Solutions/Solution1664.cs) | Medium |
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | [C#](./src/CSharp/Solutions/Solution1665.cs) | Hard |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [SQL](./src/SQL/Solution1667.sql) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
