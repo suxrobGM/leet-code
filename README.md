@@ -1245,6 +1245,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array) | [C#](./src/CSharp/Solutions/Solution1664.cs) | Medium |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | [C#](./src/CSharp/Solutions/Solution1665.cs) | Hard |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [SQL](./src/SQL/Solution1667.sql) | Easy |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | [C#](./src/CSharp/Solutions/Solution1668.cs) | Easy |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C#](./src/CSharp/Solutions/Solution1669.cs) | Medium |
+| 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [C#](./src/CSharp/Solutions/Solution1670.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
