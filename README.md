@@ -1248,6 +1248,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | [C#](./src/CSharp/Solutions/Solution1668.cs) | Easy |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C#](./src/CSharp/Solutions/Solution1669.cs) | Medium |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [C#](./src/CSharp/Solutions/Solution1670.cs) | Medium |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) | [C#](./src/CSharp/Solutions/Solution1671.cs) | Hard |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [C#](./src/CSharp/Solutions/Solution1672.cs) | Easy |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence) | [C#](./src/CSharp/Solutions/Solution1673.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
