@@ -1252,6 +1252,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [C#](./src/CSharp/Solutions/Solution1672.cs) | Easy |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence) | [C#](./src/CSharp/Solutions/Solution1673.cs) | Medium |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) | [C#](./src/CSharp/Solutions/Solution1674.cs) | Medium |
+| 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) | [C#](./src/CSharp/Solutions/Solution1675.cs) | Hard |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [C#](./src/CSharp/Solutions/Solution1678.cs) | Easy |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [C#](./src/CSharp/Solutions/Solution1679.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
