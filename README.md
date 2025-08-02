@@ -1255,6 +1255,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) | [C#](./src/CSharp/Solutions/Solution1675.cs) | Hard |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [C#](./src/CSharp/Solutions/Solution1678.cs) | Easy |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [C#](./src/CSharp/Solutions/Solution1679.cs) | Medium |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | [C#](./src/CSharp/Solutions/Solution1680.cs) | Medium |
+| 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility) | [C#](./src/CSharp/Solutions/Solution1681.cs) | Hard |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [SQL](./src/SQL/Solution1683.sql) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
