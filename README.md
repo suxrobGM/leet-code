@@ -1261,6 +1261,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C#](./src/CSharp/Solutions/Solution1684.cs) | Easy |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array) | [C#](./src/CSharp/Solutions/Solution1685.cs) | Medium |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi) | [C#](./src/CSharp/Solutions/Solution1686.cs) | Medium |
+| 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports) | [C#](./src/CSharp/Solutions/Solution1687.cs) | Hard |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | [C#](./src/CSharp/Solutions/Solution1688.cs) | Easy |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [C#](./src/CSharp/Solutions/Solution1689.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
