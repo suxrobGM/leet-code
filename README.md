@@ -1269,6 +1269,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [SQL](./src/SQL/Solution1693.sql) | Easy |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [C#](./src/CSharp/Solutions/Solution1694.cs) | Easy |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | [C#](./src/CSharp/Solutions/Solution1695.cs) | Medium |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi) | [C#](./src/CSharp/Solutions/Solution1696.cs) | Medium |
+| 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths) | [C#](./src/CSharp/Solutions/Solution1697.cs) | Hard |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | [C#](./src/CSharp/Solutions/Solution1700.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
