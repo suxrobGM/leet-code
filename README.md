@@ -1272,6 +1272,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi) | [C#](./src/CSharp/Solutions/Solution1696.cs) | Medium |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths) | [C#](./src/CSharp/Solutions/Solution1697.cs) | Hard |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | [C#](./src/CSharp/Solutions/Solution1700.cs) | Easy |
+| 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time) | [C#](./src/CSharp/Solutions/Solution1701.cs) | Medium |
+| 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change) | [C#](./src/CSharp/Solutions/Solution1702.cs) | Medium |
+| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones) | [C#](./src/CSharp/Solutions/Solution1703.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
