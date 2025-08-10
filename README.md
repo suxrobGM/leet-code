@@ -1275,6 +1275,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time) | [C#](./src/CSharp/Solutions/Solution1701.cs) | Medium |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change) | [C#](./src/CSharp/Solutions/Solution1702.cs) | Medium |
 | 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones) | [C#](./src/CSharp/Solutions/Solution1703.cs) | Hard |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | [C#](./src/CSharp/Solutions/Solution1704.cs) | Easy |
+| 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples) | [C#](./src/CSharp/Solutions/Solution1705.cs) | Medium |
+| 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall) | [C#](./src/CSharp/Solutions/Solution1706.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
