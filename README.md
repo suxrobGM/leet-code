@@ -1278,6 +1278,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | [C#](./src/CSharp/Solutions/Solution1704.cs) | Easy |
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples) | [C#](./src/CSharp/Solutions/Solution1705.cs) | Medium |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall) | [C#](./src/CSharp/Solutions/Solution1706.cs) | Medium |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array) | [C#](./src/CSharp/Solutions/Solution1707.cs) | Hard |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [C#](./src/CSharp/Solutions/Solution1710.cs) | Easy |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals) | [C#](./src/CSharp/Solutions/Solution1711.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
