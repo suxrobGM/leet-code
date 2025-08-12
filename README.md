@@ -1281,6 +1281,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array) | [C#](./src/CSharp/Solutions/Solution1707.cs) | Hard |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [C#](./src/CSharp/Solutions/Solution1710.cs) | Easy |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals) | [C#](./src/CSharp/Solutions/Solution1711.cs) | Medium |
+| 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays) | [C#](./src/CSharp/Solutions/Solution1712.cs) | Medium |
+| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence) | [C#](./src/CSharp/Solutions/Solution1713.cs) | Hard |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [C#](./src/CSharp/Solutions/Solution1716.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
