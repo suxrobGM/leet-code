@@ -1287,6 +1287,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [C#](./src/CSharp/Solutions/Solution1717.cs) | Medium |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | [C#](./src/CSharp/Solutions/Solution1718.cs) | Medium |
 | 1719 | [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree) | [C#](./src/CSharp/Solutions/Solution1719.cs) | Hard |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | [C#](./src/CSharp/Solutions/Solution1720.cs) | Easy |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C#](./src/CSharp/Solutions/Solution1721.cs) | Medium |
+| 1722 | [Minimum Hamming Distance](https://leetcode.com/problems/minimum-hamming-distance) | [C#](./src/CSharp/Solutions/Solution1722.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
