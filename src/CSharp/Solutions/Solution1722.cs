@@ -7,8 +7,8 @@ namespace LeetCode.Solutions;
 public class Solution1722
 {
     /// <summary>
-    /// 1721. Swapping Nodes in a Linked List - Medium
-    /// <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list">See the problem</a>
+    /// 1722. Minimize Hamming Distance After Swap Operations - Medium
+    /// <a href="https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations">See the problem</a>
     /// </summary>
     public int MinimumHammingDistance(int[] source, int[] target, int[][] allowedSwaps)
     {

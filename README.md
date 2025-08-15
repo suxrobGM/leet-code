@@ -1290,6 +1290,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | [C#](./src/CSharp/Solutions/Solution1720.cs) | Easy |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C#](./src/CSharp/Solutions/Solution1721.cs) | Medium |
 | 1722 | [Minimum Hamming Distance](https://leetcode.com/problems/minimum-hamming-distance) | [C#](./src/CSharp/Solutions/Solution1722.cs) | Medium |
+| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs) | [C#](./src/CSharp/Solutions/Solution1723.cs) | Hard |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [C#](./src/CSharp/Solutions/Solution1725.cs) | Easy |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | [C#](./src/CSharp/Solutions/Solution1726.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
