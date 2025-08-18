@@ -1296,6 +1296,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements) | [C#](./src/CSharp/Solutions/Solution1727.cs) | Medium |
 | 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii) | [C#](./src/CSharp/Solutions/Solution1728.cs) | Hard |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | [SQL](./src/SQL/Solution11729.sql) | Easy |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee) | [SQL](./src/SQL/Solution1731.sql) | Easy |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [C#](./src/CSharp/Solutions/Solution1732.cs) | Easy |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) | [C#](./src/CSharp/Solutions/Solution1733.cs) | Medium |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
