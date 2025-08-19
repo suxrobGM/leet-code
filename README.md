@@ -1299,6 +1299,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee) | [SQL](./src/SQL/Solution1731.sql) | Easy |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [C#](./src/CSharp/Solutions/Solution1732.cs) | Easy |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) | [C#](./src/CSharp/Solutions/Solution1733.cs) | Medium |
+| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation) | [C#](./src/CSharp/Solutions/Solution1734.cs) | Medium |
+| 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product) | [C#](./src/CSharp/Solutions/Solution1735.cs) | Hard |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits) | [C#](./src/CSharp/Solutions/Solution1736.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
