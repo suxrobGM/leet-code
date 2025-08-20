@@ -1302,6 +1302,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation) | [C#](./src/CSharp/Solutions/Solution1734.cs) | Medium |
 | 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product) | [C#](./src/CSharp/Solutions/Solution1735.cs) | Hard |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits) | [C#](./src/CSharp/Solutions/Solution1736.cs) | Easy |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions) | [C#](./src/CSharp/Solutions/Solution1737.cs) | Medium |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value) | [C#](./src/CSharp/Solutions/Solution1738.cs) | Medium |
+| 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes) | [C#](./src/CSharp/Solutions/Solution1739.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
