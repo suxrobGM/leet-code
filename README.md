@@ -1308,6 +1308,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | [SQL](./src/SQL/Solution1741.sql) | Easy |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | [C#](./src/CSharp/Solutions/Solution1742.cs) | Easy |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs) | [C#](./src/CSharp/Solutions/Solution1743.cs) | Medium |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | [C#](./src/CSharp/Solutions/Solution1744.cs) | Medium |
+| 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv) | [C#](./src/CSharp/Solutions/Solution1745.cs) | Hard |
+| 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation) | [C#](./src/CSharp/Solutions/Solution1746.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
