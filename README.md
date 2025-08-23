@@ -1311,6 +1311,10 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | [C#](./src/CSharp/Solutions/Solution1744.cs) | Medium |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv) | [C#](./src/CSharp/Solutions/Solution1745.cs) | Hard |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation) | [C#](./src/CSharp/Solutions/Solution1746.cs) | Easy |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [C#](./src/CSharp/Solutions/Solution1748.cs) | Easy |
+| 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray) | [C#](./src/CSharp/Solutions/Solution1749.cs) | Medium |
+| 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | [C#](./src/CSharp/Solutions/Solution1750.cs) | Medium |
+| 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii) | [C#](./src/CSharp/Solutions/Solution1751.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
