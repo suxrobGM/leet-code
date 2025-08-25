@@ -1318,6 +1318,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [C#](./src/CSharp/Solutions/Solution1752.cs) | Easy |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones) | [C#](./src/CSharp/Solutions/Solution1753.cs) | Medium |
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings) | [C#](./src/CSharp/Solutions/Solution1754.cs) | Medium |
+| 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum) | [C#](./src/CSharp/Solutions/Solution1755.cs) | Hard |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [SQL](./src/SQL/Solution1757.sql) | Easy |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [C#](./src/CSharp/Solutions/Solution1758.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
