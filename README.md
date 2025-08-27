@@ -1322,6 +1322,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [SQL](./src/SQL/Solution1757.sql) | Easy |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [C#](./src/CSharp/Solutions/Solution1758.cs) | Easy |
 | 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings) | [C#](./src/CSharp/Solutions/Solution1759.cs) | Medium |
+| 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [C#](./src/CSharp/Solutions/Solution1760.cs) | Medium |
+| 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph) | [C#](./src/CSharp/Solutions/Solution1761.cs) | Hard |
+| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring) | [C#](./src/CSharp/Solutions/Solution1763.cs) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
