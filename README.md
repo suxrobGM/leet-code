@@ -1325,6 +1325,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [C#](./src/CSharp/Solutions/Solution1760.cs) | Medium |
 | 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph) | [C#](./src/CSharp/Solutions/Solution1761.cs) | Hard |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring) | [C#](./src/CSharp/Solutions/Solution1763.cs) | Easy |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array) | [C#](./src/CSharp/Solutions/Solution1764.cs) | Medium |
+| 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak) | [C#](./src/CSharp/Solutions/Solution1765.cs) | Medium |
+| 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes) | [C#](./src/CSharp/Solutions/Solution1766.cs) | Hard |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [C#](./src/CSharp/Solutions/Solution1768.cs) | Easy |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
