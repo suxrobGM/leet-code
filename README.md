@@ -1332,6 +1332,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [C#](./src/CSharp/Solutions/Solution1769.cs) | Medium |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [C#](./src/CSharp/Solutions/Solution1770.cs) | Hard |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences) | [C#](./src/CSharp/Solutions/Solution1771.cs) | Hard |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C#](./src/CSharp/Solutions/Solution1773.cs) | Easy |
+| 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost) | [C#](./src/CSharp/Solutions/Solution1774.cs) | Medium |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | [C#](./src/CSharp/Solutions/Solution1775.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
