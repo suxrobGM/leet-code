@@ -1335,6 +1335,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C#](./src/CSharp/Solutions/Solution1773.cs) | Easy |
 | 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost) | [C#](./src/CSharp/Solutions/Solution1774.cs) | Medium |
 | 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | [C#](./src/CSharp/Solutions/Solution1775.cs) | Medium |
+| 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii) | [C#](./src/CSharp/Solutions/Solution1776.cs) | Hard |
+| 1779 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [C#](./src/CSharp/Solutions/Solution1779.cs) | Easy |
+| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [C#](./src/CSharp/Solutions/Solution1780.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
