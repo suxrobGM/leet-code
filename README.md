@@ -1338,6 +1338,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii) | [C#](./src/CSharp/Solutions/Solution1776.cs) | Hard |
 | 1779 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [C#](./src/CSharp/Solutions/Solution1779.cs) | Easy |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [C#](./src/CSharp/Solutions/Solution1780.cs) | Medium |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) | [C#](./src/CSharp/Solutions/Solution1781.cs) | Medium |
+| 1782 | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes) | [C#](./src/CSharp/Solutions/Solution1782.cs) | Hard |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [C#](./src/CSharp/Solutions/Solution1784.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
