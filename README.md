@@ -1341,6 +1341,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings) | [C#](./src/CSharp/Solutions/Solution1781.cs) | Medium |
 | 1782 | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes) | [C#](./src/CSharp/Solutions/Solution1782.cs) | Hard |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [C#](./src/CSharp/Solutions/Solution1784.cs) | Easy |
+| 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum) | [C#](./src/CSharp/Solutions/Solution1785.cs) | Medium |
+| 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node) | [C#](./src/CSharp/Solutions/Solution1786.cs) | Medium |
+| 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero) | [C#](./src/CSharp/Solutions/Solution1787.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
