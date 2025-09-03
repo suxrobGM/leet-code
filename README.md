@@ -1347,6 +1347,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee) | [SQL](./src/SQL/Solution1789.sql) | Easy |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | [C#](./src/CSharp/Solutions/Solution1790.cs) | Easy |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | [C#](./src/CSharp/Solutions/Solution1791.cs) | Easy |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) | [C#](./src/CSharp/Solutions/Solution1792.cs) | Medium |
+| 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray) | [C#](./src/CSharp/Solutions/Solution1793.cs) | Hard |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [SQL](./src/SQL/Solution1795.sql) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
