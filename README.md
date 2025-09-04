@@ -1350,6 +1350,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) | [C#](./src/CSharp/Solutions/Solution1792.cs) | Medium |
 | 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray) | [C#](./src/CSharp/Solutions/Solution1793.cs) | Hard |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [SQL](./src/SQL/Solution1795.sql) | Easy |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [C#](./src/CSharp/Solutions/Solution1796.cs) | Easy |
+| 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager) | [C#](./src/CSharp/Solutions/Solution1797.cs) | Medium |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make) | [C#](./src/CSharp/Solutions/Solution1798.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
