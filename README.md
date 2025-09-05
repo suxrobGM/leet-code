@@ -1353,6 +1353,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [C#](./src/CSharp/Solutions/Solution1796.cs) | Easy |
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager) | [C#](./src/CSharp/Solutions/Solution1797.cs) | Medium |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make) | [C#](./src/CSharp/Solutions/Solution1798.cs) | Medium |
+| 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations) | [C#](./src/CSharp/Solutions/Solution1799.cs) | Hard |
+| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [C#](./src/CSharp/Solutions/Solution1800.cs) | Easy |
+| 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog) | [C#](./src/CSharp/Solutions/Solution1801.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
