@@ -1356,6 +1356,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations) | [C#](./src/CSharp/Solutions/Solution1799.cs) | Hard |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [C#](./src/CSharp/Solutions/Solution1800.cs) | Easy |
 | 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog) | [C#](./src/CSharp/Solutions/Solution1801.cs) | Medium |
+| 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [C#](./src/CSharp/Solutions/Solution1802.cs) | Medium |
+| 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range) | [C#](./src/CSharp/Solutions/Solution1803.cs) | Hard |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | [C#](./src/CSharp/Solutions/Solution1805.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
