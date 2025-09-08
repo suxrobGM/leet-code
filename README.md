@@ -1362,6 +1362,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [C#](./src/CSharp/Solutions/Solution1806.cs) | Medium |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [C#](./src/CSharp/Solutions/Solution1807.cs) | Medium |
 | 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors) | [C#](./src/CSharp/Solutions/Solution1808.cs) | Hard |
+| 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [C#](./src/CSharp/Solutions/Solution1812.cs) | Easy |
+| 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii) | [C#](./src/CSharp/Solutions/Solution1813.cs) | Medium |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C#](./src/CSharp/Solutions/Solution1814.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
