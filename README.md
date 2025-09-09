@@ -1365,6 +1365,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [C#](./src/CSharp/Solutions/Solution1812.cs) | Easy |
 | 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii) | [C#](./src/CSharp/Solutions/Solution1813.cs) | Medium |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C#](./src/CSharp/Solutions/Solution1814.cs) | Medium |
+| 1815 | [Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts) | [C#](./src/CSharp/Solutions/Solution1815.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
