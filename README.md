@@ -1369,6 +1369,9 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [C#](./src/CSharp/Solutions/Solution1816.cs) | Easy |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | [C#](./src/CSharp/Solutions/Solution1817.cs) | Medium |
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference) | [C#](./src/CSharp/Solutions/Solution1818.cs) | Medium |
+| 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds) | [C#](./src/CSharp/Solutions/Solution1819.cs) | Hard |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | [C#](./src/CSharp/Solutions/Solution1822.cs) | Easy |
+| 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game) | [C#](./src/CSharp/Solutions/Solution1823.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
