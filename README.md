@@ -1375,6 +1375,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps) | [C#](./src/CSharp/Solutions/Solution1824.cs) | Medium |
 | 1825 | [Finding MK Average](https://leetcode.com/problems/finding-mk-average) | [C#](./src/CSharp/Solutions/Solution1825.cs) | Hard |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | [C#](./src/CSharp/Solutions/Solution1827.cs) | Easy |
+| 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) | [C#](./src/CSharp/Solutions/Solution1828.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
