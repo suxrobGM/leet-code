@@ -1379,6 +1379,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query) | [C#](./src/CSharp/Solutions/Solution1829.cs) | Medium |
 | 1830 | [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted) | [C#](./src/CSharp/Solutions/Solution1830.cs) | Hard |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [C#](./src/CSharp/Solutions/Solution1832.cs) | Easy |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | [C#](./src/CSharp/Solutions/Solution1833.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
