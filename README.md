@@ -1383,6 +1383,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu) | [C#](./src/CSharp/Solutions/Solution1834.cs) | Medium |
 | 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and) | [C#](./src/CSharp/Solutions/Solution1835.cs) | Hard |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [C#](./src/CSharp/Solutions/Solution1837.cs) | Easy |
+| 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | [C#](./src/CSharp/Solutions/Solution1838.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
