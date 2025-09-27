@@ -1386,6 +1386,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | [C#](./src/CSharp/Solutions/Solution1838.cs) | Medium |
 | 1839 | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order) | [C#](./src/CSharp/Solutions/Solution1839.cs) | Medium |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | [C#](./src/CSharp/Solutions/Solution1840.cs) | Hard |
+| 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [C#](./src/CSharp/Solutions/Solution1844.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
