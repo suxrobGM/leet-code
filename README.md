@@ -1389,6 +1389,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [C#](./src/CSharp/Solutions/Solution1844.cs) | Easy |
 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager) | [C#](./src/CSharp/Solutions/Solution1845.cs) | Medium |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | [C#](./src/CSharp/Solutions/Solution1846.cs) | Medium |
+| 1847 | [Closest Room](https://leetcode.com/problems/closest-room) | [C#](./src/CSharp/Solutions/Solution1847.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
