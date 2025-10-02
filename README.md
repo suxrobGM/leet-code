@@ -1391,6 +1391,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | [C#](./src/CSharp/Solutions/Solution1846.cs) | Medium |
 | 1847 | [Closest Room](https://leetcode.com/problems/closest-room) | [C#](./src/CSharp/Solutions/Solution1847.cs) | Hard |
 | 1848 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | [C#](./src/CSharp/Solutions/Solution1848.cs) | Easy |
+| 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values) | [C#](./src/CSharp/Solutions/Solution1849.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
