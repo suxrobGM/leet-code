@@ -1394,6 +1394,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values) | [C#](./src/CSharp/Solutions/Solution1849.cs) | Medium |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) | [C#](./src/CSharp/Solutions/Solution1850.cs) | Medium |
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) | [C#](./src/CSharp/Solutions/Solution1851.cs) | Hard |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year) | [C#](./src/CSharp/Solutions/Solution1854.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
