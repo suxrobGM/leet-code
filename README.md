@@ -1399,6 +1399,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1856 | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product) | [C#](./src/CSharp/Solutions/Solution1856.cs) | Medium |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) | [C#](./src/CSharp/Solutions/Solution1857.cs) | Hard |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | [C#](./src/CSharp/Solutions/Solution1859.cs) | Easy |
+| 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak) | [C#](./src/CSharp/Solutions/Solution1860.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
