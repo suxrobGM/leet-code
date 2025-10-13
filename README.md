@@ -1402,6 +1402,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak) | [C#](./src/CSharp/Solutions/Solution1860.cs) | Medium |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | [C#](./src/CSharp/Solutions/Solution1861.cs) | Medium |
 | 1862 | [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs) | [C#](./src/CSharp/Solutions/Solution1862.cs) | Hard |
+| 1863 | [Sum of All Substrings](https://leetcode.com/problems/sum-of-all-substrings) | [C#](./src/CSharp/Solutions/Solution1863.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
