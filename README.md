@@ -1410,6 +1410,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) | [C#](./src/CSharp/Solutions/Solution1870.cs) | Medium |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | [C#](./src/CSharp/Solutions/Solution1871.cs) | Medium |
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii) | [C#](./src/CSharp/Solutions/Solution1872.cs) | Hard |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | [SQL](./src/SQL/Solution1873.sql) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
