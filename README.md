@@ -1413,6 +1413,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | [SQL](./src/SQL/Solution1873.sql) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | [C#](./src/CSharp/Solutions/Solution1876.cs) | Easy |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [C#](./src/CSharp/Solutions/Solution1877.cs) | Medium |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid) | [C#](./src/CSharp/Solutions/Solution1878.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
