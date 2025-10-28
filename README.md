@@ -1417,6 +1417,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1879 | [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays) | [C#](./src/CSharp/Solutions/Solution1879.cs) | Hard |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [C#](./src/CSharp/Solutions/Solution1880.cs) | Easy |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | [C#](./src/CSharp/Solutions/Solution1882.cs) | Medium |
+| 1883 | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time) | [C#](./src/CSharp/Solutions/Solution1883.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
