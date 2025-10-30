@@ -1419,6 +1419,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers) | [C#](./src/CSharp/Solutions/Solution1882.cs) | Medium |
 | 1883 | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time) | [C#](./src/CSharp/Solutions/Solution1883.cs) | Hard |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) | [C#](./src/CSharp/Solutions/Solution1884.cs) | Medium |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | [C#](./src/CSharp/Solutions/Solution1886.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
