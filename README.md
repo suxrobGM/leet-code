@@ -1422,6 +1422,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | [C#](./src/CSharp/Solutions/Solution1886.cs) | Easy |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal) | [C#](./src/CSharp/Solutions/Solution1887.cs) | Medium |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating) | [C#](./src/CSharp/Solutions/Solution1888.cs) | Medium |
+| 1889 | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging) | [C#](./src/CSharp/Solutions/Solution1889.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
