@@ -1426,6 +1426,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1890 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) | [C#](./src/CSharp/Solutions/Solution1890.cs) | Easy |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered) | [C#](./src/CSharp/Solutions/Solution1893.cs) | Easy |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [C#](./src/CSharp/Solutions/Solution1894.cs) | Medium |
+| 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square) | [C#](./src/CSharp/Solutions/Solution1895.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
