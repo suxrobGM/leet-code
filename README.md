@@ -1428,6 +1428,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) | [C#](./src/CSharp/Solutions/Solution1894.cs) | Medium |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square) | [C#](./src/CSharp/Solutions/Solution1895.cs) | Medium |
 | 1896 | [Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression) | [C#](./src/CSharp/Solutions/Solution1896.cs) | Hard |
+| 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal) | [C#](./src/CSharp/Solutions/Solution1897.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
