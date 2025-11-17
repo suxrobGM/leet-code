@@ -1436,6 +1436,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | [C#](./src/CSharp/Solutions/Solution1903.cs) | Easy |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) | [C#](./src/CSharp/Solutions/Solution1904.cs) | Medium |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [C#](./src/CSharp/Solutions/Solution1905.cs) | Medium |
+| 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries) | [C#](./src/CSharp/Solutions/Solution1906.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
