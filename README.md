@@ -1438,6 +1438,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands) | [C#](./src/CSharp/Solutions/Solution1905.cs) | Medium |
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries) | [C#](./src/CSharp/Solutions/Solution1906.cs) | Medium |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [SQL](./src/SQL/Solution1907.sql) | Easy |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C#](./src/CSharp/Solutions/Solution1909.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
