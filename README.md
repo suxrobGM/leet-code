@@ -1442,6 +1442,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C#](./src/CSharp/Solutions/Solution1910.cs) | Medium |
 | 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum) | [C#](./src/CSharp/Solutions/Solution1911.cs) | Medium |
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system) | [C#](./src/CSharp/Solutions/Solution1912.cs) | Hard |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [C#](./src/CSharp/Solutions/Solution1913.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
