@@ -1448,6 +1448,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony) | [C#](./src/CSharp/Solutions/Solution1916.cs) | Hard |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [C#](./src/CSharp/Solutions/Solution1920.cs) | Easy |
 | 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters) | [C#](./src/CSharp/Solutions/Solution1921.cs) | Medium |
+| 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | [C#](./src/CSharp/Solutions/Solution1922.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
