@@ -8,7 +8,7 @@ public class Solution1922
     private const long MOD = 1_000_000_007;
 
     /// <summary>
-    /// https://leetcode.com/problems/count-good-numbers - Medium
+    /// 1922. Count Good Numbers - Medium
     /// <a href="https://leetcode.com/problems/count-good-numbers">See the problem</a>
     /// </summary>
     public int CountGoodNumbers(long n)
