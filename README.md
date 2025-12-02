@@ -1451,6 +1451,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | [C#](./src/CSharp/Solutions/Solution1922.cs) | Medium |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | [C#](./src/CSharp/Solutions/Solution1925.cs) | Easy |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [C#](./src/CSharp/Solutions/Solution1926.cs) | Medium |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game) | [C#](./src/CSharp/Solutions/Solution1927.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
