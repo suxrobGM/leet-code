@@ -1455,6 +1455,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time) | [C#](./src/CSharp/Solutions/Solution1928.cs) | Hard |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [C#](./src/CSharp/Solutions/Solution1929.cs) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | [C#](./src/CSharp/Solutions/Solution1930.cs) | Medium |
+| 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) | [C#](./src/CSharp/Solutions/Solution1931.cs) | Hard |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
