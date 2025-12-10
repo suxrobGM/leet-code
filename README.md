@@ -1459,6 +1459,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | [SQL](./src/SQL/Solution1934.sql) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [C#](./src/CSharp/Solutions/Solution1935.cs) | Easy |
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs) | [C#](./src/CSharp/Solutions/Solution1936.cs) | Medium |
+| 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | [C#](./src/CSharp/Solutions/Solution1937.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
