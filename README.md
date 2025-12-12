@@ -1461,6 +1461,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs) | [C#](./src/CSharp/Solutions/Solution1936.cs) | Medium |
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost) | [C#](./src/CSharp/Solutions/Solution1937.cs) | Medium |
 | 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query) | [C#](./src/CSharp/Solutions/Solution1938.cs) | Hard |
+| 1941 | [Check if String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [C#](./src/CSharp/Solutions/Solution1941.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
