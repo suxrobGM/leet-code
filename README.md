@@ -1466,6 +1466,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1943 | [Describe The Painting](https://leetcode.com/problems/describe-the-painting) | [C#](./src/CSharp/Solutions/Solution1943.cs) | Medium |
 | 1944 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [C#](./src/CSharp/Solutions/Solution1944.cs) | Hard |
 | 1945 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [C#](./src/CSharp/Solutions/Solution1945.cs) | Easy |
+| 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring) | [C#](./src/CSharp/Solutions/Solution1946.cs) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
