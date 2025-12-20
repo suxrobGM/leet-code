@@ -1469,6 +1469,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring) | [C#](./src/CSharp/Solutions/Solution1946.cs) | Medium |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum) | [C#](./src/CSharp/Solutions/Solution1947.cs) | Medium |
 | 1948 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time) | [C#](./src/CSharp/Solutions/Solution1948.cs) | Hard |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | [C#](./src/CSharp/Solutions/Solution1952.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
