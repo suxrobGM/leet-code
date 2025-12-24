@@ -1473,6 +1473,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work) | [C#](./src/CSharp/Solutions/Solution1953.cs) | Medium |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples) | [C#](./src/CSharp/Solutions/Solution1954.cs) | Medium |
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences) | [C#](./src/CSharp/Solutions/Solution1955.cs) | Hard |
+| 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [C#](./src/CSharp/Solutions/Solution1957.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
