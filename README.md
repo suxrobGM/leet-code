@@ -1476,6 +1476,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [C#](./src/CSharp/Solutions/Solution1957.cs) | Easy |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal) | [C#](./src/CSharp/Solutions/Solution1958.cs) | Medium |
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations) | [C#](./src/CSharp/Solutions/Solution1959.cs) | Medium |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [C#](./src/CSharp/Solutions/Solution1961.cs) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
