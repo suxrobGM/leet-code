@@ -1484,6 +1484,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [C#](./src/CSharp/Solutions/Solution1971.cs) | Easy |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | [C#](./src/CSharp/Solutions/Solution1974.cs) | Easy |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [C#](./src/CSharp/Solutions/Solution1975.cs) | Medium |
+| 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [C#](./src/CSharp/Solutions/Solution1976.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
