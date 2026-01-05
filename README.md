@@ -1486,6 +1486,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum) | [C#](./src/CSharp/Solutions/Solution1975.cs) | Medium |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [C#](./src/CSharp/Solutions/Solution1976.cs) | Medium |
 | 1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers) | [C#](./src/CSharp/Solutions/Solution1977.cs) | Hard |
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company) | [SQL](./src/SQL/Solution1978.sql) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
