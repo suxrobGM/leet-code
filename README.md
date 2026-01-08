@@ -1488,6 +1488,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers) | [C#](./src/CSharp/Solutions/Solution1977.cs) | Hard |
 | 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company) | [SQL](./src/SQL/Solution1978.sql) | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [C#](./src/CSharp/Solutions/Solution1979.cs) | Easy |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [C#](./src/CSharp/Solutions/Solution1980.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
