@@ -1491,6 +1491,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [C#](./src/CSharp/Solutions/Solution1980.cs) | Medium |
 | 1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements) | [C#](./src/CSharp/Solutions/Solution1981.cs) | Medium |
 | 1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums) | [C#](./src/CSharp/Solutions/Solution1982.cs) | Hard |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [C#](./src/CSharp/Solutions/Solution1984.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
