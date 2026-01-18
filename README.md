@@ -1498,6 +1498,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland) | [C#](./src/CSharp/Solutions/Solution1992.cs) | Medium |
 | 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree) | [C#](./src/CSharp/Solutions/Solution1993.cs) | Medium |
 | 1994 | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets) | [C#](./src/CSharp/Solutions/Solution1994.cs) | Hard |
+| 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets) | [C#](./src/CSharp/Solutions/Solution1995.cs) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
