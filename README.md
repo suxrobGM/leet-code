@@ -1503,6 +1503,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms) | [C#](./src/CSharp/Solutions/Solution1997.cs) | Medium |
 | 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array) | [C#](./src/CSharp/Solutions/Solution1998.cs) | Hard |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [C#](./src/CSharp/Solutions/Solution2000.cs) | Easy |
+| 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles) | [C#](./src/CSharp/Solutions/Solution2001.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
