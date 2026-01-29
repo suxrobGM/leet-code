@@ -1508,6 +1508,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 2003 | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree) | [C#](./src/CSharp/Solutions/Solution2003.cs) | Hard |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [C#](./src/CSharp/Solutions/Solution2006.cs) | Easy |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [C#](./src/CSharp/Solutions/Solution2007.cs) | Medium |
+| 2008 | [Maximum Earnings From Taxi](./src/CSharp/Solutions/Solution2008.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
