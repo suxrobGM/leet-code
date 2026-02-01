@@ -1511,6 +1511,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 2008 | [Maximum Earnings From Taxi](./src/CSharp/Solutions/Solution2008.cs) | Medium |
 | 2009 | [Minimum Number of Operations to Make Array Continuous](./src/CSharp/Solutions/Solution2009.cs) | Hard |
 | 2011 | [Final Value of Variable After Performing Operations](./src/CSharp/Solutions/Solution2011.cs) | Easy |
+| 2012 | [2012. Sum of Beauty in the Array](./src/CSharp/Solutions/Solution2012.cs) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
