@@ -1,7 +1,8 @@
 # LeetCode Solutions
+
 LeetCode problems and solutions.
 
-My profile on LeetCode: https://leetcode.com/u/SuxrobGM
+My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 
 | #    | Title                                                                                                                          | Solution                                         | Difficulty |
 |------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--|
@@ -1516,6 +1517,7 @@ My profile on LeetCode: https://leetcode.com/u/SuxrobGM
 | 2014 | [2014. Longest Subsequence Repeated k Times](./src/CSharp/Solutions/Solution2014.cs) | Hard |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [TypeScript](./src/TypeScript/solutions/solution2016.ts) | Easy |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [TypeScript](./src/TypeScript/solutions/solution2017.ts) | Medium |
+| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword) | [TypeScript](./src/TypeScript/solutions/solution2018.ts) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
