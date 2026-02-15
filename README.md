@@ -1525,6 +1525,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) | [TypeScript](./src/TypeScript/solutions/solution2025.ts) | Hard |
 | 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string) | [TypeScript](./src/TypeScript/solutions/solution2027.ts) | Easy |
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [TypeScript](./src/TypeScript/solutions/solution2028.ts) | Medium |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix) | [TypeScript](./src/TypeScript/solutions/solution2029.ts) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
