@@ -1527,6 +1527,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [TypeScript](./src/TypeScript/solutions/solution2028.ts) | Medium |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix) | [TypeScript](./src/TypeScript/solutions/solution2029.ts) | Medium |
 | 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2030.ts) | Hard |
+| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | [TypeScript](./src/TypeScript/solutions/solution2032.ts) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
