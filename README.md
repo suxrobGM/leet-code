@@ -1529,6 +1529,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2030.ts) | Hard |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | [TypeScript](./src/TypeScript/solutions/solution2032.ts) | Easy |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [TypeScript](./src/TypeScript/solutions/solution2033.ts) | Medium |
+| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation) | [TypeScript](./src/TypeScript/solutions/solution2034.ts) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
