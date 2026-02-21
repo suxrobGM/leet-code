@@ -1531,6 +1531,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [TypeScript](./src/TypeScript/solutions/solution2033.ts) | Medium |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation) | [TypeScript](./src/TypeScript/solutions/solution2034.ts) | Medium |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [TypeScript](./src/TypeScript/solutions/solution2035.ts) | Hard |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [TypeScript](./src/TypeScript/solutions/solution2037.ts) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
