@@ -1535,6 +1535,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2038 | [Remove Colored Pieces if Both Neighbors Are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [TypeScript](./src/TypeScript/solutions/solution2038.ts) | Medium |
 | 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) | [TypeScript](./src/TypeScript/solutions/solution2039.ts) | Medium |
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | [TypeScript](./src/TypeScript/solutions/solution2040.ts) | Hard |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [TypeScript](./src/TypeScript/solutions/solution2042.ts) | Easy |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
