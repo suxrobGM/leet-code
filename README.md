@@ -1542,6 +1542,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | [TypeScript](./src/TypeScript/solutions/solution2047.ts) | Easy |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | [TypeScript](./src/TypeScript/solutions/solution2048.ts) | Medium |
 | 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score) | [TypeScript](./src/TypeScript/solutions/solution2049.ts) | Medium |
+| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | [TypeScript](./src/TypeScript/solutions/solution2050.ts) | Hard |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
