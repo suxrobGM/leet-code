@@ -1544,6 +1544,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score) | [TypeScript](./src/TypeScript/solutions/solution2049.ts) | Medium |
 | 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | [TypeScript](./src/TypeScript/solutions/solution2050.ts) | Hard |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [TypeScript](./src/TypeScript/solutions/solution2053.ts) | Easy |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [TypeScript](./src/TypeScript/solutions/solution2054.ts) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
