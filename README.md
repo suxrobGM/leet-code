@@ -1549,6 +1549,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) | [TypeScript](./src/TypeScript/solutions/solution2056.ts) | Hard |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | [TypeScript](./src/TypeScript/solutions/solution2057.ts) | Easy |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [TypeScript](./src/TypeScript/solutions/solution2058.ts) | Medium |
+| 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number) | [TypeScript](./src/TypeScript/solutions/solution2059.ts) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
