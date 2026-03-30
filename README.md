@@ -1568,6 +1568,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2079 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii) | [TypeScript](./src/TypeScript/solutions/solution2079.ts) | Medium |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries) | [TypeScript](./src/TypeScript/solutions/solution2080.ts) | Medium |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | [TypeScript](./src/TypeScript/solutions/solution2081.ts) | Hard |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [TypeScript](./src/TypeScript/solutions/solution2085.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
