@@ -1570,6 +1570,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | [TypeScript](./src/TypeScript/solutions/solution2081.ts) | Hard |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [TypeScript](./src/TypeScript/solutions/solution2085.ts) | Easy |
 | 2086 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) | [TypeScript](./src/TypeScript/solutions/solution2086.ts) | Medium |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2087.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
