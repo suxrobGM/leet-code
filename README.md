@@ -1574,6 +1574,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2088 | [Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land) | [TypeScript](./src/TypeScript/solutions/solution2088.ts) | Hard |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [TypeScript](./src/TypeScript/solutions/solution2089.ts) | Easy |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) | [TypeScript](./src/TypeScript/solutions/solution2090.ts) | Medium |
+| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [TypeScript](./src/TypeScript/solutions/solution2091.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
