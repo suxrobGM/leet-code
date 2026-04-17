@@ -1584,6 +1584,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank) | [TypeScript](./src/TypeScript/solutions/solution2100.ts) | Medium |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [TypeScript](./src/TypeScript/solutions/solution2101.ts) | Medium |
 | 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker) | [TypeScript](./src/TypeScript/solutions/solution2102.ts) | Hard |
+| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [TypeScript](./src/TypeScript/solutions/solution2103.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
