@@ -1588,6 +1588,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | [TypeScript](./src/TypeScript/solutions/solution2104.ts) | Medium |
 | 2105 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./src/TypeScript/solutions/solution2105.ts) | Medium |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) | [TypeScript](./src/TypeScript/solutions/solution2106.ts) | Hard |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [TypeScript](./src/TypeScript/solutions/solution2108.ts) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
