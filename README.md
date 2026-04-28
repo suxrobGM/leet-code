@@ -1594,6 +1594,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing) | [TypeScript](./src/TypeScript/solutions/solution2111.ts) | Hard |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [TypeScript](./src/TypeScript/solutions/solution2114.ts) | Easy |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [TypeScript](./src/TypeScript/solutions/solution2115.ts) | Medium |
+| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [TypeScript](./src/TypeScript/solutions/solution2116.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
