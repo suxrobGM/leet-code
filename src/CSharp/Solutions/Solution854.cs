@@ -3,7 +3,7 @@ using LeetCode.DataStructures;
 
 namespace LeetCode.Solutions;
 
-public class Solution853
+public class Solution854
 {
     /// <summary>
     /// 854. K-Similar Strings - Hard
