@@ -1597,6 +1597,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [TypeScript](./src/TypeScript/solutions/solution2116.ts) | Medium |
 | 2117 | [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range) | [TypeScript](./src/TypeScript/solutions/solution2117.ts) | Hard |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [TypeScript](./src/TypeScript/solutions/solution2119.ts) | Easy |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2120.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
