@@ -1599,6 +1599,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [TypeScript](./src/TypeScript/solutions/solution2119.ts) | Easy |
 | 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2120.ts) | Medium |
 | 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements) | [TypeScript](./src/TypeScript/solutions/solution2121.ts) | Medium |
+| 2122 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2122.ts) | Hard |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
