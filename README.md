@@ -1605,6 +1605,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2126 | [Number of People That Can Be Seen in a Grid II](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-ii) | [TypeScript](./src/TypeScript/solutions/solution2126.ts) | Medium |
 | 2127 | [Number of People That Can Be Seen in a Grid III](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-iii) | [TypeScript](./src/TypeScript/solutions/solution2127.ts) | Hard |
 | 2129 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [TypeScript](./src/TypeScript/solutions/solution2129.ts) | Easy |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [TypeScript](./src/TypeScript/solutions/solution2130.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
