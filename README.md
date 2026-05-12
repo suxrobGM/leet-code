@@ -1607,6 +1607,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2129 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [TypeScript](./src/TypeScript/solutions/solution2129.ts) | Easy |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [TypeScript](./src/TypeScript/solutions/solution2130.ts) | Medium |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [TypeScript](./src/TypeScript/solutions/solution2131.ts) | Medium |
+| 2132 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [TypeScript](./src/TypeScript/solutions/solution2132.ts) | Hard |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
