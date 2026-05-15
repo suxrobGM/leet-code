@@ -12,53 +12,27 @@ public class Solution1744
     /// </summary>
     public bool[] CanEat(int[] candiesCount, int[][] queries)
     {
-        int n = adjacentPairs.Length + 1;
-        var adj = new Dictionary<int, List<int>>(n);
-
-        // Build adjacency list (each value has 1 or 2 neighbors)
-        foreach (var p in adjacentPairs)
+        long[] prefix = new long[candiesCount.Length + 1];
+        for (int i = 0; i < candiesCount.Length; i++)
         {
-            int a = p[0], b = p[1];
-
-            if (!adj.TryGetValue(a, out var la)) { la = new List<int>(2); adj[a] = la; }
-            if (!adj.TryGetValue(b, out var lb)) { lb = new List<int>(2); adj[b] = lb; }
-            la.Add(b);
-            lb.Add(a);
+            prefix[i + 1] = prefix[i] + candiesCount[i];
         }
 
-        // Find one endpoint (degree 1)
-        int start = 0;
-        foreach (var kv in adj)
+        bool[] answer = new bool[queries.Length];
+        for (int i = 0; i < queries.Length; i++)
         {
-            if (kv.Value.Count == 1)
-            {
-                start = kv.Key;
-                break;
-            }
+            int favoriteType = queries[i][0];
+            int favoriteDay = queries[i][1];
+            int dailyCap = queries[i][2];
+
+            long minimumEaten = favoriteDay + 1L;
+            long maximumEaten = (favoriteDay + 1L) * dailyCap;
+            long beforeFavoriteType = prefix[favoriteType];
+            long throughFavoriteType = prefix[favoriteType + 1];
+
+            answer[i] = maximumEaten > beforeFavoriteType && minimumEaten <= throughFavoriteType;
         }
 
-        var ans = new int[n];
-        ans[0] = start;
-
-        if (n == 2)
-        {
-            ans[1] = adj[start][0];
-            return ans;
-        }
-
-        // Second element is the unique neighbor of the start
-        ans[1] = adj[start][0];
-
-        // Reconstruct by walking, avoiding the previous value
-        for (int i = 2; i < n; i++)
-        {
-            int prev = ans[i - 2];
-            int cur = ans[i - 1];
-            var neighbors = adj[cur]; // size 2 except at ends
-            ans[i] = (neighbors[0] == prev) ? neighbors[1] : neighbors[0];
-        }
-
-        return ans;
+        return answer;
     }
 }
-

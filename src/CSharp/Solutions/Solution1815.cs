@@ -14,6 +14,8 @@ public class Solution1815
     public int MaxHappyGroups(int batchSize, int[] groups)
     {
         this.batchSize = batchSize;
+        memo.Clear();
+
         int happy = 0;
         int[] cnt = new int[batchSize];
 
@@ -41,7 +43,7 @@ public class Solution1815
             cnt[r]--;
 
             int add = (leftover == 0) ? 1 : 0;
-            int nextLeftover = (leftover + r) % B;
+            int nextLeftover = (leftover + r) % batchSize;
 
             best = Math.Max(best, add + Dfs(cnt, nextLeftover));
 
