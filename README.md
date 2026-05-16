@@ -1611,6 +1611,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | [TypeScript](./src/TypeScript/solutions/solution2133.ts) | Easy |
 | 2134 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together) | [TypeScript](./src/TypeScript/solutions/solution2134.ts) | Medium |
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2135.ts) | Medium |
+| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [TypeScript](./src/TypeScript/solutions/solution2136.ts) | Hard |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
