@@ -1613,6 +1613,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2135.ts) | Medium |
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [TypeScript](./src/TypeScript/solutions/solution2136.ts) | Hard |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [TypeScript](./src/TypeScript/solutions/solution2138.ts) | Easy |
+| 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score) | [TypeScript](./src/TypeScript/solutions/solution2139.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
