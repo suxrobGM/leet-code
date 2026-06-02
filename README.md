@@ -1627,6 +1627,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [TypeScript](./src/TypeScript/solutions/solution2154.ts) | Easy |
 | 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | [TypeScript](./src/TypeScript/solutions/solution2155.ts) | Medium |
 | 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value) | [TypeScript](./src/TypeScript/solutions/solution2156.ts) | Hard |
+| 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings) | [TypeScript](./src/TypeScript/solutions/solution2157.ts) | Hard |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
