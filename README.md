@@ -1629,6 +1629,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value) | [TypeScript](./src/TypeScript/solutions/solution2156.ts) | Hard |
 | 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings) | [TypeScript](./src/TypeScript/solutions/solution2157.ts) | Hard |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [TypeScript](./src/TypeScript/solutions/solution2160.ts) | Easy |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./src/TypeScript/solutions/solution2161.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
