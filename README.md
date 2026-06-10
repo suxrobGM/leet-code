@@ -1634,6 +1634,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) | [TypeScript](./src/TypeScript/solutions/solution2163.ts) | Hard |
 | 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | [TypeScript](./src/TypeScript/solutions/solution2164.ts) | Easy |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) | [TypeScript](./src/TypeScript/solutions/solution2165.ts) | Medium |
+| 2166 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal) | [TypeScript](./src/TypeScript/solutions/solution2166.ts) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
