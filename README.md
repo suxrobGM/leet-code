@@ -1515,126 +1515,127 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2012 | [2012. Sum of Beauty in the Array](./src/CSharp/Solutions/Solution2012.cs) | Medium |
 | 2013 | [2013. Detect Squares](./src/CSharp/Solutions/Solution2013.cs) | Medium |
 | 2014 | [2014. Longest Subsequence Repeated k Times](./src/CSharp/Solutions/Solution2014.cs) | Hard |
-| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [TypeScript](./src/TypeScript/solutions/solution2016.ts) | Easy |
-| 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [TypeScript](./src/TypeScript/solutions/solution2017.ts) | Medium |
-| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword) | [TypeScript](./src/TypeScript/solutions/solution2018.ts) | Medium |
-| 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression) | [TypeScript](./src/TypeScript/solutions/solution2019.ts) | Hard |
-| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [TypeScript](./src/TypeScript/solutions/solution2022.ts) | Easy |
-| 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target) | [TypeScript](./src/TypeScript/solutions/solution2023.ts) | Medium |
-| 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) | [TypeScript](./src/TypeScript/solutions/solution2024.ts) | Medium |
-| 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) | [TypeScript](./src/TypeScript/solutions/solution2025.ts) | Hard |
-| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string) | [TypeScript](./src/TypeScript/solutions/solution2027.ts) | Easy |
-| 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [TypeScript](./src/TypeScript/solutions/solution2028.ts) | Medium |
-| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix) | [TypeScript](./src/TypeScript/solutions/solution2029.ts) | Medium |
-| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2030.ts) | Hard |
-| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | [TypeScript](./src/TypeScript/solutions/solution2032.ts) | Easy |
-| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [TypeScript](./src/TypeScript/solutions/solution2033.ts) | Medium |
-| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation) | [TypeScript](./src/TypeScript/solutions/solution2034.ts) | Medium |
-| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [TypeScript](./src/TypeScript/solutions/solution2035.ts) | Hard |
-| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [TypeScript](./src/TypeScript/solutions/solution2037.ts) | Easy |
-| 2038 | [Remove Colored Pieces if Both Neighbors Are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [TypeScript](./src/TypeScript/solutions/solution2038.ts) | Medium |
-| 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) | [TypeScript](./src/TypeScript/solutions/solution2039.ts) | Medium |
-| 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | [TypeScript](./src/TypeScript/solutions/solution2040.ts) | Hard |
-| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [TypeScript](./src/TypeScript/solutions/solution2042.ts) | Easy |
-| 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system) | [TypeScript](./src/TypeScript/solutions/solution2043.ts) | Medium |
-| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [TypeScript](./src/TypeScript/solutions/solution2044.ts) | Medium |
-| 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | [TypeScript](./src/TypeScript/solutions/solution2045.ts) | Hard |
-| 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | [TypeScript](./src/TypeScript/solutions/solution2047.ts) | Easy |
-| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | [TypeScript](./src/TypeScript/solutions/solution2048.ts) | Medium |
-| 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score) | [TypeScript](./src/TypeScript/solutions/solution2049.ts) | Medium |
-| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | [TypeScript](./src/TypeScript/solutions/solution2050.ts) | Hard |
-| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [TypeScript](./src/TypeScript/solutions/solution2053.ts) | Easy |
-| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [TypeScript](./src/TypeScript/solutions/solution2054.ts) | Medium |
-| 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles) | [TypeScript](./src/TypeScript/solutions/solution2055.ts) | Medium |
-| 2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) | [TypeScript](./src/TypeScript/solutions/solution2056.ts) | Hard |
-| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | [TypeScript](./src/TypeScript/solutions/solution2057.ts) | Easy |
-| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [TypeScript](./src/TypeScript/solutions/solution2058.ts) | Medium |
-| 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number) | [TypeScript](./src/TypeScript/solutions/solution2059.ts) | Medium |
-| 2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings) | [TypeScript](./src/TypeScript/solutions/solution2060.ts) | Hard |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [C#](./src/CSharp/Solutions/Solution2016.cs)             | Easy       |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [C#](./src/CSharp/Solutions/Solution2017.cs)             | Medium     |
+| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword) | [C#](./src/CSharp/Solutions/Solution2018.cs)             | Medium     |
+| 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression) | [C#](./src/CSharp/Solutions/Solution2019.cs)             | Hard       |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [C#](./src/CSharp/Solutions/Solution2022.cs)             | Easy       |
+| 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target) | [C#](./src/CSharp/Solutions/Solution2023.cs)             | Medium     |
+| 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) | [C#](./src/CSharp/Solutions/Solution2024.cs)             | Medium     |
+| 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array) | [C#](./src/CSharp/Solutions/Solution2025.cs)             | Hard       |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string) | [C#](./src/CSharp/Solutions/Solution2027.cs)             | Easy       |
+| 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations) | [C#](./src/CSharp/Solutions/Solution2028.cs)             | Medium     |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix) | [C#](./src/CSharp/Solutions/Solution2029.cs)             | Medium     |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [C#](./src/CSharp/Solutions/Solution2030.cs)             | Hard       |
+| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | [C#](./src/CSharp/Solutions/Solution2032.cs)             | Easy       |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | [C#](./src/CSharp/Solutions/Solution2033.cs)             | Medium     |
+| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation) | [C#](./src/CSharp/Solutions/Solution2034.cs)             | Medium     |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [C#](./src/CSharp/Solutions/Solution2035.cs)             | Hard       |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [C#](./src/CSharp/Solutions/Solution2037.cs)             | Easy       |
+| 2038 | [Remove Colored Pieces if Both Neighbors Are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [C#](./src/CSharp/Solutions/Solution2038.cs)             | Medium     |
+| 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle) | [C#](./src/CSharp/Solutions/Solution2039.cs)             | Medium     |
+| 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | [C#](./src/CSharp/Solutions/Solution2040.cs)             | Hard       |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [C#](./src/CSharp/Solutions/Solution2042.cs)             | Easy       |
+| 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system) | [C#](./src/CSharp/Solutions/Solution2043.cs)             | Medium     |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [C#](./src/CSharp/Solutions/Solution2044.cs)             | Medium     |
+| 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination) | [C#](./src/CSharp/Solutions/Solution2045.cs)             | Hard       |
+| 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence) | [C#](./src/CSharp/Solutions/Solution2047.cs)             | Easy       |
+| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | [C#](./src/CSharp/Solutions/Solution2048.cs)             | Medium     |
+| 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score) | [C#](./src/CSharp/Solutions/Solution2049.cs)             | Medium     |
+| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | [C#](./src/CSharp/Solutions/Solution2050.cs)             | Hard       |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [C#](./src/CSharp/Solutions/Solution2053.cs)             | Easy       |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events) | [C#](./src/CSharp/Solutions/Solution2054.cs)             | Medium     |
+| 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles) | [C#](./src/CSharp/Solutions/Solution2055.cs)             | Medium     |
+| 2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) | [C#](./src/CSharp/Solutions/Solution2056.cs)             | Hard       |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | [C#](./src/CSharp/Solutions/Solution2057.cs)             | Easy       |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [C#](./src/CSharp/Solutions/Solution2058.cs)             | Medium     |
+| 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number) | [C#](./src/CSharp/Solutions/Solution2059.cs)             | Medium     |
+| 2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings) | [C#](./src/CSharp/Solutions/Solution2060.cs)             | Hard       |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [TypeScript](./src/TypeScript/solutions/solution2620.ts) | Easy |
-| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [TypeScript](./src/TypeScript/solutions/solution2062.ts) | Easy |
-| 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings) | [TypeScript](./src/TypeScript/solutions/solution2063.ts) | Medium |
-| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [TypeScript](./src/TypeScript/solutions/solution2064.ts) | Medium |
-| 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph) | [TypeScript](./src/TypeScript/solutions/solution2065.ts) | Hard |
-| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) | [TypeScript](./src/TypeScript/solutions/solution2068.ts) | Easy |
-| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii) | [TypeScript](./src/TypeScript/solutions/solution2069.ts) | Medium |
-| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [TypeScript](./src/TypeScript/solutions/solution2070.ts) | Medium |
-| 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | [TypeScript](./src/TypeScript/solutions/solution2071.ts) | Hard |
-| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | [TypeScript](./src/TypeScript/solutions/solution2073.ts) | Easy |
-| 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups) | [TypeScript](./src/TypeScript/solutions/solution2074.ts) | Medium |
-| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [TypeScript](./src/TypeScript/solutions/solution2075.ts) | Medium |
-| 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests) | [TypeScript](./src/TypeScript/solutions/solution2076.ts) | Hard |
-| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | [TypeScript](./src/TypeScript/solutions/solution2078.ts) | Easy |
-| 2079 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii) | [TypeScript](./src/TypeScript/solutions/solution2079.ts) | Medium |
-| 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries) | [TypeScript](./src/TypeScript/solutions/solution2080.ts) | Medium |
-| 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | [TypeScript](./src/TypeScript/solutions/solution2081.ts) | Hard |
-| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [TypeScript](./src/TypeScript/solutions/solution2085.ts) | Easy |
-| 2086 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) | [TypeScript](./src/TypeScript/solutions/solution2086.ts) | Medium |
-| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2087.ts) | Medium |
-| 2088 | [Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land) | [TypeScript](./src/TypeScript/solutions/solution2088.ts) | Hard |
-| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [TypeScript](./src/TypeScript/solutions/solution2089.ts) | Easy |
-| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) | [TypeScript](./src/TypeScript/solutions/solution2090.ts) | Medium |
-| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [TypeScript](./src/TypeScript/solutions/solution2091.ts) | Medium |
-| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) | [TypeScript](./src/TypeScript/solutions/solution2092.ts) | Hard |
-| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [TypeScript](./src/TypeScript/solutions/solution2094.ts) | Easy |
-| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [TypeScript](./src/TypeScript/solutions/solution2095.ts) | Medium |
-| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another) | [TypeScript](./src/TypeScript/solutions/solution2096.ts) | Medium |
-| 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [TypeScript](./src/TypeScript/solutions/solution2097.ts) | Hard |
-| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | [TypeScript](./src/TypeScript/solutions/solution2099.ts) | Easy |
-| 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank) | [TypeScript](./src/TypeScript/solutions/solution2100.ts) | Medium |
-| 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [TypeScript](./src/TypeScript/solutions/solution2101.ts) | Medium |
-| 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker) | [TypeScript](./src/TypeScript/solutions/solution2102.ts) | Hard |
-| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [TypeScript](./src/TypeScript/solutions/solution2103.ts) | Easy |
-| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | [TypeScript](./src/TypeScript/solutions/solution2104.ts) | Medium |
-| 2105 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./src/TypeScript/solutions/solution2105.ts) | Medium |
-| 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) | [TypeScript](./src/TypeScript/solutions/solution2106.ts) | Hard |
-| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [TypeScript](./src/TypeScript/solutions/solution2108.ts) | Easy |
-| 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string) | [TypeScript](./src/TypeScript/solutions/solution2109.ts) | Medium |
-| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock) | [TypeScript](./src/TypeScript/solutions/solution2110.ts) | Medium |
-| 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing) | [TypeScript](./src/TypeScript/solutions/solution2111.ts) | Hard |
-| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [TypeScript](./src/TypeScript/solutions/solution2114.ts) | Easy |
-| 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [TypeScript](./src/TypeScript/solutions/solution2115.ts) | Medium |
-| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [TypeScript](./src/TypeScript/solutions/solution2116.ts) | Medium |
-| 2117 | [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range) | [TypeScript](./src/TypeScript/solutions/solution2117.ts) | Hard |
-| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [TypeScript](./src/TypeScript/solutions/solution2119.ts) | Easy |
-| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2120.ts) | Medium |
-| 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements) | [TypeScript](./src/TypeScript/solutions/solution2121.ts) | Medium |
-| 2122 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid) | [TypeScript](./src/TypeScript/solutions/solution2122.ts) | Hard |
-| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [TypeScript](./src/TypeScript/solutions/solution2124.ts) | Easy |
-| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | [TypeScript](./src/TypeScript/solutions/solution2125.ts) | Medium |
-| 2126 | [Number of People That Can Be Seen in a Grid II](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-ii) | [TypeScript](./src/TypeScript/solutions/solution2126.ts) | Medium |
-| 2127 | [Number of People That Can Be Seen in a Grid III](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-iii) | [TypeScript](./src/TypeScript/solutions/solution2127.ts) | Hard |
-| 2129 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [TypeScript](./src/TypeScript/solutions/solution2129.ts) | Easy |
-| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [TypeScript](./src/TypeScript/solutions/solution2130.ts) | Medium |
-| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [TypeScript](./src/TypeScript/solutions/solution2131.ts) | Medium |
-| 2132 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [TypeScript](./src/TypeScript/solutions/solution2132.ts) | Hard |
-| 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | [TypeScript](./src/TypeScript/solutions/solution2133.ts) | Easy |
-| 2134 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together) | [TypeScript](./src/TypeScript/solutions/solution2134.ts) | Medium |
-| 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) | [TypeScript](./src/TypeScript/solutions/solution2135.ts) | Medium |
-| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [TypeScript](./src/TypeScript/solutions/solution2136.ts) | Hard |
-| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [TypeScript](./src/TypeScript/solutions/solution2138.ts) | Easy |
-| 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score) | [TypeScript](./src/TypeScript/solutions/solution2139.ts) | Medium |
-| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [TypeScript](./src/TypeScript/solutions/solution2140.ts) | Medium |
-| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [TypeScript](./src/TypeScript/solutions/solution2141.ts) | Hard |
-| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | [TypeScript](./src/TypeScript/solutions/solution2144.ts) | Easy |
-| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences) | [TypeScript](./src/TypeScript/solutions/solution2145.ts) | Medium |
-| 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) | [TypeScript](./src/TypeScript/solutions/solution2146.ts) | Medium |
-| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) | [TypeScript](./src/TypeScript/solutions/solution2147.ts) | Medium |
-| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [TypeScript](./src/TypeScript/solutions/solution2148.ts) | Easy |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./src/TypeScript/solutions/solution2149.ts) | Medium |
-| 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array) | [TypeScript](./src/TypeScript/solutions/solution2150.ts) | Medium |
-| 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements) | [TypeScript](./src/TypeScript/solutions/solution2151.ts) | Hard |
-| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [TypeScript](./src/TypeScript/solutions/solution2154.ts) | Easy |
-| 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | [TypeScript](./src/TypeScript/solutions/solution2155.ts) | Medium |
-| 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value) | [TypeScript](./src/TypeScript/solutions/solution2156.ts) | Hard |
-| 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings) | [TypeScript](./src/TypeScript/solutions/solution2157.ts) | Hard |
-| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [TypeScript](./src/TypeScript/solutions/solution2160.ts) | Easy |
-| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./src/TypeScript/solutions/solution2161.ts) | Medium |
-| 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time) | [TypeScript](./src/TypeScript/solutions/solution2162.ts) | Medium |
-| 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) | [TypeScript](./src/TypeScript/solutions/solution2163.ts) | Hard |
-| 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | [TypeScript](./src/TypeScript/solutions/solution2164.ts) | Easy |
-| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) | [TypeScript](./src/TypeScript/solutions/solution2165.ts) | Medium |
-| 2166 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal) | [TypeScript](./src/TypeScript/solutions/solution2166.ts) | Medium |
+| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [C#](./src/CSharp/Solutions/Solution2062.cs)             | Easy       |
+| 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings) | [C#](./src/CSharp/Solutions/Solution2063.cs)             | Medium     |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [C#](./src/CSharp/Solutions/Solution2064.cs)             | Medium     |
+| 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph) | [C#](./src/CSharp/Solutions/Solution2065.cs)             | Hard       |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent) | [C#](./src/CSharp/Solutions/Solution2068.cs)             | Easy       |
+| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii) | [C#](./src/CSharp/Solutions/Solution2069.cs)             | Medium     |
+| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [C#](./src/CSharp/Solutions/Solution2070.cs)             | Medium     |
+| 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | [C#](./src/CSharp/Solutions/Solution2071.cs)             | Hard       |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | [C#](./src/CSharp/Solutions/Solution2073.cs)             | Easy       |
+| 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups) | [C#](./src/CSharp/Solutions/Solution2074.cs)             | Medium     |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext) | [C#](./src/CSharp/Solutions/Solution2075.cs)             | Medium     |
+| 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests) | [C#](./src/CSharp/Solutions/Solution2076.cs)             | Hard       |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | [C#](./src/CSharp/Solutions/Solution2078.cs)             | Easy       |
+| 2079 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii) | [C#](./src/CSharp/Solutions/Solution2079.cs)             | Medium     |
+| 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries) | [C#](./src/CSharp/Solutions/Solution2080.cs)             | Medium     |
+| 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | [C#](./src/CSharp/Solutions/Solution2081.cs)             | Hard       |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | [C#](./src/CSharp/Solutions/Solution2085.cs)             | Easy       |
+| 2086 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) | [C#](./src/CSharp/Solutions/Solution2086.cs)             | Medium     |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | [C#](./src/CSharp/Solutions/Solution2087.cs)             | Medium     |
+| 2088 | [Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land) | [C#](./src/CSharp/Solutions/Solution2088.cs)             | Hard       |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [C#](./src/CSharp/Solutions/Solution2089.cs)             | Easy       |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) | [C#](./src/CSharp/Solutions/Solution2090.cs)             | Medium     |
+| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | [C#](./src/CSharp/Solutions/Solution2091.cs)             | Medium     |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) | [C#](./src/CSharp/Solutions/Solution2092.cs)             | Hard       |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [C#](./src/CSharp/Solutions/Solution2094.cs)             | Easy       |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [C#](./src/CSharp/Solutions/Solution2095.cs)             | Medium     |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another) | [C#](./src/CSharp/Solutions/Solution2096.cs)             | Medium     |
+| 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs) | [C#](./src/CSharp/Solutions/Solution2097.cs)             | Hard       |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum) | [C#](./src/CSharp/Solutions/Solution2099.cs)             | Easy       |
+| 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank) | [C#](./src/CSharp/Solutions/Solution2100.cs)             | Medium     |
+| 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [C#](./src/CSharp/Solutions/Solution2101.cs)             | Medium     |
+| 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker) | [C#](./src/CSharp/Solutions/Solution2102.cs)             | Hard       |
+| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [C#](./src/CSharp/Solutions/Solution2103.cs)             | Easy       |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges) | [C#](./src/CSharp/Solutions/Solution2104.cs)             | Medium     |
+| 2105 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C#](./src/CSharp/Solutions/Solution2105.cs)             | Medium     |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps) | [C#](./src/CSharp/Solutions/Solution2106.cs)             | Hard       |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [C#](./src/CSharp/Solutions/Solution2108.cs)             | Easy       |
+| 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string) | [C#](./src/CSharp/Solutions/Solution2109.cs)             | Medium     |
+| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock) | [C#](./src/CSharp/Solutions/Solution2110.cs)             | Medium     |
+| 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing) | [C#](./src/CSharp/Solutions/Solution2111.cs)             | Hard       |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [C#](./src/CSharp/Solutions/Solution2114.cs)             | Easy       |
+| 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | [C#](./src/CSharp/Solutions/Solution2115.cs)             | Medium     |
+| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [C#](./src/CSharp/Solutions/Solution2116.cs)             | Medium     |
+| 2117 | [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range) | [C#](./src/CSharp/Solutions/Solution2117.cs)             | Hard       |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [C#](./src/CSharp/Solutions/Solution2119.cs)             | Easy       |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [C#](./src/CSharp/Solutions/Solution2120.cs)             | Medium     |
+| 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements) | [C#](./src/CSharp/Solutions/Solution2121.cs)             | Medium     |
+| 2122 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid) | [C#](./src/CSharp/Solutions/Solution2122.cs)             | Hard       |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [C#](./src/CSharp/Solutions/Solution2124.cs)             | Easy       |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank) | [C#](./src/CSharp/Solutions/Solution2125.cs)             | Medium     |
+| 2126 | [Number of People That Can Be Seen in a Grid II](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-ii) | [C#](./src/CSharp/Solutions/Solution2126.cs)             | Medium     |
+| 2127 | [Number of People That Can Be Seen in a Grid III](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid-iii) | [C#](./src/CSharp/Solutions/Solution2127.cs)             | Hard       |
+| 2129 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [C#](./src/CSharp/Solutions/Solution2129.cs)             | Easy       |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [C#](./src/CSharp/Solutions/Solution2130.cs)             | Medium     |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [C#](./src/CSharp/Solutions/Solution2131.cs)             | Medium     |
+| 2132 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [C#](./src/CSharp/Solutions/Solution2132.cs)             | Hard       |
+| 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers) | [C#](./src/CSharp/Solutions/Solution2133.cs)             | Easy       |
+| 2134 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together) | [C#](./src/CSharp/Solutions/Solution2134.cs)             | Medium     |
+| 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) | [C#](./src/CSharp/Solutions/Solution2135.cs)             | Medium     |
+| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [C#](./src/CSharp/Solutions/Solution2136.cs)             | Hard       |
+| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [C#](./src/CSharp/Solutions/Solution2138.cs)             | Easy       |
+| 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score) | [C#](./src/CSharp/Solutions/Solution2139.cs)             | Medium     |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [C#](./src/CSharp/Solutions/Solution2140.cs)             | Medium     |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers) | [C#](./src/CSharp/Solutions/Solution2141.cs)             | Hard       |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | [C#](./src/CSharp/Solutions/Solution2144.cs)             | Easy       |
+| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences) | [C#](./src/CSharp/Solutions/Solution2145.cs)             | Medium     |
+| 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range) | [C#](./src/CSharp/Solutions/Solution2146.cs)             | Medium     |
+| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor) | [C#](./src/CSharp/Solutions/Solution2147.cs)             | Medium     |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [C#](./src/CSharp/Solutions/Solution2148.cs)             | Easy       |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [C#](./src/CSharp/Solutions/Solution2149.cs)             | Medium     |
+| 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array) | [C#](./src/CSharp/Solutions/Solution2150.cs)             | Medium     |
+| 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements) | [C#](./src/CSharp/Solutions/Solution2151.cs)             | Hard       |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [C#](./src/CSharp/Solutions/Solution2154.cs)             | Easy       |
+| 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array) | [C#](./src/CSharp/Solutions/Solution2155.cs)             | Medium     |
+| 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value) | [C#](./src/CSharp/Solutions/Solution2156.cs)             | Hard       |
+| 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings) | [C#](./src/CSharp/Solutions/Solution2157.cs)             | Hard       |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [C#](./src/CSharp/Solutions/Solution2160.cs)             | Easy       |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [C#](./src/CSharp/Solutions/Solution2161.cs)             | Medium     |
+| 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time) | [C#](./src/CSharp/Solutions/Solution2162.cs)             | Medium     |
+| 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) | [C#](./src/CSharp/Solutions/Solution2163.cs)             | Hard       |
+| 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | [C#](./src/CSharp/Solutions/Solution2164.cs)             | Easy       |
+| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number) | [C#](./src/CSharp/Solutions/Solution2165.cs)             | Medium     |
+| 2166 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal) | [C#](./src/CSharp/Solutions/Solution2166.cs)             | Medium     |
+| 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods)| [C#](./src/CSharp/Solutions/Solution2167.cs)             | Hard       |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium |
