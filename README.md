@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions (C#, TypeScript, Java, SQL)
 
 LeetCode problems and solutions.
 
