@@ -1764,6 +1764,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid) | Hard | [C#](src/CSharp/Solutions/Solution2328.cs) |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | Easy | [C#](src/CSharp/Solutions/Solution2331.cs) |
 | 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus) | [C#](./src/CSharp/Solutions/Solution2332.cs) | Medium |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference) | [C#](./src/CSharp/Solutions/Solution2333.cs) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
