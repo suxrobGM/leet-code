@@ -1772,6 +1772,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) | [C#](./src/CSharp/Solutions/Solution2338.cs) | Hard |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | [C#](./src/CSharp/Solutions/Solution2341.cs) | Easy |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | [C#](./src/CSharp/Solutions/Solution2342.cs) | Medium |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number) | [C#](./src/CSharp/Solutions/Solution2343.cs) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
