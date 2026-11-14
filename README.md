@@ -1781,6 +1781,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | [C#](./src/CSharp/Solutions/Solution2351.cs) | Easy |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | [C#](./src/CSharp/Solutions/Solution2352.cs) | Medium |
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system) | [C#](./src/CSharp/Solutions/Solution2353.cs) | Medium |
+| 2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs) | [C#](./src/CSharp/Solutions/Solution2354.cs) | Hard |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
