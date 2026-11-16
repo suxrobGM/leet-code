@@ -1783,6 +1783,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system) | [C#](./src/CSharp/Solutions/Solution2353.cs) | Medium |
 | 2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs) | [C#](./src/CSharp/Solutions/Solution2354.cs) | Hard |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [SQL](./src/SQL/Solution2356.sql) | Easy |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | [C#](./src/CSharp/Solutions/Solution2357.cs) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
