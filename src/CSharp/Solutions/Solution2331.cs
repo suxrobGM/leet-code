@@ -1,3 +1,5 @@
+using LeetCode.DataStructures;
+
 namespace LeetCode.Solutions;
 
 public class Solution2331
