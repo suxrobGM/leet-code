@@ -1787,6 +1787,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2358 | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition) | [C#](./src/CSharp/Solutions/Solution2358.cs) | Medium |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [C#](./src/CSharp/Solutions/Solution2359.cs) | Medium |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph) | [C#](./src/CSharp/Solutions/Solution2360.cs) | Hard |
+| 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | [C#](./src/CSharp/Solutions/Solution2363.cs) | Easy |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
