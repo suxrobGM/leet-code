@@ -1789,6 +1789,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph) | [C#](./src/CSharp/Solutions/Solution2360.cs) | Hard |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | [C#](./src/CSharp/Solutions/Solution2363.cs) | Easy |
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | [C#](./src/CSharp/Solutions/Solution2364.cs) | Medium |
+| 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii) | [C#](./src/CSharp/Solutions/Solution2365.cs) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
