@@ -1792,6 +1792,7 @@ My profile on LeetCode: <https://leetcode.com/u/SuxrobGM>
 | 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii) | [C#](./src/CSharp/Solutions/Solution2365.cs) | Medium |
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) | [C#](./src/CSharp/Solutions/Solution2366.cs) | Hard |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [C#](./src/CSharp/Solutions/Solution2367.cs) | Easy |
+| 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions) | [C#](./src/CSharp/Solutions/Solution2368.cs) | Medium |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit)                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2622.ts) | Medium     |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep)                                                                                                                                                 | [TypeScript](./src/TypeScript/solutions/solution2621.ts) | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize)                                                                                                                                             | [TypeScript](./src/TypeScript/solutions/solution2623.ts) | Medium     |
